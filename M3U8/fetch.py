@@ -69,7 +69,8 @@ def main() -> None:
     m3u8_file.write_text(
         '#EXTM3U url-tvg="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/EPG/TV.xml"\n'
         + "\n".join(base_m3u8)
-        + "\n".join(lines)
+        + "\n"
+        + "".join(lines)
         + "\n",
         encoding="utf-8",
     )
