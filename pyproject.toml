@@ -1,7 +1,7 @@
 [project]
 name = "iptv"
 version = "0.0.2"
-requires-python = ">=3.13"
+requires-python = ">=3.10"
 dependencies = [
     "beautifulsoup4>=4.13.4",
     "httpx>=0.28.1",

@@ -11,28 +11,20 @@ base_file = Path(__file__).parent / "tvpass.json"
 urls: dict[str, str] = {}
 
 
-def fetch_m3u8() -> list[str] | None:
+def fetch_m3u8(client: httpx.Client) -> list[str] | None:
     try:
-        r = httpx.get(
-            base_url,
-            follow_redirects=True,
-            timeout=5,
-        )
-
+        r = client.get(base_url)
         r.raise_for_status()
-
     except Exception as e:
         print(f'Failed to fetch "{base_url}"\n{e}')
-
-        return
 
     return r.text.splitlines()
 
 
-def main() -> None:
+def main(client: httpx.Client) -> None:
     print(f'Scraping from "{base_url}"')
 
-    if not (data := fetch_m3u8()):
+    if not (data := fetch_m3u8(client)):
         return
 
     for i in range(len(data) - 1):
@@ -65,5 +57,6 @@ def main() -> None:
         base_file.write_text(json.dumps(urls, indent=2), encoding="utf-8")
 
 
-if __name__ == "__main__":
-    main()
+# if __name__ == "__main__":
+#     # create client beforehand
+#     main()

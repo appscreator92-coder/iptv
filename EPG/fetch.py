@@ -13,18 +13,18 @@ epg_urls = [
     "https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz",
 ]
 
+client = httpx.Client(
+    timeout=5,
+    follow_redirects=True,
+    headers={
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+    },
+)
+
 
 def fetch_tvg_ids() -> dict[str, str]:
     try:
-        r = httpx.get(
-            "https://spoo.me/mvrlVh",
-            follow_redirects=True,
-            timeout=5,
-            headers={
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-            },
-        )
-
+        r = client.get("https://spoo.me/mvrlVh")
         r.raise_for_status()
     except Exception as e:
         raise SystemExit(f"Failed to fetch TVG IDs\n{e}") from e
@@ -34,12 +34,7 @@ def fetch_tvg_ids() -> dict[str, str]:
 
 def fetch_xml(url: str) -> ET.Element:
     try:
-        r = httpx.get(
-            url,
-            follow_redirects=True,
-            timeout=5,
-        )
-
+        r = client.get(url)
         r.raise_for_status()
     except Exception as e:
         raise SystemExit(f'Failed to fetch "{url}"\n{e}') from e

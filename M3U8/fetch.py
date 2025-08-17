@@ -13,17 +13,20 @@ base = "http://m3u4u.com/m3u/d5k2nvp8w2t3w2k1n984"
 
 current_hour = datetime.now(pytz.timezone("America/New_York")).hour
 
+client = httpx.Client(
+    timeout=5,
+    follow_redirects=True,
+    headers={
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+    },
+)
+
 
 def vanilla_fetch() -> tuple[list[str], int]:
     print("Fetching base M3U8")
 
     try:
-        r = httpx.get(
-            base,
-            follow_redirects=True,
-            timeout=5,
-        )
-
+        r = client.get(base)
         r.raise_for_status()
     except Exception as e:
         raise SystemExit(f'Failed to fetch "{base}"\n{e}') from e
@@ -39,37 +42,37 @@ def vanilla_fetch() -> tuple[list[str], int]:
 
 def main() -> None:
     if current_hour <= 11:
-        tvpass.main()
+        tvpass.main(client)
     else:
         try:
             tvpass.urls = json.loads(tvpass.base_file.read_text(encoding="utf-8"))
         except (FileNotFoundError, json.JSONDecodeError):
             pass
 
-    fstv.main()
+    fstv.main(client)
 
     base_m3u8, chnl_number = vanilla_fetch()
+
+    additions = {**tvpass.urls, **fstv.urls}
+
+    lines = []
+
+    for event, url in additions.items():
+        chnl_number += 1
+        lines.append(
+            f'#EXTINF:-1 tvg-chno="{chnl_number}"'
+            f' tvg-id="(N/A)" tvg-name="{event}"'
+            ' tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png"'
+            f' group-title="Live Events",{event}\n{url}\n'
+        )
 
     m3u8_file.write_text(
         '#EXTM3U url-tvg="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/EPG/TV.xml"\n'
         + "\n".join(base_m3u8)
+        + "\n".join(lines)
         + "\n",
         encoding="utf-8",
     )
-
-    additions = tvpass.urls | fstv.urls
-
-    for event, url in additions.items():
-        chnl_number += 1
-
-        with m3u8_file.open("a", encoding="utf-8") as f:
-            f.write(f'#EXTINF:-1 tvg-chno="{chnl_number}"')
-            f.write(f' tvg-id="(N/A)" tvg-name="{event}"')
-            f.write(
-                ' tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png"'
-            )
-            f.write(' group-title="Live Events"')
-            f.write(f",{event}\n{url}\n")
 
     print(f"M3U8 saved to {m3u8_file.name}")
 

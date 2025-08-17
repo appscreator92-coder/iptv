@@ -8,9 +8,9 @@ urls: dict[str, str] = {}
 mirrors = {"https://fstv.online", "https://fstv.space", "https://fstv.zip"}
 
 
-def check_status(l: str) -> bool:
+def check_status(client: httpx.Client, url: str) -> bool:
     try:
-        r = httpx.get(l)
+        r = client.get(url)
         r.raise_for_status()
     except Exception:
         return False
@@ -18,25 +18,21 @@ def check_status(l: str) -> bool:
     return r.status_code == 200
 
 
-def get_base() -> str:
-    for url in filter(check_status, mirrors):
+def get_base(client: httpx.Client) -> str:
+    for url in filter(lambda x: check_status(client, x), mirrors):
         return url
 
 
-def get_hrefs(base_url: str) -> list[tuple[str, str]] | tuple[None, None]:
+def get_hrefs(client: httpx.Client, base_url: str) -> list[tuple[str, str]]:
     print(f'Scraping from "{base_url}"')
 
     try:
-        r = httpx.get(
-            base_url,
-            timeout=5,
-        )
-
+        r = client.get(base_url)
         r.raise_for_status()
     except Exception as e:
         print(f'Failed to fetch "{base_url}"\n{e}')
 
-        return None, None
+        return []
 
     soup = BeautifulSoup(r.text, "lxml")
 
@@ -62,18 +58,14 @@ def get_hrefs(base_url: str) -> list[tuple[str, str]] | tuple[None, None]:
     return events.items()
 
 
-def fetch_m3u8(url: str) -> tuple[str, list[str]] | tuple[None, None]:
+def fetch_m3u8(client: httpx.Client, url: str) -> tuple[str, list[str]]:
     try:
-        r = httpx.get(
-            url,
-            timeout=5,
-        )
-
+        r = client.get(url)
         r.raise_for_status()
     except Exception as e:
         print(f'Failed to fetch "{url}"\n{e}')
 
-        return None, None
+        return []
 
     soup = BeautifulSoup(r.text, "lxml")
 
@@ -91,22 +83,22 @@ def fetch_m3u8(url: str) -> tuple[str, list[str]] | tuple[None, None]:
     return match_name, [btn["data-link"] for btn in btns if btn.has_attr("data-link")]
 
 
-def main() -> None:
-    for event, href in get_hrefs(get_base()):
+def main(client: httpx.Client) -> None:
+    base_url = get_base(client)
+
+    for event, href in get_hrefs(client, base_url):
 
         if not href:
-            return
+            continue
 
-        match_name, m3u8_urls = fetch_m3u8(href)
+        match_name, m3u8_urls = fetch_m3u8(client, href)
 
         if not m3u8_urls:
-            return
+            continue
 
         for i, link in enumerate(m3u8_urls, start=1):
             key = (
-                f"[{event}] (S{i})"
-                if not match_name
-                else f"[{event}] {match_name} (S{i})"
+                f"[{event}] {match_name} (S{i})" if match_name else f"[{event}] (S{i})"
             )
 
             urls[key] = link
@@ -114,5 +106,6 @@ def main() -> None:
     print(f"Collected {len(urls)} live events")
 
 
-if __name__ == "__main__":
-    main()
+# if __name__ == "__main__":
+#     # create client beforehand
+#     main()
