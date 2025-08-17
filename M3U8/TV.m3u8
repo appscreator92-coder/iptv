@@ -130,147 +130,95 @@ http://fl5.moveonjoy.com/TSN_2/index.m3u8
 #EXTINF:-1 tvg-chno="65" tvg-id="USA.Network.-.East.Feed.us" tvg-name="USA East" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11207_dark_360w_270h.png" group-title="TV",USA East
 http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/31124/index.m3u8
 #EXTINF:-1 tvg-chno="66" tvg-id="YES.Network.us" tvg-name="YES Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30017_dark_360w_270h.png" group-title="TV",YES Network
-https://fl5.moveonjoy.com/YES_NETWORK/index.m3u8#EXTINF:-1 tvg-chno="67" tvg-id="(N/A)" tvg-name="[MLB] Philadelphia Phillies @ Washington Nationals" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Philadelphia Phillies @ Washington Nationals
+https://fl5.moveonjoy.com/YES_NETWORK/index.m3u8
+#EXTINF:-1 tvg-chno="67" tvg-id="(N/A)" tvg-name="[MLB] Philadelphia Phillies @ Washington Nationals" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Philadelphia Phillies @ Washington Nationals
 https://tvpass.org/live/mlb-01/sd
-
 #EXTINF:-1 tvg-chno="68" tvg-id="(N/A)" tvg-name="[WNBA] Indiana Fever @ Connecticut Sun" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[WNBA] Indiana Fever @ Connecticut Sun
 https://tvpass.org/live/WNBA01/sd
-
 #EXTINF:-1 tvg-chno="69" tvg-id="(N/A)" tvg-name="[NFL] Jacksonville Jaguars @ New Orleans Saints" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[NFL] Jacksonville Jaguars @ New Orleans Saints
 https://tvpass.org/live/NFL23/sd
-
 #EXTINF:-1 tvg-chno="70" tvg-id="(N/A)" tvg-name="[MLB] Miami Marlins @ Boston Red Sox" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Miami Marlins @ Boston Red Sox
 https://tvpass.org/live/mlb-22/sd
-
 #EXTINF:-1 tvg-chno="71" tvg-id="(N/A)" tvg-name="[MLB] Texas Rangers @ Toronto Blue Jays" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Texas Rangers @ Toronto Blue Jays
 https://tvpass.org/live/mlb-12/sd
-
 #EXTINF:-1 tvg-chno="72" tvg-id="(N/A)" tvg-name="[MLB] Atlanta Braves @ Cleveland Guardians" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Atlanta Braves @ Cleveland Guardians
 https://tvpass.org/live/mlb-30/sd
-
 #EXTINF:-1 tvg-chno="73" tvg-id="(N/A)" tvg-name="[MLB] Milwaukee Brewers @ Cincinnati Reds" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Milwaukee Brewers @ Cincinnati Reds
 https://tvpass.org/live/mlb-04/sd
-
 #EXTINF:-1 tvg-chno="74" tvg-id="(N/A)" tvg-name="[MLB] Baltimore Orioles @ Houston Astros" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Baltimore Orioles @ Houston Astros
 https://tvpass.org/live/mlb-06/sd
-
 #EXTINF:-1 tvg-chno="75" tvg-id="(N/A)" tvg-name="[MLB] Chicago White Sox @ Kansas City Royals" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Chicago White Sox @ Kansas City Royals
 https://tvpass.org/live/mlb-05/sd
-
 #EXTINF:-1 tvg-chno="76" tvg-id="(N/A)" tvg-name="[MLB] Detroit Tigers @ Minnesota Twins" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Detroit Tigers @ Minnesota Twins
 https://tvpass.org/live/mlb-20/sd
-
 #EXTINF:-1 tvg-chno="77" tvg-id="(N/A)" tvg-name="[MLB] New York Yankees @ St. Louis Cardinals" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] New York Yankees @ St. Louis Cardinals
 https://tvpass.org/live/mlb-08/sd
-
 #EXTINF:-1 tvg-chno="78" tvg-id="(N/A)" tvg-name="[MLB] Pittsburgh Pirates @ Chicago Cubs" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Pittsburgh Pirates @ Chicago Cubs
 https://tvpass.org/live/mlb-23/sd
-
 #EXTINF:-1 tvg-chno="79" tvg-id="(N/A)" tvg-name="[WNBA] Los Angeles Sparks @ Washington Mystics" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[WNBA] Los Angeles Sparks @ Washington Mystics
 https://tvpass.org/live/WNBA02/sd
-
 #EXTINF:-1 tvg-chno="80" tvg-id="(N/A)" tvg-name="[MLB] Arizona Diamondbacks @ Colorado Rockies" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Arizona Diamondbacks @ Colorado Rockies
 https://tvpass.org/live/mlb-25/sd
-
 #EXTINF:-1 tvg-chno="81" tvg-id="(N/A)" tvg-name="[WNBA] Dallas Wings @ Las Vegas Aces" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[WNBA] Dallas Wings @ Las Vegas Aces
 https://tvpass.org/live/WNBA03/sd
-
 #EXTINF:-1 tvg-chno="82" tvg-id="(N/A)" tvg-name="[MLB] Los Angeles Angels @ Oakland Athletics" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Los Angeles Angels @ Oakland Athletics
 https://tvpass.org/live/mlb-19/sd
-
 #EXTINF:-1 tvg-chno="83" tvg-id="(N/A)" tvg-name="[MLB] Tampa Bay Rays @ San Francisco Giants" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Tampa Bay Rays @ San Francisco Giants
 https://tvpass.org/live/mlb-27/sd
-
 #EXTINF:-1 tvg-chno="84" tvg-id="(N/A)" tvg-name="[MLB] San Diego Padres @ Los Angeles Dodgers" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] San Diego Padres @ Los Angeles Dodgers
 https://tvpass.org/live/mlb-14/sd
-
 #EXTINF:-1 tvg-chno="85" tvg-id="(N/A)" tvg-name="[WNBA] Phoenix Mercury @ Seattle Storm" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[WNBA] Phoenix Mercury @ Seattle Storm
 https://tvpass.org/live/WNBA04/sd
-
 #EXTINF:-1 tvg-chno="86" tvg-id="(N/A)" tvg-name="[MLB] Seattle Mariners @ New York Mets" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Seattle Mariners @ New York Mets
 https://tvpass.org/live/mlb-24/sd
-
 #EXTINF:-1 tvg-chno="87" tvg-id="(N/A)" tvg-name="[NFL] Buffalo Bills @ Chicago Bears" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[NFL] Buffalo Bills @ Chicago Bears
 https://tvpass.org/live/NFL11/sd
-
 #EXTINF:-1 tvg-chno="88" tvg-id="(N/A)" tvg-name="[WNBA] Atlanta Dream @ Golden State Valkyries" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[WNBA] Atlanta Dream @ Golden State Valkyries
 https://tvpass.org/live/WNBA05/sd
-
 #EXTINF:-1 tvg-chno="89" tvg-id="(N/A)" tvg-name="[La Liga] Espanyol vs Atletico Madrid (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[La Liga] Espanyol vs Atletico Madrid (S1)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZmI2MjFhZjYyOGVlLWUyNjgtNDI5NC03ZjVkLTc1M2ZjN2Q5/master.m3u8
-
 #EXTINF:-1 tvg-chno="90" tvg-id="(N/A)" tvg-name="[La Liga] Espanyol vs Atletico Madrid (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[La Liga] Espanyol vs Atletico Madrid (S2)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZThmNWEzNDc4Y2UzLWJhZjgtMjBlNC1hY2UyLTcxZDZhOWYx/master.m3u8
-
 #EXTINF:-1 tvg-chno="91" tvg-id="(N/A)" tvg-name="[La Liga] Espanyol vs Atletico Madrid (S3)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[La Liga] Espanyol vs Atletico Madrid (S3)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MmUzYTQyNGU1ODZjLWE1OTgtYTE5NC1lYzcwLWEyZmVjOTk1/master.m3u8
-
 #EXTINF:-1 tvg-chno="92" tvg-id="(N/A)" tvg-name="[La Liga] Espanyol vs Atletico Madrid (S4)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[La Liga] Espanyol vs Atletico Madrid (S4)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1M2Q1YmI0NDBiOWI2LWRiNGEtNGRjNC1iODU4LTZkYzE3YTM4/master.m3u8
-
 #EXTINF:-1 tvg-chno="93" tvg-id="(N/A)" tvg-name="[La Liga] Espanyol vs Atletico Madrid (S5)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[La Liga] Espanyol vs Atletico Madrid (S5)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MmY4Yjc0ZDFiNzdhLTYzN2EtNzIwNC0wNmEyLWEzM2EwMDM2/master.m3u8
-
-#EXTINF:-1 tvg-chno="94" tvg-id="(N/A)" tvg-name="[Coppa Italia] AC Milan vs Bari (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Coppa Italia] AC Milan vs Bari (S1)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NjE4YmE5OWMzMmQxLTEwNjktZTM0NC1jOTY0LTNlOGM3ZDU2/master.m3u8
-
-#EXTINF:-1 tvg-chno="95" tvg-id="(N/A)" tvg-name="[Coppa Italia] AC Milan vs Bari (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Coppa Italia] AC Milan vs Bari (S2)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OWNmNjMwNGM1YWY2LThiOTktYWNhNC1jZDYyLTIwMzU3YzRl/master.m3u8
-
-#EXTINF:-1 tvg-chno="96" tvg-id="(N/A)" tvg-name="[Pay-Per-View] PPV EVENT 01 - SuperBikes MotoAmerican Mid Ohio 💥 (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Pay-Per-View] PPV EVENT 01 - SuperBikes MotoAmerican Mid Ohio 💥 (S1)
+#EXTINF:-1 tvg-chno="94" tvg-id="(N/A)" tvg-name="[Pay-Per-View] PPV EVENT 01 - SuperBikes MotoAmerican Mid Ohio 💥 (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Pay-Per-View] PPV EVENT 01 - SuperBikes MotoAmerican Mid Ohio 💥 (S1)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MmE5NzNhNzFlMzdhLTNmZjktNjdjNC1kYTY1LTNiNzRjNzUw/master.m3u8
-
-#EXTINF:-1 tvg-chno="97" tvg-id="(N/A)" tvg-name="[Liga Profesional Argentina] Banfield vs Estudiantes L.P. (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Liga Profesional Argentina] Banfield vs Estudiantes L.P. (S1)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ODI0ZTBhMTdkMjViLTM3MWEtZTVkNC0yNTc4LWU3MDM0ZGY4/master.m3u8
-
+#EXTINF:-1 tvg-chno="95" tvg-id="(N/A)" tvg-name="[Primeira Liga] Sporting CP vs Arouca (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Primeira Liga] Sporting CP vs Arouca (S1)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZjVlNWIwODJkNzc2LTNjZTgtMTNmNC1mM2Q3LWUzMjU5OTNh/master.m3u8
+#EXTINF:-1 tvg-chno="96" tvg-id="(N/A)" tvg-name="[Primeira Liga] Sporting CP vs Arouca (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Primeira Liga] Sporting CP vs Arouca (S2)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OWQ3NWJhMGY1Zjk0LTU3OTgtNmUwNC05YTkyLWM1M2IyNzA0/master.m3u8
+#EXTINF:-1 tvg-chno="97" tvg-id="(N/A)" tvg-name="[Primeira Liga] Sporting CP vs Arouca (S3)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Primeira Liga] Sporting CP vs Arouca (S3)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZTgxZjlkYTM1ZjQzLWFiZWItNWM2NC05NjQ3LWNiMGZiZTRk/master.m3u8
 #EXTINF:-1 tvg-chno="98" tvg-id="(N/A)" tvg-name="[Major League Soccer] New York City FC vs Nashville SC (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Major League Soccer] New York City FC vs Nashville SC (S1)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NGUxYzEzMWY3MTU1LTMxMDgtYjE1NC0yOTFiLTc1OTk4Y2Y2/master.m3u8
-
 #EXTINF:-1 tvg-chno="99" tvg-id="(N/A)" tvg-name="[Major League Soccer] New York City FC vs Nashville SC (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Major League Soccer] New York City FC vs Nashville SC (S2)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LwEWOldjM5UDN3UGOtY2Y1kTLjRGN00COzI2NtMTM3MTZjBTO/master.m3u8
-
-#EXTINF:-1 tvg-chno="100" tvg-id="(N/A)" tvg-name="[Primeira Liga] Sporting CP vs Arouca (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Primeira Liga] Sporting CP vs Arouca (S1)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZjVlNWIwODJkNzc2LTNjZTgtMTNmNC1mM2Q3LWUzMjU5OTNh/master.m3u8
-
-#EXTINF:-1 tvg-chno="101" tvg-id="(N/A)" tvg-name="[Primeira Liga] Sporting CP vs Arouca (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Primeira Liga] Sporting CP vs Arouca (S2)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OWQ3NWJhMGY1Zjk0LTU3OTgtNmUwNC05YTkyLWM1M2IyNzA0/master.m3u8
-
-#EXTINF:-1 tvg-chno="102" tvg-id="(N/A)" tvg-name="[Primeira Liga] Sporting CP vs Arouca (S3)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Primeira Liga] Sporting CP vs Arouca (S3)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZTgxZjlkYTM1ZjQzLWFiZWItNWM2NC05NjQ3LWNiMGZiZTRk/master.m3u8
-
-#EXTINF:-1 tvg-chno="103" tvg-id="(N/A)" tvg-name="[MLB] Houston Astros vs Baltimore Orioles (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Houston Astros vs Baltimore Orioles (S1)
+#EXTINF:-1 tvg-chno="100" tvg-id="(N/A)" tvg-name="[MLB] Houston Astros vs Baltimore Orioles (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Houston Astros vs Baltimore Orioles (S1)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YWJlMThkMjA2NDU5LWY3ODktNjQ1NC00MDI0LTY1MzZiMTI4/master.m3u8
-
-#EXTINF:-1 tvg-chno="104" tvg-id="(N/A)" tvg-name="[NWSL Women] NJ/NY Gotham FC W vs Houston Dash W (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[NWSL Women] NJ/NY Gotham FC W vs Houston Dash W (S1)
+#EXTINF:-1 tvg-chno="101" tvg-id="(N/A)" tvg-name="[NWSL Women] NJ/NY Gotham FC W vs Houston Dash W (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[NWSL Women] NJ/NY Gotham FC W vs Houston Dash W (S1)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NjU5NGU0NzYwMGEwLTIwZmItMWNiNC1iMDI4LTYzZmM5NjU3/master.m3u8
-
-#EXTINF:-1 tvg-chno="105" tvg-id="(N/A)" tvg-name="[Segunda División] Las Palmas vs FC Andorra (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Segunda División] Las Palmas vs FC Andorra (S1)
+#EXTINF:-1 tvg-chno="102" tvg-id="(N/A)" tvg-name="[Segunda División] Las Palmas vs FC Andorra (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Segunda División] Las Palmas vs FC Andorra (S1)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZDRlNDgwZWI3ZmMzLTNjMDgtMmQ5NC1mNTk4LTFlYzRhZmE3/master.m3u8
-
-#EXTINF:-1 tvg-chno="106" tvg-id="(N/A)" tvg-name="[Segunda División] Las Palmas vs FC Andorra (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Segunda División] Las Palmas vs FC Andorra (S2)
+#EXTINF:-1 tvg-chno="103" tvg-id="(N/A)" tvg-name="[Segunda División] Las Palmas vs FC Andorra (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Segunda División] Las Palmas vs FC Andorra (S2)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LlNTZkFjNzQ2N0cjMtgTZilTLzgTM00yMhRTYtYGMhFzY3AzN/master.m3u8
-
-#EXTINF:-1 tvg-chno="107" tvg-id="(N/A)" tvg-name="[Golf] BMW Championship, Final Round - PGA Tour Golf (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Golf] BMW Championship, Final Round - PGA Tour Golf (S1)
+#EXTINF:-1 tvg-chno="104" tvg-id="(N/A)" tvg-name="[Golf] BMW Championship, Final Round - PGA Tour Golf (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Golf] BMW Championship, Final Round - PGA Tour Golf (S1)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OWQwNWM4NGU1NzQ0LWIzZTgtOTUyNC0wMjA2LWNjMWE3YTQw/master.m3u8
-
-#EXTINF:-1 tvg-chno="108" tvg-id="(N/A)" tvg-name="[Golf] BMW Championship, Final Round - PGA Tour Golf (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Golf] BMW Championship, Final Round - PGA Tour Golf (S2)
+#EXTINF:-1 tvg-chno="105" tvg-id="(N/A)" tvg-name="[Golf] BMW Championship, Final Round - PGA Tour Golf (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Golf] BMW Championship, Final Round - PGA Tour Golf (S2)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZTg2ZTEzZTk2ZTQzLThiMmEtYzkxNC04ODNhLTM5MThlZGQz/master.m3u8
-
-#EXTINF:-1 tvg-chno="109" tvg-id="(N/A)" tvg-name="[NBA W] Las Vegas Aces W vs Dallas Wings W (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[NBA W] Las Vegas Aces W vs Dallas Wings W (S1)
+#EXTINF:-1 tvg-chno="106" tvg-id="(N/A)" tvg-name="[NBA W] Las Vegas Aces W vs Dallas Wings W (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[NBA W] Las Vegas Aces W vs Dallas Wings W (S1)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MzMyYzk1MGY3ZWIyLWM3NzgtNjNkNC1jODNhLWZmYjRjYzg1/master.m3u8
-
-#EXTINF:-1 tvg-chno="110" tvg-id="(N/A)" tvg-name="[NBA W] Las Vegas Aces W vs Dallas Wings W (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[NBA W] Las Vegas Aces W vs Dallas Wings W (S2)
+#EXTINF:-1 tvg-chno="107" tvg-id="(N/A)" tvg-name="[NBA W] Las Vegas Aces W vs Dallas Wings W (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[NBA W] Las Vegas Aces W vs Dallas Wings W (S2)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LxITN2UjYxATZkVzNtYzMyIWLlJWM00SYhRjZtAzNyEGO3gTY/master.m3u8
-
-#EXTINF:-1 tvg-chno="111" tvg-id="(N/A)" tvg-name="[Tennis] Cincinnati Open	🎾 (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Tennis] Cincinnati Open	🎾 (S1)
+#EXTINF:-1 tvg-chno="108" tvg-id="(N/A)" tvg-name="[Tennis] Cincinnati Open	🎾 (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Tennis] Cincinnati Open	🎾 (S1)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1N2RiNWY4OGU0MWUwLTk5MmEtZDk2NC1jZDM3LTE0Yzg5ZDUz/master.m3u8
-
-#EXTINF:-1 tvg-chno="112" tvg-id="(N/A)" tvg-name="[Tennis] Cincinnati Open	🎾 (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Tennis] Cincinnati Open	🎾 (S2)
+#EXTINF:-1 tvg-chno="109" tvg-id="(N/A)" tvg-name="[Tennis] Cincinnati Open	🎾 (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Tennis] Cincinnati Open	🎾 (S2)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZmNhYTQ1ODQ5MGE2LTljYTktZGY1NC01NDRlLWMyZTQ3NjBm/master.m3u8
-
-#EXTINF:-1 tvg-chno="113" tvg-id="(N/A)" tvg-name="[Canadian Premier League] Forge vs Atlético Ottawa (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Canadian Premier League] Forge vs Atlético Ottawa (S1)
+#EXTINF:-1 tvg-chno="110" tvg-id="(N/A)" tvg-name="[Canadian Premier League] Forge vs Atlético Ottawa (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Canadian Premier League] Forge vs Atlético Ottawa (S1)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MDY4NGMzM2Q5MTkzLTAwN2EtN2I0NC1lOTFmLTM3ZTAyMTEy/master.m3u8
-
-#EXTINF:-1 tvg-chno="114" tvg-id="(N/A)" tvg-name="[Canadian Premier League] Forge vs Atlético Ottawa (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Canadian Premier League] Forge vs Atlético Ottawa (S2)
+#EXTINF:-1 tvg-chno="111" tvg-id="(N/A)" tvg-name="[Canadian Premier League] Forge vs Atlético Ottawa (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Canadian Premier League] Forge vs Atlético Ottawa (S2)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTY5MDFkNTVlYjFmLTEwMGItOWQ2NC0yYWE2LWVkYWYwMGYy/master.m3u8
 
