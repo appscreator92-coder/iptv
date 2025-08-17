@@ -1,0 +1,56 @@
+name: fetch m3u8
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+jobs:
+  m3u8-fetcher:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check time
+        run: |
+          hour=$(TZ=America/New_York date +%-H)
+
+          if [ "$hour" -lt 8 ] || [ "$hour" -gt 23 ]; then
+            exit 78
+          fi
+
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Cache venv
+        uses: actions/cache@v3
+        with:
+          path: .venv
+          key: shared-venv-${{ runner.os }}-${{ hashFiles('uv.lock') }}
+          restore-keys: |
+            shared-venv-${{ runner.os }}-
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v6
+        with:
+          version: "latest"
+          enable-cache: true
+          ignore-nothing-to-cache: true
+          cache-dependency-glob: "uv.lock"
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version-file: "pyproject.toml"
+
+      - name: Fetch M3U8
+        run: uv run M3U8/fetch.py
+
+      - name: Push changes
+        uses: stefanzweifel/git-auto-commit-action@v6
+        with:
+          commit_message: "update M3U8"
+          file_pattern: "M3U8/TV.m3u8 M3U8/scrape/tvpass.json"
+          commit_author: "GitHub Actions Bot <actions@github.com>"
+          commit_user_name: "GitHub Actions Bot"
+          commit_user_email: "actions@github.com"
