@@ -175,45 +175,63 @@ https://tvpass.org/live/mlb-24/sd
 https://tvpass.org/live/NFL11/sd
 #EXTINF:-1 tvg-chno="88" tvg-id="(N/A)" tvg-name="[WNBA] Atlanta Dream @ Golden State Valkyries" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[WNBA] Atlanta Dream @ Golden State Valkyries
 https://tvpass.org/live/WNBA05/sd
-#EXTINF:-1 tvg-chno="89" tvg-id="(N/A)" tvg-name="[Premier League] Chelsea vs Crystal Palace (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Premier League] Chelsea vs Crystal Palace (S1)
+#EXTINF:-1 tvg-chno="89" tvg-id="(N/A)" tvg-name="[Premier League] Manchester United vs Arsenal (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Premier League] Manchester United vs Arsenal (S1)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OTE2YjUwMDY3YzhlLTAzYzgtOTNlNC1lYzBkLWIzNjVmN2Uy/master.m3u8
-#EXTINF:-1 tvg-chno="90" tvg-id="(N/A)" tvg-name="[Premier League] Chelsea vs Crystal Palace (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Premier League] Chelsea vs Crystal Palace (S2)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YWM5OGZjM2FkNDI1LTc2MzgtMjMwNC00OTUyLWRmZGVhYzlh/master.m3u8
-#EXTINF:-1 tvg-chno="91" tvg-id="(N/A)" tvg-name="[Premier League] Chelsea vs Crystal Palace (S3)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Premier League] Chelsea vs Crystal Palace (S3)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LwMWNwQ2M5QjZkljMtEjYwEWLyUDM00iNyYWYtYTMhFzNkljN/master.m3u8
-#EXTINF:-1 tvg-chno="92" tvg-id="(N/A)" tvg-name="[Championship] Hull City vs Oxford United (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Championship] Hull City vs Oxford United (S1)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NjU5NGU0NzYwMGEwLTIwZmItMWNiNC1iMDI4LTYzZmM5NjU3/master.m3u8
-#EXTINF:-1 tvg-chno="93" tvg-id="(N/A)" tvg-name="[Championship] Hull City vs Oxford United (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Championship] Hull City vs Oxford United (S2)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzU2MjI0ZGQ0MTBhLTllNzgtMGEzNC0yNDg3LTUyMjFjZDUw/master.m3u8
-#EXTINF:-1 tvg-chno="94" tvg-id="(N/A)" tvg-name="[DFB Pokal] Lokomotive Leipzig vs FC Schalke 04 (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[DFB Pokal] Lokomotive Leipzig vs FC Schalke 04 (S1)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NWZjYWY1ZGRjOTljLWQzMjktMWZlNC1iYmZjLTM5YzY2ODFh/master.m3u8
-#EXTINF:-1 tvg-chno="95" tvg-id="(N/A)" tvg-name="[Ligue 1] Stade Brestois 29 vs Lille (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Ligue 1] Stade Brestois 29 vs Lille (S1)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NzdiN2IwMTM2MzRmLTAwNmItNjM3NC05ZWJmLWFmZmYxNzU2/master.m3u8
-#EXTINF:-1 tvg-chno="96" tvg-id="(N/A)" tvg-name="[Ligue 1] Stade Brestois 29 vs Lille (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Ligue 1] Stade Brestois 29 vs Lille (S2)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MWZlMDAwZTlmM2QyLWUzMGItYjVmNC0zMDhjLTViNGQ3YTRl/master.m3u8
-#EXTINF:-1 tvg-chno="97" tvg-id="(N/A)" tvg-name="[Moto GP] MotoGP | Round 13 | Austria  🏍 (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Moto GP] MotoGP | Round 13 | Austria  🏍 (S1)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NGY2YTlkMjFlMzNiLTNlN2ItZTQ4NC1jMWVjLWY5ZjU0Mzg5/master.m3u8
-#EXTINF:-1 tvg-chno="98" tvg-id="(N/A)" tvg-name="[Moto GP] MotoGP | Round 13 | Austria  🏍 (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Moto GP] MotoGP | Round 13 | Austria  🏍 (S2)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZmI4NzhmOGI3ZGUwLTU4Y2ItNjJhNC1iYjlmLTYyNGM4ZGZm/master.m3u8
-#EXTINF:-1 tvg-chno="99" tvg-id="(N/A)" tvg-name="[Eredivisie] Twente vs PSV Eindhoven (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Eredivisie] Twente vs PSV Eindhoven (S1)
+#EXTINF:-1 tvg-chno="90" tvg-id="(N/A)" tvg-name="[Premier League] Manchester United vs Arsenal (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Premier League] Manchester United vs Arsenal (S2)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NTMwMTUyNDhlM2ExLTAwMGItNjE3NC02OGM0LThjZDU4YmQy/master.m3u8
+#EXTINF:-1 tvg-chno="91" tvg-id="(N/A)" tvg-name="[Premier League] Manchester United vs Arsenal (S3)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Premier League] Manchester United vs Arsenal (S3)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OWQwNWM4NGU1NzQ0LWIzZTgtOTUyNC0wMjA2LWNjMWE3YTQw/master.m3u8
+#EXTINF:-1 tvg-chno="92" tvg-id="(N/A)" tvg-name="[La Liga] Celta Vigo vs Getafe (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[La Liga] Celta Vigo vs Getafe (S1)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZmI2MjFhZjYyOGVlLWUyNjgtNDI5NC03ZjVkLTc1M2ZjN2Q5/master.m3u8
+#EXTINF:-1 tvg-chno="93" tvg-id="(N/A)" tvg-name="[La Liga] Celta Vigo vs Getafe (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[La Liga] Celta Vigo vs Getafe (S2)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MmUzYTQyNGU1ODZjLWE1OTgtYTE5NC1lYzcwLWEyZmVjOTk1/master.m3u8
-#EXTINF:-1 tvg-chno="100" tvg-id="(N/A)" tvg-name="[Eredivisie] Twente vs PSV Eindhoven (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Eredivisie] Twente vs PSV Eindhoven (S2)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzRkNjI0OWU1Nzc5LTMyM2EtZWE5NC1lYTZhLWViODNhMTA0/master.m3u8
-#EXTINF:-1 tvg-chno="101" tvg-id="(N/A)" tvg-name="[Eredivisie] Twente vs PSV Eindhoven (S3)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Eredivisie] Twente vs PSV Eindhoven (S3)
+#EXTINF:-1 tvg-chno="94" tvg-id="(N/A)" tvg-name="[La Liga] Celta Vigo vs Getafe (S3)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[La Liga] Celta Vigo vs Getafe (S3)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MmY4Yjc0ZDFiNzdhLTYzN2EtNzIwNC0wNmEyLWEzM2EwMDM2/master.m3u8
+#EXTINF:-1 tvg-chno="95" tvg-id="(N/A)" tvg-name="[La Liga] Celta Vigo vs Getafe (S4)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[La Liga] Celta Vigo vs Getafe (S4)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1M2Q1YmI0NDBiOWI2LWRiNGEtNGRjNC1iODU4LTZkYzE3YTM4/master.m3u8
+#EXTINF:-1 tvg-chno="96" tvg-id="(N/A)" tvg-name="[Championship] Hull City vs Oxford United (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Championship] Hull City vs Oxford United (S1)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NjU5NGU0NzYwMGEwLTIwZmItMWNiNC1iMDI4LTYzZmM5NjU3/master.m3u8
+#EXTINF:-1 tvg-chno="97" tvg-id="(N/A)" tvg-name="[Championship] Hull City vs Oxford United (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Championship] Hull City vs Oxford United (S2)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzU2MjI0ZGQ0MTBhLTllNzgtMGEzNC0yNDg3LTUyMjFjZDUw/master.m3u8
+#EXTINF:-1 tvg-chno="98" tvg-id="(N/A)" tvg-name="[DFB Pokal] Lokomotive Leipzig vs FC Schalke 04 (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[DFB Pokal] Lokomotive Leipzig vs FC Schalke 04 (S1)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NWZjYWY1ZGRjOTljLWQzMjktMWZlNC1iYmZjLTM5YzY2ODFh/master.m3u8
+#EXTINF:-1 tvg-chno="99" tvg-id="(N/A)" tvg-name="[Ligue 1] Auxerre vs Lorient (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Ligue 1] Auxerre vs Lorient (S1)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGIyMWQzMDE2MGFiLWUwNDktMzBjNC1kNjUyLTljMWEzNzFi/master.m3u8
+#EXTINF:-1 tvg-chno="100" tvg-id="(N/A)" tvg-name="[Ligue 1] Auxerre vs Lorient (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Ligue 1] Auxerre vs Lorient (S2)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1M2RmZjBjOGUwMTBlLWVlMDgtNTA5NC02Y2ZmLTY5N2Y1ODc1/master.m3u8
+#EXTINF:-1 tvg-chno="101" tvg-id="(N/A)" tvg-name="[Primeira Liga] Rio Ave vs Nacional (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Primeira Liga] Rio Ave vs Nacional (S1)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZjVlNWIwODJkNzc2LTNjZTgtMTNmNC1mM2Q3LWUzMjU5OTNh/master.m3u8
+#EXTINF:-1 tvg-chno="102" tvg-id="(N/A)" tvg-name="[Moto GP] MotoGP | Round 13 | Austria  🏍 (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Moto GP] MotoGP | Round 13 | Austria  🏍 (S1)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NGY2YTlkMjFlMzNiLTNlN2ItZTQ4NC1jMWVjLWY5ZjU0Mzg5/master.m3u8
+#EXTINF:-1 tvg-chno="103" tvg-id="(N/A)" tvg-name="[Moto GP] MotoGP | Round 13 | Austria  🏍 (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Moto GP] MotoGP | Round 13 | Austria  🏍 (S2)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZmI4NzhmOGI3ZGUwLTU4Y2ItNjJhNC1iYjlmLTYyNGM4ZGZm/master.m3u8
+#EXTINF:-1 tvg-chno="104" tvg-id="(N/A)" tvg-name="[Eredivisie] FC Volendam vs AZ Alkmaar (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Eredivisie] FC Volendam vs AZ Alkmaar (S1)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NGM4MDIxNWRjYjQ2LTg3MTktNTAxNC0yYzRhLTJkNzQ0MTZi/master.m3u8
+#EXTINF:-1 tvg-chno="105" tvg-id="(N/A)" tvg-name="[Eredivisie] FC Volendam vs AZ Alkmaar (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Eredivisie] FC Volendam vs AZ Alkmaar (S2)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OWQ3NWJhMGY1Zjk0LTU3OTgtNmUwNC05YTkyLWM1M2IyNzA0/master.m3u8
-#EXTINF:-1 tvg-chno="102" tvg-id="(N/A)" tvg-name="[Racing] Sweden | MX2 | Race 1 & 2 (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Racing] Sweden | MX2 | Race 1 & 2 (S1)
+#EXTINF:-1 tvg-chno="106" tvg-id="(N/A)" tvg-name="[Bundesliga] Lask Linz vs Austria Vienna (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Bundesliga] Lask Linz vs Austria Vienna (S1)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZmFiYjQ0M2JlZGYwLTZkNGItNzQ2NC02YTljLTQxYjVkOWZk/master.m3u8
+#EXTINF:-1 tvg-chno="107" tvg-id="(N/A)" tvg-name="[Racing] Sweden | MX2 | Race 1 & 2 (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Racing] Sweden | MX2 | Race 1 & 2 (S1)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MzMyYzk1MGY3ZWIyLWM3NzgtNjNkNC1jODNhLWZmYjRjYzg1/master.m3u8
-#EXTINF:-1 tvg-chno="103" tvg-id="(N/A)" tvg-name="[Racing] Sweden | MX2 | Race 1 & 2 (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Racing] Sweden | MX2 | Race 1 & 2 (S2)
+#EXTINF:-1 tvg-chno="108" tvg-id="(N/A)" tvg-name="[Racing] Sweden | MX2 | Race 1 & 2 (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Racing] Sweden | MX2 | Race 1 & 2 (S2)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MDJhM2Q4MmIzYTc3LWJhMjgtMGM2NC0yN2IwLTA4M2Q2NDkz/master.m3u8
-#EXTINF:-1 tvg-chno="104" tvg-id="(N/A)" tvg-name="[Superliga] Viborg vs Silkeborg (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Superliga] Viborg vs Silkeborg (S1)
+#EXTINF:-1 tvg-chno="109" tvg-id="(N/A)" tvg-name="[Superliga] Viborg vs Silkeborg (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Superliga] Viborg vs Silkeborg (S1)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTc2NDgwOTY5NWI1LTUyY2ItNmI4NC0zZmIzLTY0MDFhNWE0/master.m3u8
-#EXTINF:-1 tvg-chno="105" tvg-id="(N/A)" tvg-name="[Betfred Super League] St Helens vs Huddersfield (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Betfred Super League] St Helens vs Huddersfield (S1)
+#EXTINF:-1 tvg-chno="110" tvg-id="(N/A)" tvg-name="[Betfred Super League] St Helens vs Huddersfield (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Betfred Super League] St Helens vs Huddersfield (S1)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NTVkYzFhNDNkNGI2LWUwMWItNDBmNC1jZDQwLTdhZmIxYWNl/master.m3u8
-#EXTINF:-1 tvg-chno="106" tvg-id="(N/A)" tvg-name="[Segunda Liga] Penafiel vs Oliveirense (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Segunda Liga] Penafiel vs Oliveirense (S1)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1Yjc3YTEzYzkzODQ4LWJmMDktZjVhNC1jOWMzLWJkMzQ5ZTRi/master.m3u8
-#EXTINF:-1 tvg-chno="107" tvg-id="(N/A)" tvg-name="[CYCLING] Czech Tour | Stage 4 - Men | Kroměříž - Pustevny (179km) (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[CYCLING] Czech Tour | Stage 4 - Men | Kroměříž - Pustevny (179km) (S1)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NTE5MmVjYzhmYTE3LWZkMDgtZDQ2NC0xMzU3LWE5MmE0Mzk3/master.m3u8
-#EXTINF:-1 tvg-chno="108" tvg-id="(N/A)" tvg-name="[Liga I] Csikszereda vs Universitatea Craiova (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Liga I] Csikszereda vs Universitatea Craiova (S1)
+#EXTINF:-1 tvg-chno="111" tvg-id="(N/A)" tvg-name="[Allsvenskan] Mjallby AIF vs Djurgardens IF (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Allsvenskan] Mjallby AIF vs Djurgardens IF (S1)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1M2UxZjNmZDBjZTI1LWZiOGItZjZkNC1lZjhlLTJkYWVlNzc2/master.m3u8
+#EXTINF:-1 tvg-chno="112" tvg-id="(N/A)" tvg-name="[Liga I] Csikszereda vs Universitatea Craiova (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Liga I] Csikszereda vs Universitatea Craiova (S1)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZmMxMGExZmZhMGU3LTg0ZmItNWVjNC1kZTg2LWU5ODZhYmQ2/master.m3u8
-#EXTINF:-1 tvg-chno="109" tvg-id="(N/A)" tvg-name="[League Cup] Livingston vs Hibernian (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[League Cup] Livingston vs Hibernian (S1)
+#EXTINF:-1 tvg-chno="113" tvg-id="(N/A)" tvg-name="[Cricket] St. Kitts and Nevis Patriots - Trinbago Knight Riders | T20 | Caribbean Premier League (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Cricket] St. Kitts and Nevis Patriots - Trinbago Knight Riders | T20 | Caribbean Premier League (S1)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NGY2YTlkMjFlMzNiLTNlN2ItZTQ4NC1jMWVjLWY5ZjU0Mzg5/master.m3u8
+#EXTINF:-1 tvg-chno="114" tvg-id="(N/A)" tvg-name="[League Cup] Livingston vs Hibernian (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[League Cup] Livingston vs Hibernian (S1)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MzNjMDhlOTYyYjc2LWY5NGEtMGI0NC03NjJjLWYwNjhmNjkx/master.m3u8
+#EXTINF:-1 tvg-chno="115" tvg-id="(N/A)" tvg-name="[Golf] BMW Championship, Final Round - PGA Tour Golf (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Golf] BMW Championship, Final Round - PGA Tour Golf (S1)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZTg2ZTEzZTk2ZTQzLThiMmEtYzkxNC04ODNhLTM5MThlZGQz/master.m3u8
+#EXTINF:-1 tvg-chno="116" tvg-id="(N/A)" tvg-name="[Golf] BMW Championship, Final Round - PGA Tour Golf (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Golf] BMW Championship, Final Round - PGA Tour Golf (S2)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NmNmOTRlN2Q4ZDg2LTlhNTktYjEyNC1iZGVkLWEzNjI5NzBh/master.m3u8
+#EXTINF:-1 tvg-chno="117" tvg-id="(N/A)" tvg-name="[Golf] BMW Championship, Final Round - PGA Tour Golf (S3)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Golf] BMW Championship, Final Round - PGA Tour Golf (S3)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OWQwNWM4NGU1NzQ0LWIzZTgtOTUyNC0wMjA2LWNjMWE3YTQw/master.m3u8
+#EXTINF:-1 tvg-chno="118" tvg-id="(N/A)" tvg-name="[Segunda División] Real Sociedad II vs Zaragoza (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Segunda División] Real Sociedad II vs Zaragoza (S1)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZDRlNDgwZWI3ZmMzLTNjMDgtMmQ5NC1mNTk4LTFlYzRhZmE3/master.m3u8
