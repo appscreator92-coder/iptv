@@ -165,26 +165,34 @@ https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YWM5OGZjM2Fk
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NTMwMTUyNDhlM2ExLTAwMGItNjE3NC02OGM0LThjZDU4YmQy/master.m3u8
 #EXTINF:-1 tvg-chno="83" tvg-id="(N/A)" tvg-name="[Premier League] Leeds vs Everton (S3)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Premier League] Leeds vs Everton (S3)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OTE2YjUwMDY3YzhlLTAzYzgtOTNlNC1lYzBkLWIzNjVmN2Uy/master.m3u8
-#EXTINF:-1 tvg-chno="84" tvg-id="(N/A)" tvg-name="[Coppa Italia] Spezia vs Sampdoria (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Coppa Italia] Spezia vs Sampdoria (S1)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZWViNzYxOTU1ODZkLTEzN2ItNmJmNC1lZmU4LTJhZjg5OWVh/master.m3u8
-#EXTINF:-1 tvg-chno="85" tvg-id="(N/A)" tvg-name="[Coppa Italia] Spezia vs Sampdoria (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Coppa Italia] Spezia vs Sampdoria (S2)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZWViNzYxOTU1ODZkLTEzN2ItNmJmNC1lZmU4LTJhZjg5OWVh/master.m3u8
-#EXTINF:-1 tvg-chno="86" tvg-id="(N/A)" tvg-name="[Coppa Italia] Spezia vs Sampdoria (S3)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Coppa Italia] Spezia vs Sampdoria (S3)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NDczNGRiNWVkN2QwLWU3NGItNmRkNC0wYjhiLTFjNmM2NTBj/master.m3u8
-#EXTINF:-1 tvg-chno="87" tvg-id="(N/A)" tvg-name="[DFB Pokal] Preußen Münster vs Hertha BSC (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[DFB Pokal] Preußen Münster vs Hertha BSC (S1)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YjQxNDMyYzU0MmEwLThkMzktZTQxNC00ZDE0LTlkYzg0MmZj/master.m3u8
-#EXTINF:-1 tvg-chno="88" tvg-id="(N/A)" tvg-name="[MLB] Chicago Cubs vs Milwaukee Brewers (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Chicago Cubs vs Milwaukee Brewers (S1)
+#EXTINF:-1 tvg-chno="84" tvg-id="(N/A)" tvg-name="[La Liga] Elche vs Real Betis (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[La Liga] Elche vs Real Betis (S1)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZmI2MjFhZjYyOGVlLWUyNjgtNDI5NC03ZjVkLTc1M2ZjN2Q5/master.m3u8
+#EXTINF:-1 tvg-chno="85" tvg-id="(N/A)" tvg-name="[La Liga] Elche vs Real Betis (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[La Liga] Elche vs Real Betis (S2)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MmUzYTQyNGU1ODZjLWE1OTgtYTE5NC1lYzcwLWEyZmVjOTk1/master.m3u8
+#EXTINF:-1 tvg-chno="86" tvg-id="(N/A)" tvg-name="[La Liga] Elche vs Real Betis (S3)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[La Liga] Elche vs Real Betis (S3)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MmY4Yjc0ZDFiNzdhLTYzN2EtNzIwNC0wNmEyLWEzM2EwMDM2/master.m3u8
+#EXTINF:-1 tvg-chno="87" tvg-id="(N/A)" tvg-name="[La Liga] Elche vs Real Betis (S4)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[La Liga] Elche vs Real Betis (S4)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1M2Q1YmI0NDBiOWI2LWRiNGEtNGRjNC1iODU4LTZkYzE3YTM4/master.m3u8
+#EXTINF:-1 tvg-chno="88" tvg-id="(N/A)" tvg-name="[Coppa Italia] Udinese vs Carrarese (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Coppa Italia] Udinese vs Carrarese (S1)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ODAwYTRhNzEzNjZjLWRmNWEtMWFmNC1iN2JkLTljMWFhYjY2/master.m3u8
+#EXTINF:-1 tvg-chno="89" tvg-id="(N/A)" tvg-name="[DFB Pokal] Rot-Weiß Essen vs Borussia Dortmund (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[DFB Pokal] Rot-Weiß Essen vs Borussia Dortmund (S1)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NWZjYWY1ZGRjOTljLWQzMjktMWZlNC1iYmZjLTM5YzY2ODFh/master.m3u8
+#EXTINF:-1 tvg-chno="90" tvg-id="(N/A)" tvg-name="[DFB Pokal] Rot-Weiß Essen vs Borussia Dortmund (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[DFB Pokal] Rot-Weiß Essen vs Borussia Dortmund (S2)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L0YGNhVDNmdDM5QmNtYzN2IWLlBDM00yMkhTNtUmZ2Y2YjJzY/master.m3u8
+#EXTINF:-1 tvg-chno="91" tvg-id="(N/A)" tvg-name="[Primeira Liga] GIL Vicente vs FC Porto (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Primeira Liga] GIL Vicente vs FC Porto (S1)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZjVlNWIwODJkNzc2LTNjZTgtMTNmNC1mM2Q3LWUzMjU5OTNh/master.m3u8
+#EXTINF:-1 tvg-chno="92" tvg-id="(N/A)" tvg-name="[Primeira Liga] GIL Vicente vs FC Porto (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Primeira Liga] GIL Vicente vs FC Porto (S2)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OWQ3NWJhMGY1Zjk0LTU3OTgtNmUwNC05YTkyLWM1M2IyNzA0/master.m3u8
+#EXTINF:-1 tvg-chno="93" tvg-id="(N/A)" tvg-name="[Primeira Liga] GIL Vicente vs FC Porto (S3)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Primeira Liga] GIL Vicente vs FC Porto (S3)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZTgxZjlkYTM1ZjQzLWFiZWItNWM2NC05NjQ3LWNiMGZiZTRk/master.m3u8
+#EXTINF:-1 tvg-chno="94" tvg-id="(N/A)" tvg-name="[MLB] Chicago Cubs vs Milwaukee Brewers (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Chicago Cubs vs Milwaukee Brewers (S1)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YjIxNDc1NzIwMTVhLTc5MDgtY2JhNC1iNmU0LTM4NzJiZjRj/master.m3u8
-#EXTINF:-1 tvg-chno="89" tvg-id="(N/A)" tvg-name="[Superliga] Odense vs Aarhus (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Superliga] Odense vs Aarhus (S1)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTgwODFiMzBlYjNjLTcyMzktZTUwNC0wOWRkLTY3NzE3NWUy/master.m3u8
-#EXTINF:-1 tvg-chno="90" tvg-id="(N/A)" tvg-name="[African Nations Championship] South Africa vs Uganda (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[African Nations Championship] South Africa vs Uganda (S1)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YWYzMWU2OTM4MGUwLWNjYTgtMjMxNC05YWMzLTNjYzFkMmI0/master.m3u8
-#EXTINF:-1 tvg-chno="91" tvg-id="(N/A)" tvg-name="[Segunda División] Sporting Gijon vs Cordoba (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Segunda División] Sporting Gijon vs Cordoba (S1)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZDRlNDgwZWI3ZmMzLTNjMDgtMmQ5NC1mNTk4LTFlYzRhZmE3/master.m3u8
-#EXTINF:-1 tvg-chno="92" tvg-id="(N/A)" tvg-name="[Allsvenskan] IFK Varnamo vs Degerfors IF (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Allsvenskan] IFK Varnamo vs Degerfors IF (S1)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1Y2JlNWExNDYwZjQ5LWIxZjgtZDg4NC1kMGJhLTVlN2I1YWQ5/master.m3u8
-#EXTINF:-1 tvg-chno="93" tvg-id="(N/A)" tvg-name="[Billiards] Ultimate Pool - Pairs Cup | Mixed | Group Stage  🎱 (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Billiards] Ultimate Pool - Pairs Cup | Mixed | Group Stage  🎱 (S1)
+#EXTINF:-1 tvg-chno="95" tvg-id="(N/A)" tvg-name="[Süper Lig] Kasimpasa vs Trabzonspor (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Süper Lig] Kasimpasa vs Trabzonspor (S1)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NzkwM2Y1YzdhN2YxLTMwNjktMjM0NC0xZThlLWVhYmVmM2Y5/master.m3u8
+#EXTINF:-1 tvg-chno="96" tvg-id="(N/A)" tvg-name="[Liga I] Farul Constanta vs Universitatea Cluj (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Liga I] Farul Constanta vs Universitatea Cluj (S1)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZmMxMGExZmZhMGU3LTg0ZmItNWVjNC1kZTg2LWU5ODZhYmQ2/master.m3u8
+#EXTINF:-1 tvg-chno="97" tvg-id="(N/A)" tvg-name="[Billiards] Ultimate Pool - Pairs Cup | Mixed | Group Stage  🎱 (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Billiards] Ultimate Pool - Pairs Cup | Mixed | Group Stage  🎱 (S1)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NTE5MmVjYzhmYTE3LWZkMDgtZDQ2NC0xMzU3LWE5MmE0Mzk3/master.m3u8
-#EXTINF:-1 tvg-chno="94" tvg-id="(N/A)" tvg-name="[Tennis] 2025 US Open Tennis - Men's & Women's Qualifying, First Round🎾 (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Tennis] 2025 US Open Tennis - Men's & Women's Qualifying, First Round🎾 (S1)
+#EXTINF:-1 tvg-chno="98" tvg-id="(N/A)" tvg-name="[Tennis] 2025 US Open Tennis - Men's & Women's Qualifying, First Round🎾 (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Tennis] 2025 US Open Tennis - Men's & Women's Qualifying, First Round🎾 (S1)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NDU1YzcxM2M4NDQ5LWIyYWEtNmE4NC0xMzY0LWZlMWUxYTc3/master.m3u8
 
