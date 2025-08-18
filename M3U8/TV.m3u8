@@ -115,66 +115,76 @@ http://cord-cutter.net:8080/25464931/30585186/10247
 http://cord-cutter.net:8080/25464931/30585186/108178
 #EXTINF:-1 tvg-chno="58" tvg-id="Starz.-.Eastern.us" tvg-name="Starz" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12719_dark_360w_270h.png" group-title="TV",Starz
 https://fl3.moveonjoy.com/STARZ/index.m3u8
-#EXTINF:-1 tvg-chno="59" tvg-id="TBS.-.East.us" tvg-name="TBS" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" group-title="TV",TBS
+#EXTINF:-1 tvg-chno="59" tvg-id="Syfy.-.Eastern.Feed.us" tvg-name="Syfy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11097_dark_360w_270h.png" group-title="TV",Syfy
+https://fl3.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1 tvg-chno="60" tvg-id="TBS.-.East.us" tvg-name="TBS" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" group-title="TV",TBS
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-chno="60" tvg-id="TLC.USA.-.Eastern.us" tvg-name="TLC" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" group-title="TV",TLC
+#EXTINF:-1 tvg-chno="61" tvg-id="TLC.USA.-.Eastern.us" tvg-name="TLC" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" group-title="TV",TLC
 http://fl1.moveonjoy.com/TLC/index.m3u8
-#EXTINF:-1 tvg-chno="61" tvg-id="TNT.-.Eastern.Feed.us" tvg-name="TNT" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="TV",TNT
+#EXTINF:-1 tvg-chno="62" tvg-id="TNT.-.Eastern.Feed.us" tvg-name="TNT" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="TV",TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-chno="62" tvg-id="truTV.USA.-.Eastern.us" tvg-name="truTV" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png" group-title="TV",truTV
+#EXTINF:-1 tvg-chno="63" tvg-id="truTV.USA.-.Eastern.us" tvg-name="truTV" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png" group-title="TV",truTV
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-chno="63" tvg-id="TSN1.ca" tvg-name="TSN1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11182_dark_360w_270h.png" group-title="TV",TSN1
+#EXTINF:-1 tvg-chno="64" tvg-id="TSN1.ca" tvg-name="TSN1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11182_dark_360w_270h.png" group-title="TV",TSN1
 http://cord-cutter.net:8080/25464931/30585186/57292
-#EXTINF:-1 tvg-chno="64" tvg-id="TSN2.ca" tvg-name="TSN2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61474_dark_360w_270h.png" group-title="TV",TSN2
+#EXTINF:-1 tvg-chno="65" tvg-id="TSN2.ca" tvg-name="TSN2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61474_dark_360w_270h.png" group-title="TV",TSN2
 http://fl5.moveonjoy.com/TSN_2/index.m3u8
-#EXTINF:-1 tvg-chno="65" tvg-id="USA.Network.-.East.Feed.us" tvg-name="USA East" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11207_dark_360w_270h.png" group-title="TV",USA East
+#EXTINF:-1 tvg-chno="66" tvg-id="USA.Network.-.East.Feed.us" tvg-name="USA East" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11207_dark_360w_270h.png" group-title="TV",USA East
 http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/31124/index.m3u8
-#EXTINF:-1 tvg-chno="66" tvg-id="YES.Network.us" tvg-name="YES Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30017_dark_360w_270h.png" group-title="TV",YES Network
+#EXTINF:-1 tvg-chno="67" tvg-id="YES.Network.us" tvg-name="YES Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30017_dark_360w_270h.png" group-title="TV",YES Network
 https://fl5.moveonjoy.com/YES_NETWORK/index.m3u8
-#EXTINF:-1 tvg-chno="67" tvg-id="(N/A)" tvg-name="[MLB] Milwaukee Brewers @ Chicago Cubs" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Milwaukee Brewers @ Chicago Cubs
+#EXTINF:-1 tvg-chno="68" tvg-id="(N/A)" tvg-name="[MLB] Milwaukee Brewers @ Chicago Cubs" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Milwaukee Brewers @ Chicago Cubs
 https://tvpass.org/live/mlb-23/sd
-#EXTINF:-1 tvg-chno="68" tvg-id="(N/A)" tvg-name="[MLB] Houston Astros @ Detroit Tigers" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Houston Astros @ Detroit Tigers
+#EXTINF:-1 tvg-chno="69" tvg-id="(N/A)" tvg-name="[MLB] Houston Astros @ Detroit Tigers" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Houston Astros @ Detroit Tigers
 https://tvpass.org/live/mlb-21/sd
-#EXTINF:-1 tvg-chno="69" tvg-id="(N/A)" tvg-name="[MLB] St. Louis Cardinals @ Miami Marlins" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] St. Louis Cardinals @ Miami Marlins
+#EXTINF:-1 tvg-chno="70" tvg-id="(N/A)" tvg-name="[MLB] St. Louis Cardinals @ Miami Marlins" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] St. Louis Cardinals @ Miami Marlins
 https://tvpass.org/live/mlb-07/sd
-#EXTINF:-1 tvg-chno="70" tvg-id="(N/A)" tvg-name="[MLB] Toronto Blue Jays @ Pittsburgh Pirates" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Toronto Blue Jays @ Pittsburgh Pirates
+#EXTINF:-1 tvg-chno="71" tvg-id="(N/A)" tvg-name="[MLB] Toronto Blue Jays @ Pittsburgh Pirates" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Toronto Blue Jays @ Pittsburgh Pirates
 https://tvpass.org/live/mlb-26/sd
-#EXTINF:-1 tvg-chno="71" tvg-id="(N/A)" tvg-name="[MLB] Seattle Mariners @ Philadelphia Phillies" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Seattle Mariners @ Philadelphia Phillies
+#EXTINF:-1 tvg-chno="72" tvg-id="(N/A)" tvg-name="[MLB] Seattle Mariners @ Philadelphia Phillies" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Seattle Mariners @ Philadelphia Phillies
 https://tvpass.org/live/mlb-18/sd
-#EXTINF:-1 tvg-chno="72" tvg-id="(N/A)" tvg-name="[MLB] Baltimore Orioles @ Boston Red Sox" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Baltimore Orioles @ Boston Red Sox
+#EXTINF:-1 tvg-chno="73" tvg-id="(N/A)" tvg-name="[MLB] Baltimore Orioles @ Boston Red Sox" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Baltimore Orioles @ Boston Red Sox
 https://tvpass.org/live/mlb-22/sd
-#EXTINF:-1 tvg-chno="73" tvg-id="(N/A)" tvg-name="[MLB] Chicago White Sox @ Atlanta Braves" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Chicago White Sox @ Atlanta Braves
+#EXTINF:-1 tvg-chno="74" tvg-id="(N/A)" tvg-name="[MLB] Chicago White Sox @ Atlanta Braves" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Chicago White Sox @ Atlanta Braves
 https://tvpass.org/live/mlb-28/sd
-#EXTINF:-1 tvg-chno="74" tvg-id="(N/A)" tvg-name="[MLB] Texas Rangers @ Kansas City Royals" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Texas Rangers @ Kansas City Royals
+#EXTINF:-1 tvg-chno="75" tvg-id="(N/A)" tvg-name="[MLB] Texas Rangers @ Kansas City Royals" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Texas Rangers @ Kansas City Royals
 https://tvpass.org/live/mlb-05/sd
-#EXTINF:-1 tvg-chno="75" tvg-id="(N/A)" tvg-name="[NFL] Cincinnati Bengals @ Washington Commanders" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[NFL] Cincinnati Bengals @ Washington Commanders
+#EXTINF:-1 tvg-chno="76" tvg-id="(N/A)" tvg-name="[NFL] Cincinnati Bengals @ Washington Commanders" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[NFL] Cincinnati Bengals @ Washington Commanders
 https://tvpass.org/live/NFL24/sd
-#EXTINF:-1 tvg-chno="76" tvg-id="(N/A)" tvg-name="[MLB] Los Angeles Dodgers @ Colorado Rockies" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Los Angeles Dodgers @ Colorado Rockies
+#EXTINF:-1 tvg-chno="77" tvg-id="(N/A)" tvg-name="[MLB] Los Angeles Dodgers @ Colorado Rockies" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Los Angeles Dodgers @ Colorado Rockies
 https://tvpass.org/live/mlb-25/sd
-#EXTINF:-1 tvg-chno="77" tvg-id="(N/A)" tvg-name="[MLB] Cincinnati Reds @ Los Angeles Angels" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Cincinnati Reds @ Los Angeles Angels
+#EXTINF:-1 tvg-chno="78" tvg-id="(N/A)" tvg-name="[MLB] Cincinnati Reds @ Los Angeles Angels" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Cincinnati Reds @ Los Angeles Angels
 https://tvpass.org/live/mlb-29/sd
-#EXTINF:-1 tvg-chno="78" tvg-id="(N/A)" tvg-name="[MLB] Cleveland Guardians @ Arizona Diamondbacks" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Cleveland Guardians @ Arizona Diamondbacks
+#EXTINF:-1 tvg-chno="79" tvg-id="(N/A)" tvg-name="[MLB] Cleveland Guardians @ Arizona Diamondbacks" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Cleveland Guardians @ Arizona Diamondbacks
 https://tvpass.org/live/mlb-09/sd
-#EXTINF:-1 tvg-chno="79" tvg-id="(N/A)" tvg-name="[MLB] San Francisco Giants @ San Diego Padres" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] San Francisco Giants @ San Diego Padres
+#EXTINF:-1 tvg-chno="80" tvg-id="(N/A)" tvg-name="[MLB] San Francisco Giants @ San Diego Padres" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] San Francisco Giants @ San Diego Padres
 https://tvpass.org/live/mlb-02/sd
-#EXTINF:-1 tvg-chno="80" tvg-id="(N/A)" tvg-name="[Coppa Italia] Audace Cerignola vs Verona (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Coppa Italia] Audace Cerignola vs Verona (S1)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MmUzYTQyNGU1ODZjLWE1OTgtYTE5NC1lYzcwLWEyZmVjOTk1/master.m3u8
-#EXTINF:-1 tvg-chno="81" tvg-id="(N/A)" tvg-name="[Coppa Italia] Audace Cerignola vs Verona (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Coppa Italia] Audace Cerignola vs Verona (S2)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ODAwYTRhNzEzNjZjLWRmNWEtMWFmNC1iN2JkLTljMWFhYjY2/master.m3u8
-#EXTINF:-1 tvg-chno="82" tvg-id="(N/A)" tvg-name="[DFB Pokal] Preußen Münster vs Hertha BSC (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[DFB Pokal] Preußen Münster vs Hertha BSC (S1)
+#EXTINF:-1 tvg-chno="81" tvg-id="(N/A)" tvg-name="[Premier League] Leeds vs Everton (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Premier League] Leeds vs Everton (S1)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YWM5OGZjM2FkNDI1LTc2MzgtMjMwNC00OTUyLWRmZGVhYzlh/master.m3u8
+#EXTINF:-1 tvg-chno="82" tvg-id="(N/A)" tvg-name="[Premier League] Leeds vs Everton (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Premier League] Leeds vs Everton (S2)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NTMwMTUyNDhlM2ExLTAwMGItNjE3NC02OGM0LThjZDU4YmQy/master.m3u8
+#EXTINF:-1 tvg-chno="83" tvg-id="(N/A)" tvg-name="[Premier League] Leeds vs Everton (S3)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Premier League] Leeds vs Everton (S3)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OTE2YjUwMDY3YzhlLTAzYzgtOTNlNC1lYzBkLWIzNjVmN2Uy/master.m3u8
+#EXTINF:-1 tvg-chno="84" tvg-id="(N/A)" tvg-name="[Coppa Italia] Spezia vs Sampdoria (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Coppa Italia] Spezia vs Sampdoria (S1)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZWViNzYxOTU1ODZkLTEzN2ItNmJmNC1lZmU4LTJhZjg5OWVh/master.m3u8
+#EXTINF:-1 tvg-chno="85" tvg-id="(N/A)" tvg-name="[Coppa Italia] Spezia vs Sampdoria (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Coppa Italia] Spezia vs Sampdoria (S2)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZWViNzYxOTU1ODZkLTEzN2ItNmJmNC1lZmU4LTJhZjg5OWVh/master.m3u8
+#EXTINF:-1 tvg-chno="86" tvg-id="(N/A)" tvg-name="[Coppa Italia] Spezia vs Sampdoria (S3)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Coppa Italia] Spezia vs Sampdoria (S3)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NDczNGRiNWVkN2QwLWU3NGItNmRkNC0wYjhiLTFjNmM2NTBj/master.m3u8
+#EXTINF:-1 tvg-chno="87" tvg-id="(N/A)" tvg-name="[DFB Pokal] Preußen Münster vs Hertha BSC (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[DFB Pokal] Preußen Münster vs Hertha BSC (S1)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YjQxNDMyYzU0MmEwLThkMzktZTQxNC00ZDE0LTlkYzg0MmZj/master.m3u8
-#EXTINF:-1 tvg-chno="83" tvg-id="(N/A)" tvg-name="[Superliga] Odense vs Aarhus (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Superliga] Odense vs Aarhus (S1)
+#EXTINF:-1 tvg-chno="88" tvg-id="(N/A)" tvg-name="[MLB] Chicago Cubs vs Milwaukee Brewers (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Chicago Cubs vs Milwaukee Brewers (S1)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YjIxNDc1NzIwMTVhLTc5MDgtY2JhNC1iNmU0LTM4NzJiZjRj/master.m3u8
+#EXTINF:-1 tvg-chno="89" tvg-id="(N/A)" tvg-name="[Superliga] Odense vs Aarhus (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Superliga] Odense vs Aarhus (S1)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTgwODFiMzBlYjNjLTcyMzktZTUwNC0wOWRkLTY3NzE3NWUy/master.m3u8
-#EXTINF:-1 tvg-chno="84" tvg-id="(N/A)" tvg-name="[African Nations Championship] South Africa vs Uganda (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[African Nations Championship] South Africa vs Uganda (S1)
+#EXTINF:-1 tvg-chno="90" tvg-id="(N/A)" tvg-name="[African Nations Championship] South Africa vs Uganda (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[African Nations Championship] South Africa vs Uganda (S1)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YWYzMWU2OTM4MGUwLWNjYTgtMjMxNC05YWMzLTNjYzFkMmI0/master.m3u8
-#EXTINF:-1 tvg-chno="85" tvg-id="(N/A)" tvg-name="[Segunda División] Sporting Gijon vs Cordoba (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Segunda División] Sporting Gijon vs Cordoba (S1)
+#EXTINF:-1 tvg-chno="91" tvg-id="(N/A)" tvg-name="[Segunda División] Sporting Gijon vs Cordoba (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Segunda División] Sporting Gijon vs Cordoba (S1)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZDRlNDgwZWI3ZmMzLTNjMDgtMmQ5NC1mNTk4LTFlYzRhZmE3/master.m3u8
-#EXTINF:-1 tvg-chno="86" tvg-id="(N/A)" tvg-name="[Liga I] Arges Pitesti vs Oţelul (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Liga I] Arges Pitesti vs Oţelul (S1)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZmMxMGExZmZhMGU3LTg0ZmItNWVjNC1kZTg2LWU5ODZhYmQ2/master.m3u8
-#EXTINF:-1 tvg-chno="87" tvg-id="(N/A)" tvg-name="[Allsvenskan] IFK Varnamo vs Degerfors IF (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Allsvenskan] IFK Varnamo vs Degerfors IF (S1)
+#EXTINF:-1 tvg-chno="92" tvg-id="(N/A)" tvg-name="[Allsvenskan] IFK Varnamo vs Degerfors IF (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Allsvenskan] IFK Varnamo vs Degerfors IF (S1)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1Y2JlNWExNDYwZjQ5LWIxZjgtZDg4NC1kMGJhLTVlN2I1YWQ5/master.m3u8
-#EXTINF:-1 tvg-chno="88" tvg-id="(N/A)" tvg-name="[Billiards] Ultimate Pool - Pairs Cup | Mixed | Group Stage  🎱 (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Billiards] Ultimate Pool - Pairs Cup | Mixed | Group Stage  🎱 (S1)
+#EXTINF:-1 tvg-chno="93" tvg-id="(N/A)" tvg-name="[Billiards] Ultimate Pool - Pairs Cup | Mixed | Group Stage  🎱 (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Billiards] Ultimate Pool - Pairs Cup | Mixed | Group Stage  🎱 (S1)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NTE5MmVjYzhmYTE3LWZkMDgtZDQ2NC0xMzU3LWE5MmE0Mzk3/master.m3u8
-#EXTINF:-1 tvg-chno="89" tvg-id="(N/A)" tvg-name="[Tennis] 2025 US Open Tennis - Men's & Women's Qualifying, First Round🎾 (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Tennis] 2025 US Open Tennis - Men's & Women's Qualifying, First Round🎾 (S1)
+#EXTINF:-1 tvg-chno="94" tvg-id="(N/A)" tvg-name="[Tennis] 2025 US Open Tennis - Men's & Women's Qualifying, First Round🎾 (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Tennis] 2025 US Open Tennis - Men's & Women's Qualifying, First Round🎾 (S1)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NDU1YzcxM2M4NDQ5LWIyYWEtNmE4NC0xMzY0LWZlMWUxYTc3/master.m3u8
 
