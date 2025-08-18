@@ -10,17 +10,20 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check time
+        id: check_time
         run: |
           hour=$(TZ=America/New_York date +%-H)
 
-          (( hour >= 8 && hour <= 23 )) || exit 78
+          (( hour >= 8 && hour <= 23 )) && echo "run=true" >> $GITHUB_OUTPUT || echo "run=false" >> $GITHUB_OUTPUT
 
       - name: Checkout
+        if: steps.check_time.outputs.run == 'true'
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
       - name: Cache venv
+        if: steps.check_time.outputs.run == 'true'
         uses: actions/cache@v3
         with:
           path: .venv
@@ -29,6 +32,7 @@ jobs:
             shared-venv-${{ runner.os }}-
 
       - name: Install uv
+        if: steps.check_time.outputs.run == 'true'
         uses: astral-sh/setup-uv@v6
         with:
           version: "latest"
@@ -37,14 +41,17 @@ jobs:
           cache-dependency-glob: "uv.lock"
 
       - name: Setup Python
+        if: steps.check_time.outputs.run == 'true'
         uses: actions/setup-python@v5
         with:
           python-version-file: "pyproject.toml"
 
       - name: Fetch M3U8
+        if: steps.check_time.outputs.run == 'true'
         run: uv run M3U8/fetch.py
 
       - name: Push changes
+        if: steps.check_time.outputs.run == 'true'
         uses: stefanzweifel/git-auto-commit-action@v6
         with:
           commit_message: "update M3U8"
