@@ -1,12 +1,12 @@
 #!/bin/bash
-main="http://m3u4u.com/m3u/d5k2nvp8w2t3w2k1n984"
+base_url="https://spoo.me/yBR2jV"
+UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
 MAX_JOBS=10
 RETRY_COUNT=3
 README="./readme.md"
 STATUSLOG=$(mktemp)
 PASSED=0
 FAILED=0
-REDIRECTED=0
 EMPTY=0
 
 get_status() {
@@ -17,7 +17,7 @@ get_status() {
     [[ "$url" != http* ]] && return
 
     for attempt in $(seq 1 "$RETRY_COUNT"); do
-        response=$(curl -sL -o /dev/null --max-time 10 -w "%{http_code}" "$url" 2>&1)
+        response=$(curl -sL -A "$UA" -o /dev/null --max-time 10 -w "%{http_code}" "$url" 2>&1)
         [[ "$response" =~ ^[0-9]+$ ]] && break
         sleep 1
     done
@@ -36,17 +36,12 @@ get_status() {
 
     case "$status_code" in
     200)
-        if ! curl -sL --max-time 5 "$url" | head -c 1 | grep -q '.'; then
+        if ! curl -sL -A "$UA" --max-time 5 "$url" | head -c 1 | grep -q '.'; then
             echo "| $channel | Empty body (404) | \`$url\` |" >>"$STATUSLOG"
             echo "EMPTY" >>"$STATUSLOG"
         else
             echo "PASS" >>"$STATUSLOG"
         fi
-        ;;
-    301 | 302 | 307 | 308)
-        redirect_url=$(curl -sI --max-time 5 "$url" | grep -i '^Location:' | sed 's/Location: //I' | tr -d '\r\n')
-        echo "| $channel | Redirect ($status_code) | \`$url → $redirect_url\` |" >>"$STATUSLOG"
-        echo "REDIRECT" >>"$STATUSLOG"
         ;;
     4* | 5*)
         echo "| $channel | HTTP Error ($status_code) | \`$url\` |" >>"$STATUSLOG"
@@ -64,7 +59,7 @@ get_status() {
 }
 
 check_links() {
-    echo "Checking links from: $main"
+    echo "Checking links from: $base_url"
     channel_num=0
     name=""
     jobs_running=0
@@ -83,7 +78,7 @@ check_links() {
             get_status "$line" "$name" &
             ((channel_num++))
         fi
-    done < <(curl -sL "$main")
+    done < <(curl -sL -A "$UA" "$base_url")
 
     wait
     echo "Done."
@@ -92,27 +87,25 @@ check_links() {
 write_readme() {
     local passed redirected empty failed
     passed=$(grep -c '^PASS$' "$STATUSLOG")
-    redirected=$(grep -c '^REDIRECT$' "$STATUSLOG")
     empty=$(grep -c '^EMPTY$' "$STATUSLOG")
     failed=$(grep -c '^FAIL$' "$STATUSLOG")
 
     {
-        echo "## Log @ $(date '+%Y-%m-%d %H:%M:%S UTC')"
+        echo "## Log @ $(date '+%Y-%m-%d %H:%M UTC')"
         echo
-        echo "### ✅ Working Streams: $passed<br>🔁 Redirected Links: $redirected<br>➖ Empty Streams: $empty<br>❌ Dead Streams: $failed"
+        echo "### ✅ Working Streams: $passed<br>➖ Empty Streams: $empty<br>❌ Dead Streams: $failed"
         echo
 
-        if [ $failed -gt 0 ] || [ $empty -gt 0 ] || [ $redirected -gt 0 ]; then
+        if (($failed > 0 || $empty > 0)); then
             head -n 1 "$STATUSLOG"
-            grep -v -e '^PASS$' -e '^FAIL$' -e '^EMPTY$' -e '^REDIRECT$' -e '^---' "$STATUSLOG" |
-                grep -v '^| Channel' | sort -u
+            grep -v -e '^PASS$' -e '^FAIL$' -e '^EMPTY$' -e '^---' "$STATUSLOG" | grep -v '^| Channel' | sort -u
         fi
 
         echo "---"
         echo "#### M3U8 URL"
-        printf "\`\`\`\nhttps://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.m3u8\n\`\`\`\n"
+        printf "\`\`\`\nhttps://spoo.me/d9M3U8\n\`\`\`\n"
         echo "#### EPG URL"
-        printf "\`\`\`\nhttps://raw.githubusercontent.com/doms9/iptv/refs/heads/default/EPG/TV.xml\n\`\`\`\n"
+        printf "\`\`\`\nhttps://spoo.me/d9EPG\n\`\`\`\n"
         echo "---"
         echo "#### Legal Disclaimer"
         echo "This repository lists publicly accessible IPTV streams as found on the internet at the time of checking."

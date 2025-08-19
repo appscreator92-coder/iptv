@@ -1,17 +1,13 @@
 #!/usr/bin/env python3
 import json
-from datetime import datetime
 from pathlib import Path
 
 import httpx
-import pytz
 from scrape import fstv, tvpass
 
 m3u8_file = Path(__file__).parent / "TV.m3u8"
 
-base = "http://m3u4u.com/m3u/d5k2nvp8w2t3w2k1n984"
-
-current_hour = datetime.now(pytz.timezone("America/New_York")).hour
+base_url = "https://spoo.me/yBR2jV"
 
 client = httpx.Client(
     timeout=5,
@@ -26,10 +22,10 @@ def vanilla_fetch() -> tuple[list[str], int]:
     print("Fetching base M3U8")
 
     try:
-        r = client.get(base)
+        r = client.get(base_url)
         r.raise_for_status()
     except Exception as e:
-        raise SystemExit(f'Failed to fetch "{base}"\n{e}') from e
+        raise SystemExit(f'Failed to fetch "{base_url}"\n{e}') from e
 
     d = r.text.splitlines()
 
@@ -41,13 +37,7 @@ def vanilla_fetch() -> tuple[list[str], int]:
 
 
 def main() -> None:
-    if current_hour <= 11:
-        tvpass.main(client)
-    else:
-        try:
-            tvpass.urls = json.loads(tvpass.base_file.read_text(encoding="utf-8"))
-        except (FileNotFoundError, json.JSONDecodeError):
-            pass
+    tvpass.main(client)
 
     fstv.main(client)
 

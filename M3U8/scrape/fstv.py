@@ -104,8 +104,3 @@ def main(client: httpx.Client) -> None:
             urls[key] = link
 
     print(f"Collected {len(urls)} live events")
-
-
-# if __name__ == "__main__":
-#     # create client beforehand
-#     main()

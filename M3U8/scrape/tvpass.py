@@ -1,14 +1,46 @@
 import json
 import re
+from datetime import datetime, timedelta
 from pathlib import Path
 from urllib.parse import urlparse
 
 import httpx
+import pytz
 
 base_url = "https://tvpass.org/playlist/m3u"
 base_file = Path(__file__).parent / "tvpass.json"
 
 urls: dict[str, str] = {}
+
+TZ = pytz.timezone("America/New_York")
+
+
+def cache_expired(t: float) -> bool:
+    now = datetime.now(TZ)
+
+    r = now.replace(hour=11, minute=0, second=0, microsecond=0)
+
+    if now < r:
+        r -= timedelta(days=1)
+
+    return t < r.timestamp()
+
+
+def load_cache() -> dict[str, str]:
+    try:
+        data = json.loads(base_file.read_text(encoding="utf-8"))
+
+        ts = data.get("_timestamp", 0)
+
+        return {} if cache_expired(ts) else data.get("urls", {})
+    except (FileNotFoundError, json.JSONDecodeError):
+        return {}
+
+
+def save_cache(urls: dict[str, str]) -> None:
+    payload = {"_timestamp": datetime.now(TZ).timestamp(), "urls": urls}
+
+    base_file.write_text(json.dumps(payload, indent=2), encoding="utf-8")
 
 
 def fetch_m3u8(client: httpx.Client) -> list[str] | None:
@@ -22,6 +54,11 @@ def fetch_m3u8(client: httpx.Client) -> list[str] | None:
 
 
 def main(client: httpx.Client) -> None:
+    if cached := load_cache():
+        urls.update(cached)
+        print(f"TVPass: Collected {len(urls)} live events from cache")
+        return
+
     print(f'Scraping from "{base_url}"')
 
     if not (data := fetch_m3u8(client)):
@@ -51,12 +88,6 @@ def main(client: httpx.Client) -> None:
 
                     urls[f"[{sport}] {tvg_name}"] = url
 
-    print(f"Collected {len(urls)} live events")
-
     if urls:
-        base_file.write_text(json.dumps(urls, indent=2), encoding="utf-8")
-
-
-# if __name__ == "__main__":
-#     # create client beforehand
-#     main()
+        save_cache(urls)
+        print(f"Cached {len(urls)} live events")
