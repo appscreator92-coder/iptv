@@ -159,16 +159,20 @@ https://tvpass.org/live/mlb-29/sd
 https://tvpass.org/live/mlb-09/sd
 #EXTINF:-1 tvg-chno="80" tvg-id="(N/A)" tvg-name="[MLB] San Francisco Giants @ San Diego Padres" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] San Francisco Giants @ San Diego Padres
 https://tvpass.org/live/mlb-02/sd
-#EXTINF:-1 tvg-chno="81" tvg-id="(N/A)" tvg-name="[Primera A] Junior vs Bucaramanga (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Primera A] Junior vs Bucaramanga (S1)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTc2NDgwOTY5NWI1LTUyY2ItNmI4NC0zZmIzLTY0MDFhNWE0/master.m3u8
-#EXTINF:-1 tvg-chno="82" tvg-id="(N/A)" tvg-name="[Pay-Per-View] PPV EVENT 03 - Super DIRTcar Series Brewerton (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Pay-Per-View] PPV EVENT 03 - Super DIRTcar Series Brewerton (S1)
+#EXTINF:-1 tvg-chno="81" tvg-id="(N/A)" tvg-name="[Wrestling] WWE: Monday Night RAW (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Wrestling] WWE: Monday Night RAW (S1)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LjNmMhFTYzQmZ2I2YtkTNwIWLmdjY00yNhRTNtAzNldDZyYmM/master.m3u8
+#EXTINF:-1 tvg-chno="82" tvg-id="(N/A)" tvg-name="[NFL] Washington Commanders vs Cincinnati Bengals (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[NFL] Washington Commanders vs Cincinnati Bengals (S1)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NTkzNGQyNjA3OWRiLWU1NGEtYmZjNC05NDMxLWU4OTEyYmJm/master.m3u8
+#EXTINF:-1 tvg-chno="83" tvg-id="(N/A)" tvg-name="[NFL] Washington Commanders vs Cincinnati Bengals (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[NFL] Washington Commanders vs Cincinnati Bengals (S2)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZDg1MTJmMmM2Y2RlLWE3N2EtZWQyNC1iMzlmLWEyZmZlOWMw/master.m3u8
+#EXTINF:-1 tvg-chno="84" tvg-id="(N/A)" tvg-name="[Pay-Per-View] PPV EVENT 03 - Super DIRTcar Series Brewerton (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Pay-Per-View] PPV EVENT 03 - Super DIRTcar Series Brewerton (S1)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzQ0NDg4YzJjNzkxLWJkMWItMGI4NC1iNGVmLTk4ZjU4M2Nm/master.m3u8
-#EXTINF:-1 tvg-chno="83" tvg-id="(N/A)" tvg-name="[Liga Profesional Argentina] Sarmiento Junin vs Atletico Tucuman (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Liga Profesional Argentina] Sarmiento Junin vs Atletico Tucuman (S1)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ODI0ZTBhMTdkMjViLTM3MWEtZTVkNC0yNTc4LWU3MDM0ZGY4/master.m3u8
-#EXTINF:-1 tvg-chno="84" tvg-id="(N/A)" tvg-name="[MLB] Miami Marlins vs St.Louis Cardinals (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Miami Marlins vs St.Louis Cardinals (S1)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MmUzMWVmZmVkZDgzLWUyMjgtMmJiNC00MzgwLTE0MTU5Y2Zi/master.m3u8
-#EXTINF:-1 tvg-chno="85" tvg-id="(N/A)" tvg-name="[Serie A] Mirassol vs Cruzeiro (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Serie A] Mirassol vs Cruzeiro (S1)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzE0MjhkYWUyYThlLTdiYzktNTRlNC1jZWMyLTQ0ZDY4OGMz/master.m3u8
+#EXTINF:-1 tvg-chno="85" tvg-id="(N/A)" tvg-name="[MLB] Pittsburgh Pirates vs Toronto Blue Jays (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Pittsburgh Pirates vs Toronto Blue Jays (S1)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTgxZTQxNjM4N2RmLWUxZDgtNDgwNC1mZDEyLTljZTIwZjY2/master.m3u8
 #EXTINF:-1 tvg-chno="86" tvg-id="(N/A)" tvg-name="[Tennis] 2025 US Open Tennis - Men's & Women's Qualifying, First Round🎾 (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Tennis] 2025 US Open Tennis - Men's & Women's Qualifying, First Round🎾 (S1)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NDU1YzcxM2M4NDQ5LWIyYWEtNmE4NC0xMzY0LWZlMWUxYTc3/master.m3u8
+#EXTINF:-1 tvg-chno="87" tvg-id="(N/A)" tvg-name="[Liga Profesional Argentina] Talleres Cordoba vs San Martin S.J. (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Liga Profesional Argentina] Talleres Cordoba vs San Martin S.J. (S1)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ODI0ZTBhMTdkMjViLTM3MWEtZTVkNC0yNTc4LWU3MDM0ZGY4/master.m3u8
+#EXTINF:-1 tvg-chno="88" tvg-id="(N/A)" tvg-name="[Primera A] Deportivo Pasto vs Independiente Medellin (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Primera A] Deportivo Pasto vs Independiente Medellin (S1)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTc2NDgwOTY5NWI1LTUyY2ItNmI4NC0zZmIzLTY0MDFhNWE0/master.m3u8
 
