@@ -1,15 +1,15 @@
-## Log @ 2025-08-19 14:26:44 UTC
+## Log @ 2025-08-19 20:28 UTC
 
-### ✅ Working Streams: 67<br>🔁 Redirected Links: 0<br>➖ Empty Streams: 0<br>❌ Dead Streams: 0
+### ✅ Working Streams: 67<br>➖ Empty Streams: 0<br>❌ Dead Streams: 0
 
 ---
 #### M3U8 URL
 ```
-https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.m3u8
+https://s.id/d9M3U8
 ```
 #### EPG URL
 ```
-https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/EPG/TV.xml
+https://s.id/d9EPG
 ```
 ---
 #### Legal Disclaimer
