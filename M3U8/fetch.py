@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-import json
 from pathlib import Path
 
 import httpx
@@ -7,7 +6,7 @@ from scrape import fstv, tvpass
 
 m3u8_file = Path(__file__).parent / "TV.m3u8"
 
-base_url = "https://spoo.me/yBR2jV"
+base_url = "https://s.id/ePwXT"
 
 client = httpx.Client(
     timeout=5,

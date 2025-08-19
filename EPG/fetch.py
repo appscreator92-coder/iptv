@@ -24,7 +24,7 @@ client = httpx.Client(
 
 def fetch_tvg_ids() -> dict[str, str]:
     try:
-        r = client.get("https://spoo.me/mvrlVh")
+        r = client.get("https://s.id/4dqiO")
         r.raise_for_status()
     except Exception as e:
         raise SystemExit(f"Failed to fetch TVG IDs\n{e}") from e

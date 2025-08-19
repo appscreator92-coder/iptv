@@ -1,5 +1,5 @@
 #!/bin/bash
-base_url="https://spoo.me/yBR2jV"
+base_url="https://s.id/ePwXT"
 UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
 MAX_JOBS=10
 RETRY_COUNT=3
@@ -103,9 +103,9 @@ write_readme() {
 
         echo "---"
         echo "#### M3U8 URL"
-        printf "\`\`\`\nhttps://spoo.me/d9M3U8\n\`\`\`\n"
+        printf "\`\`\`\nhttps://s.id/d9M3U8\n\`\`\`\n"
         echo "#### EPG URL"
-        printf "\`\`\`\nhttps://spoo.me/d9EPG\n\`\`\`\n"
+        printf "\`\`\`\nhttps://s.id/d9EPG\n\`\`\`\n"
         echo "---"
         echo "#### Legal Disclaimer"
         echo "This repository lists publicly accessible IPTV streams as found on the internet at the time of checking."
