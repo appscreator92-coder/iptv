@@ -1,10 +1,11 @@
-## Log @ 2025-08-21 03:12 UTC
+## Log @ 2025-08-21 08:34 UTC
 
-### ✅ Working Streams: 66<br>➖ Empty Streams: 1<br>❌ Dead Streams: 0
+### ✅ Working Streams: 65<br>➖ Empty Streams: 1<br>❌ Dead Streams: 1
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
-| USA East | Empty body (404) | `http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/31124/index.m3u8` |
+| Fox News | Empty body (404) | `https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8` |
+| Game Show Network | HTTP Error (403) | `http://cord-cutter.net:8080/25464931/30585186/120633` |
 ---
 #### M3U8 URL
 ```
