@@ -1,7 +1,10 @@
-## Log @ 2025-08-20 20:29 UTC
+## Log @ 2025-08-21 03:12 UTC
 
-### ✅ Working Streams: 67<br>➖ Empty Streams: 0<br>❌ Dead Streams: 0
+### ✅ Working Streams: 66<br>➖ Empty Streams: 1<br>❌ Dead Streams: 0
 
+| Channel | Error (Code) | Link |
+| ------- | ------------ | ---- |
+| USA East | Empty body (404) | `http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/31124/index.m3u8` |
 ---
 #### M3U8 URL
 ```
