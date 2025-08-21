@@ -163,8 +163,8 @@ https://tvpass.org/live/mlb-11/sd
 https://tvpass.org/live/NFL20/sd
 #EXTINF:-1 tvg-chno="82" tvg-id="(N/A)" tvg-name="[WNBA] Phoenix Mercury @ Las Vegas Aces" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[WNBA] Phoenix Mercury @ Las Vegas Aces
 https://tvpass.org/live/WNBA02/sd
-#EXTINF:-1 tvg-chno="83" tvg-id="(N/A)" tvg-name="[MLB] Kansas City Royals vs Texas Rangers (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Kansas City Royals vs Texas Rangers (S1)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NTE5MmVjYzhmYTE3LWZkMDgtZDQ2NC0xMzU3LWE5MmE0Mzk3/master.m3u8
+#EXTINF:-1 tvg-chno="83" tvg-id="(N/A)" tvg-name="[MLB] Colorado Rockies vs Los Angeles Dodgers (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Colorado Rockies vs Los Angeles Dodgers (S1)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZWY1MGJjOTczOTIzLWRjMzktZGQwNC1iNDMzLTRhYjdkNTEw/master.m3u8
 #EXTINF:-1 tvg-chno="84" tvg-id="(N/A)" tvg-name="[Tennis] 2025 US Open Tennis - Men's & Women's Qualifying, First Round🎾 (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Tennis] 2025 US Open Tennis - Men's & Women's Qualifying, First Round🎾 (S1)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NDU1YzcxM2M4NDQ5LWIyYWEtNmE4NC0xMzY0LWZlMWUxYTc3/master.m3u8
 #EXTINF:-1 tvg-chno="85" tvg-id="(N/A)" tvg-name="[Tennis] 2025 US Open Tennis - Men's & Women's Qualifying, First Round🎾 (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Tennis] 2025 US Open Tennis - Men's & Women's Qualifying, First Round🎾 (S2)
@@ -175,8 +175,18 @@ https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YjRkZjRhNmI5
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YjgyMDkyMDlhMTc0LTVmZmItMGQ4NC01NzcyLWY3ZDU2ODM1/master.m3u8
 #EXTINF:-1 tvg-chno="88" tvg-id="(N/A)" tvg-name="[Cricket] Oval Invincibles vs Trent Rockets (S3)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Cricket] Oval Invincibles vs Trent Rockets (S3)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OTE2YjUwMDY3YzhlLTAzYzgtOTNlNC1lYzBkLWIzNjVmN2Uy/master.m3u8
-#EXTINF:-1 tvg-chno="89" tvg-id="(N/A)" tvg-name="[Golf] Fed Ex Playoffs - Tour Championship - PGA Tour (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Golf] Fed Ex Playoffs - Tour Championship - PGA Tour (S1)
+#EXTINF:-1 tvg-chno="89" tvg-id="(N/A)" tvg-name="[CONMEBOL Libertadores] LDU de Quito vs Botafogo (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[CONMEBOL Libertadores] LDU de Quito vs Botafogo (S1)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NzdiN2IwMTM2MzRmLTAwNmItNjM3NC05ZWJmLWFmZmYxNzU2/master.m3u8
+#EXTINF:-1 tvg-chno="90" tvg-id="(N/A)" tvg-name="[CONMEBOL Libertadores] LDU de Quito vs Botafogo (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[CONMEBOL Libertadores] LDU de Quito vs Botafogo (S2)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MWZlMDAwZTlmM2QyLWUzMGItYjVmNC0zMDhjLTViNGQ3YTRl/master.m3u8
+#EXTINF:-1 tvg-chno="91" tvg-id="(N/A)" tvg-name="[CONMEBOL Libertadores] LDU de Quito vs Botafogo (S3)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[CONMEBOL Libertadores] LDU de Quito vs Botafogo (S3)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZjVlNWIwODJkNzc2LTNjZTgtMTNmNC1mM2Q3LWUzMjU5OTNh/master.m3u8
+#EXTINF:-1 tvg-chno="92" tvg-id="(N/A)" tvg-name="[CONMEBOL Sudamericana] Godoy Cruz vs Atletico-MG (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[CONMEBOL Sudamericana] Godoy Cruz vs Atletico-MG (S1)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YWYzMWU2OTM4MGUwLWNjYTgtMjMxNC05YWMzLTNjYzFkMmI0/master.m3u8
+#EXTINF:-1 tvg-chno="93" tvg-id="(N/A)" tvg-name="[CONMEBOL Sudamericana] Godoy Cruz vs Atletico-MG (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[CONMEBOL Sudamericana] Godoy Cruz vs Atletico-MG (S2)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OWQ3NWJhMGY1Zjk0LTU3OTgtNmUwNC05YTkyLWM1M2IyNzA0/master.m3u8
+#EXTINF:-1 tvg-chno="94" tvg-id="(N/A)" tvg-name="[Golf] Fed Ex Playoffs - Tour Championship - PGA Tour (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Golf] Fed Ex Playoffs - Tour Championship - PGA Tour (S1)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NmNmOTRlN2Q4ZDg2LTlhNTktYjEyNC1iZGVkLWEzNjI5NzBh/master.m3u8
-#EXTINF:-1 tvg-chno="90" tvg-id="(N/A)" tvg-name="[Golf] Fed Ex Playoffs - Tour Championship - PGA Tour (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Golf] Fed Ex Playoffs - Tour Championship - PGA Tour (S2)
+#EXTINF:-1 tvg-chno="95" tvg-id="(N/A)" tvg-name="[Golf] Fed Ex Playoffs - Tour Championship - PGA Tour (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Golf] Fed Ex Playoffs - Tour Championship - PGA Tour (S2)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZTg2ZTEzZTk2ZTQzLThiMmEtYzkxNC04ODNhLTM5MThlZGQz/master.m3u8
 
