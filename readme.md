@@ -1,7 +1,10 @@
-## Log @ 2025-08-22 03:12 UTC
+## Log @ 2025-08-22 08:34 UTC
 
-### ✅ Working Streams: 67<br>➖ Empty Streams: 0<br>❌ Dead Streams: 0
+### ✅ Working Streams: 66<br>➖ Empty Streams: 0<br>❌ Dead Streams: 1
 
+| Channel | Error (Code) | Link |
+| ------- | ------------ | ---- |
+| FDSN Oklahoma | HTTP Error (403) | `http://cord-cutter.net:8080/25464931/30585186/20934` |
 ---
 #### M3U8 URL
 ```
