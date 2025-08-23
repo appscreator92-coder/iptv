@@ -18,12 +18,12 @@ TZ = pytz.timezone("America/New_York")
 def cache_expired(t: float) -> bool:
     now = datetime.now(TZ)
 
-    r = now.replace(hour=11, minute=0, second=0, microsecond=0)
+    eleven = now.replace(hour=11, minute=0, second=0, microsecond=0)
 
-    if now < r:
-        r -= timedelta(days=1)
+    if now < eleven:
+        eleven -= timedelta(days=1)
 
-    return t < r.timestamp()
+    return t < eleven.timestamp()
 
 
 def load_cache() -> dict[str, str]:

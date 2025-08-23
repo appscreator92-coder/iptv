@@ -5,7 +5,12 @@ from bs4 import BeautifulSoup
 
 urls: dict[str, str] = {}
 
-mirrors = {"https://fstv.online", "https://fstv.space", "https://fstv.zip"}
+mirrors = {
+    "https://fstv.online",
+    "https://fstv.space",
+    "https://fstv.zip",
+    "https://fstv.us",
+}
 
 
 def check_status(client: httpx.Client, url: str) -> bool:

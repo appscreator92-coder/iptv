@@ -42,7 +42,7 @@ def main() -> None:
 
     base_m3u8, chnl_number = vanilla_fetch()
 
-    additions = {**tvpass.urls, **fstv.urls}
+    additions = tvpass.urls | fstv.urls
 
     lines = []
 
