@@ -1,7 +1,10 @@
-## Log @ 2025-08-22 20:28 UTC
+## Log @ 2025-08-23 03:08 UTC
 
-### ✅ Working Streams: 67<br>➖ Empty Streams: 0<br>❌ Dead Streams: 0
+### ✅ Working Streams: 66<br>➖ Empty Streams: 0<br>❌ Dead Streams: 1
 
+| Channel | Error (Code) | Link |
+| ------- | ------------ | ---- |
+| CW | HTTP Error (403) | `http://user.scalecdn.co:8080/live/26725074/92867131/93093.m3u8` |
 ---
 #### M3U8 URL
 ```
