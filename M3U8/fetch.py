@@ -46,7 +46,7 @@ def main() -> None:
 
     lines = []
 
-    for event, url in additions.items():
+    for event, url in sorted(additions.items()):
         chnl_number += 1
         lines.append(
             f'#EXTINF:-1 tvg-chno="{chnl_number}"'
