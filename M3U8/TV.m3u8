@@ -133,96 +133,102 @@ http://fl5.moveonjoy.com/TSN_2/index.m3u8
 http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/31124/index.m3u8
 #EXTINF:-1 tvg-chno="67" tvg-id="YES.Network.us" tvg-name="YES Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30017_dark_360w_270h.png" group-title="TV",YES Network
 https://fl5.moveonjoy.com/YES_NETWORK/index.m3u8
-#EXTINF:-1 tvg-chno="68" tvg-id="(N/A)" tvg-name="[2. Bundesliga] SpVgg Greuther Fürth vs Holstein Kiel (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[2. Bundesliga] SpVgg Greuther Fürth vs Holstein Kiel (S1)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NDNjZGEyNjU2MTM2LTJjOTgtMGFiNC1kOTgyLTRlYjc4Y2U1/master.m3u8
-#EXTINF:-1 tvg-chno="69" tvg-id="(N/A)" tvg-name="[3. Liga] FC Ingolstadt 04 vs Hansa Rostock (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[3. Liga] FC Ingolstadt 04 vs Hansa Rostock (S1)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OTFmZGE2ZDY1MDNlLWMyZDktZTczNC1jN2JiLTM3OTNjMTM2/master.m3u8
-#EXTINF:-1 tvg-chno="70" tvg-id="(N/A)" tvg-name="[Allsvenskan] Sirius vs Hammarby FF (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Allsvenskan] Sirius vs Hammarby FF (S1)
+#EXTINF:-1 tvg-chno="68" tvg-id="(N/A)" tvg-name="[Allsvenskan] Sirius vs Hammarby FF (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Allsvenskan] Sirius vs Hammarby FF (S1)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZTllMGQyMjcyNTZmLWRiNWEtNzlmNC0yZmNhLTcxN2Q1Y2Vk/master.m3u8
-#EXTINF:-1 tvg-chno="71" tvg-id="(N/A)" tvg-name="[Billiards] Wuhan Open | Round 1 🎱 (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Billiards] Wuhan Open | Round 1 🎱 (S1)
+#EXTINF:-1 tvg-chno="69" tvg-id="(N/A)" tvg-name="[Betfred Super League] Wigan Warriors vs Wakefield (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Betfred Super League] Wigan Warriors vs Wakefield (S1)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MjVhMzNjZTkxZTdkLWRmZGItMWM4NC03Y2Q3LWU2NjQyMWU5/master.m3u8
+#EXTINF:-1 tvg-chno="70" tvg-id="(N/A)" tvg-name="[Billiards] Wuhan Open | Round 1 🎱 (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Billiards] Wuhan Open | Round 1 🎱 (S1)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NTE5MmVjYzhmYTE3LWZkMDgtZDQ2NC0xMzU3LWE5MmE0Mzk3/master.m3u8
-#EXTINF:-1 tvg-chno="72" tvg-id="(N/A)" tvg-name="[Bundesliga] FSV Mainz 05 vs 1.FC Köln (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Bundesliga] FSV Mainz 05 vs 1.FC Köln (S1)
+#EXTINF:-1 tvg-chno="71" tvg-id="(N/A)" tvg-name="[Bundesliga] FSV Mainz 05 vs 1.FC Köln (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Bundesliga] FSV Mainz 05 vs 1.FC Köln (S1)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MmY4Yjc0ZDFiNzdhLTYzN2EtNzIwNC0wNmEyLWEzM2EwMDM2/master.m3u8
-#EXTINF:-1 tvg-chno="73" tvg-id="(N/A)" tvg-name="[Bundesliga] FSV Mainz 05 vs 1.FC Köln (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Bundesliga] FSV Mainz 05 vs 1.FC Köln (S2)
+#EXTINF:-1 tvg-chno="72" tvg-id="(N/A)" tvg-name="[Bundesliga] FSV Mainz 05 vs 1.FC Köln (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Bundesliga] FSV Mainz 05 vs 1.FC Köln (S2)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NzU1MWViMjM4ZmFkLTA2NTgtYmYwNC0xNmRmLTE3ODdkMTMy/master.m3u8
-#EXTINF:-1 tvg-chno="74" tvg-id="(N/A)" tvg-name="[CYCLING] La Vuelta | Stage 2 - Men | The Breakaway 🚴 (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[CYCLING] La Vuelta | Stage 2 - Men | The Breakaway 🚴 (S1)
+#EXTINF:-1 tvg-chno="73" tvg-id="(N/A)" tvg-name="[CYCLING] La Vuelta | Stage 2 - Men | The Breakaway 🚴 (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[CYCLING] La Vuelta | Stage 2 - Men | The Breakaway 🚴 (S1)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZDU3NjA3NzY4OTFjLWRkNzktMjE4NC1lN2E1LTkwNWRmY2Fm/master.m3u8
-#EXTINF:-1 tvg-chno="75" tvg-id="(N/A)" tvg-name="[Ekstraklasa] Piast Gliwice vs Cracovia Krakow (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Ekstraklasa] Piast Gliwice vs Cracovia Krakow (S1)
+#EXTINF:-1 tvg-chno="74" tvg-id="(N/A)" tvg-name="[Ekstraklasa] Piast Gliwice vs Cracovia Krakow (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Ekstraklasa] Piast Gliwice vs Cracovia Krakow (S1)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YWYzMWU2OTM4MGUwLWNjYTgtMjMxNC05YWMzLTNjYzFkMmI0/master.m3u8
-#EXTINF:-1 tvg-chno="76" tvg-id="(N/A)" tvg-name="[Ekstraklasa] Piast Gliwice vs Cracovia Krakow (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Ekstraklasa] Piast Gliwice vs Cracovia Krakow (S2)
+#EXTINF:-1 tvg-chno="75" tvg-id="(N/A)" tvg-name="[Ekstraklasa] Piast Gliwice vs Cracovia Krakow (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Ekstraklasa] Piast Gliwice vs Cracovia Krakow (S2)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1M2UxZjNmZDBjZTI1LWZiOGItZjZkNC1lZjhlLTJkYWVlNzc2/master.m3u8
-#EXTINF:-1 tvg-chno="77" tvg-id="(N/A)" tvg-name="[Eredivisie] NEC Nijmegen vs NAC Breda (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Eredivisie] NEC Nijmegen vs NAC Breda (S1)
+#EXTINF:-1 tvg-chno="76" tvg-id="(N/A)" tvg-name="[Eredivisie] NEC Nijmegen vs NAC Breda (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Eredivisie] NEC Nijmegen vs NAC Breda (S1)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OWU2NGJkMWRmZTM1LWFhOWEtZGU4NC1mN2Y1LWM5YTA4ODk3/master.m3u8
-#EXTINF:-1 tvg-chno="78" tvg-id="(N/A)" tvg-name="[Golf] Betfred British Masters Presented By Nick Faldo - DP World Tour (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Golf] Betfred British Masters Presented By Nick Faldo - DP World Tour (S1)
+#EXTINF:-1 tvg-chno="77" tvg-id="(N/A)" tvg-name="[Golf] Betfred British Masters Presented By Nick Faldo - DP World Tour (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Golf] Betfred British Masters Presented By Nick Faldo - DP World Tour (S1)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NmNmOTRlN2Q4ZDg2LTlhNTktYjEyNC1iZGVkLWEzNjI5NzBh/master.m3u8
-#EXTINF:-1 tvg-chno="79" tvg-id="(N/A)" tvg-name="[Golf] Betfred British Masters Presented By Nick Faldo - DP World Tour (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Golf] Betfred British Masters Presented By Nick Faldo - DP World Tour (S2)
+#EXTINF:-1 tvg-chno="78" tvg-id="(N/A)" tvg-name="[Golf] Betfred British Masters Presented By Nick Faldo - DP World Tour (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Golf] Betfred British Masters Presented By Nick Faldo - DP World Tour (S2)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZTg2ZTEzZTk2ZTQzLThiMmEtYzkxNC04ODNhLTM5MThlZGQz/master.m3u8
-#EXTINF:-1 tvg-chno="80" tvg-id="(N/A)" tvg-name="[Liga I] Oţelul vs CFR 1907 Cluj (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Liga I] Oţelul vs CFR 1907 Cluj (S1)
+#EXTINF:-1 tvg-chno="79" tvg-id="(N/A)" tvg-name="[Liga I] Oţelul vs CFR 1907 Cluj (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Liga I] Oţelul vs CFR 1907 Cluj (S1)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZmMxMGExZmZhMGU3LTg0ZmItNWVjNC1kZTg2LWU5ODZhYmQ2/master.m3u8
-#EXTINF:-1 tvg-chno="81" tvg-id="(N/A)" tvg-name="[Ligue 1] Lorient vs Rennes (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Ligue 1] Lorient vs Rennes (S1)
+#EXTINF:-1 tvg-chno="80" tvg-id="(N/A)" tvg-name="[Ligue 1] Lorient vs Rennes (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Ligue 1] Lorient vs Rennes (S1)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NzdiN2IwMTM2MzRmLTAwNmItNjM3NC05ZWJmLWFmZmYxNzU2/master.m3u8
-#EXTINF:-1 tvg-chno="82" tvg-id="(N/A)" tvg-name="[MLB] Boston Red Sox @ New York Yankees" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Boston Red Sox @ New York Yankees
+#EXTINF:-1 tvg-chno="81" tvg-id="(N/A)" tvg-name="[MLB] Boston Red Sox @ New York Yankees" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Boston Red Sox @ New York Yankees
 https://tvpass.org/live/mlb-15/sd
-#EXTINF:-1 tvg-chno="83" tvg-id="(N/A)" tvg-name="[MLB] Chicago Cubs @ Los Angeles Angels" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Chicago Cubs @ Los Angeles Angels
+#EXTINF:-1 tvg-chno="82" tvg-id="(N/A)" tvg-name="[MLB] Chicago Cubs @ Los Angeles Angels" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Chicago Cubs @ Los Angeles Angels
 https://tvpass.org/live/mlb-29/sd
-#EXTINF:-1 tvg-chno="84" tvg-id="(N/A)" tvg-name="[MLB] Cincinnati Reds @ Arizona Diamondbacks" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Cincinnati Reds @ Arizona Diamondbacks
+#EXTINF:-1 tvg-chno="83" tvg-id="(N/A)" tvg-name="[MLB] Cincinnati Reds @ Arizona Diamondbacks" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Cincinnati Reds @ Arizona Diamondbacks
 https://tvpass.org/live/mlb-09/sd
-#EXTINF:-1 tvg-chno="85" tvg-id="(N/A)" tvg-name="[MLB] Cleveland Guardians @ Texas Rangers" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Cleveland Guardians @ Texas Rangers
+#EXTINF:-1 tvg-chno="84" tvg-id="(N/A)" tvg-name="[MLB] Cleveland Guardians @ Texas Rangers" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Cleveland Guardians @ Texas Rangers
 https://tvpass.org/live/mlb-13/sd
-#EXTINF:-1 tvg-chno="86" tvg-id="(N/A)" tvg-name="[MLB] Colorado Rockies @ Pittsburgh Pirates" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Colorado Rockies @ Pittsburgh Pirates
+#EXTINF:-1 tvg-chno="85" tvg-id="(N/A)" tvg-name="[MLB] Colorado Rockies @ Pittsburgh Pirates" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Colorado Rockies @ Pittsburgh Pirates
 https://tvpass.org/live/mlb-26/sd
-#EXTINF:-1 tvg-chno="87" tvg-id="(N/A)" tvg-name="[MLB] Houston Astros @ Baltimore Orioles" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Houston Astros @ Baltimore Orioles
+#EXTINF:-1 tvg-chno="86" tvg-id="(N/A)" tvg-name="[MLB] Houston Astros @ Baltimore Orioles" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Houston Astros @ Baltimore Orioles
 https://tvpass.org/live/mlb-17/sd
-#EXTINF:-1 tvg-chno="88" tvg-id="(N/A)" tvg-name="[MLB] Kansas City Royals @ Detroit Tigers" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Kansas City Royals @ Detroit Tigers
+#EXTINF:-1 tvg-chno="87" tvg-id="(N/A)" tvg-name="[MLB] Kansas City Royals @ Detroit Tigers" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Kansas City Royals @ Detroit Tigers
 https://tvpass.org/live/mlb-21/sd
-#EXTINF:-1 tvg-chno="89" tvg-id="(N/A)" tvg-name="[MLB] Los Angeles Dodgers @ San Diego Padres" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Los Angeles Dodgers @ San Diego Padres
+#EXTINF:-1 tvg-chno="88" tvg-id="(N/A)" tvg-name="[MLB] Los Angeles Dodgers @ San Diego Padres" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Los Angeles Dodgers @ San Diego Padres
 https://tvpass.org/live/mlb-02/sd
-#EXTINF:-1 tvg-chno="90" tvg-id="(N/A)" tvg-name="[MLB] Minnesota Twins @ Chicago White Sox" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Minnesota Twins @ Chicago White Sox
+#EXTINF:-1 tvg-chno="89" tvg-id="(N/A)" tvg-name="[MLB] Minnesota Twins @ Chicago White Sox" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Minnesota Twins @ Chicago White Sox
 https://tvpass.org/live/mlb-03/sd
-#EXTINF:-1 tvg-chno="91" tvg-id="(N/A)" tvg-name="[MLB] New York Mets @ Atlanta Braves" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] New York Mets @ Atlanta Braves
+#EXTINF:-1 tvg-chno="90" tvg-id="(N/A)" tvg-name="[MLB] New York Mets @ Atlanta Braves" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] New York Mets @ Atlanta Braves
 https://tvpass.org/live/mlb-28/sd
-#EXTINF:-1 tvg-chno="92" tvg-id="(N/A)" tvg-name="[MLB] Oakland Athletics @ Seattle Mariners" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Oakland Athletics @ Seattle Mariners
+#EXTINF:-1 tvg-chno="91" tvg-id="(N/A)" tvg-name="[MLB] Oakland Athletics @ Seattle Mariners" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Oakland Athletics @ Seattle Mariners
 https://tvpass.org/live/mlb-10/sd
-#EXTINF:-1 tvg-chno="93" tvg-id="(N/A)" tvg-name="[MLB] San Francisco Giants @ Milwaukee Brewers" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] San Francisco Giants @ Milwaukee Brewers
+#EXTINF:-1 tvg-chno="92" tvg-id="(N/A)" tvg-name="[MLB] San Francisco Giants @ Milwaukee Brewers" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] San Francisco Giants @ Milwaukee Brewers
 https://tvpass.org/live/mlb-16/sd
-#EXTINF:-1 tvg-chno="94" tvg-id="(N/A)" tvg-name="[MLB] St. Louis Cardinals @ Tampa Bay Rays" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] St. Louis Cardinals @ Tampa Bay Rays
+#EXTINF:-1 tvg-chno="93" tvg-id="(N/A)" tvg-name="[MLB] St. Louis Cardinals @ Tampa Bay Rays" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] St. Louis Cardinals @ Tampa Bay Rays
 https://tvpass.org/live/mlb-11/sd
-#EXTINF:-1 tvg-chno="95" tvg-id="(N/A)" tvg-name="[MLB] Toronto Blue Jays @ Miami Marlins" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Toronto Blue Jays @ Miami Marlins
+#EXTINF:-1 tvg-chno="94" tvg-id="(N/A)" tvg-name="[MLB] Toronto Blue Jays @ Miami Marlins" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Toronto Blue Jays @ Miami Marlins
 https://tvpass.org/live/mlb-07/sd
-#EXTINF:-1 tvg-chno="96" tvg-id="(N/A)" tvg-name="[MLB] Washington Nationals @ Philadelphia Phillies" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Washington Nationals @ Philadelphia Phillies
+#EXTINF:-1 tvg-chno="95" tvg-id="(N/A)" tvg-name="[MLB] Washington Nationals @ Philadelphia Phillies" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Washington Nationals @ Philadelphia Phillies
 https://tvpass.org/live/mlb-18/sd
-#EXTINF:-1 tvg-chno="97" tvg-id="(N/A)" tvg-name="[Moto GP] MotoGP | Round 14 | Hungary 🏍 (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Moto GP] MotoGP | Round 14 | Hungary 🏍 (S1)
+#EXTINF:-1 tvg-chno="96" tvg-id="(N/A)" tvg-name="[Moto GP] MotoGP | Round 14 | Hungary 🏍 (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Moto GP] MotoGP | Round 14 | Hungary 🏍 (S1)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NGY2YTlkMjFlMzNiLTNlN2ItZTQ4NC1jMWVjLWY5ZjU0Mzg5/master.m3u8
-#EXTINF:-1 tvg-chno="98" tvg-id="(N/A)" tvg-name="[Moto GP] MotoGP | Round 14 | Hungary 🏍 (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Moto GP] MotoGP | Round 14 | Hungary 🏍 (S2)
+#EXTINF:-1 tvg-chno="97" tvg-id="(N/A)" tvg-name="[Moto GP] MotoGP | Round 14 | Hungary 🏍 (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Moto GP] MotoGP | Round 14 | Hungary 🏍 (S2)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTY5MDFkNTVlYjFmLTEwMGItOWQ2NC0yYWE2LWVkYWYwMGYy/master.m3u8
-#EXTINF:-1 tvg-chno="99" tvg-id="(N/A)" tvg-name="[Moto GP] MotoGP | Round 14 | Hungary 🏍 (S3)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Moto GP] MotoGP | Round 14 | Hungary 🏍 (S3)
+#EXTINF:-1 tvg-chno="98" tvg-id="(N/A)" tvg-name="[Moto GP] MotoGP | Round 14 | Hungary 🏍 (S3)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Moto GP] MotoGP | Round 14 | Hungary 🏍 (S3)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NjgyNTVmNTE1M2M5LWM5OGItMGNjNC00YzdlLTliZWI4YWY3/master.m3u8
-#EXTINF:-1 tvg-chno="100" tvg-id="(N/A)" tvg-name="[NFL] Atlanta Falcons @ Dallas Cowboys" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[NFL] Atlanta Falcons @ Dallas Cowboys
+#EXTINF:-1 tvg-chno="99" tvg-id="(N/A)" tvg-name="[NFL] Atlanta Falcons @ Dallas Cowboys" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[NFL] Atlanta Falcons @ Dallas Cowboys
 https://tvpass.org/live/NFL19/sd
-#EXTINF:-1 tvg-chno="101" tvg-id="(N/A)" tvg-name="[NFL] Chicago Bears @ Kansas City Chiefs" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[NFL] Chicago Bears @ Kansas City Chiefs
+#EXTINF:-1 tvg-chno="100" tvg-id="(N/A)" tvg-name="[NFL] Chicago Bears @ Kansas City Chiefs" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[NFL] Chicago Bears @ Kansas City Chiefs
 https://tvpass.org/live/NFL28/sd
-#EXTINF:-1 tvg-chno="102" tvg-id="(N/A)" tvg-name="[NFL] Minnesota Vikings @ Tennessee Titans" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[NFL] Minnesota Vikings @ Tennessee Titans
+#EXTINF:-1 tvg-chno="101" tvg-id="(N/A)" tvg-name="[NFL] Minnesota Vikings @ Tennessee Titans" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[NFL] Minnesota Vikings @ Tennessee Titans
 https://tvpass.org/live/NFL27/sd
-#EXTINF:-1 tvg-chno="103" tvg-id="(N/A)" tvg-name="[NFL] Philadelphia Eagles @ New York Jets" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[NFL] Philadelphia Eagles @ New York Jets
+#EXTINF:-1 tvg-chno="102" tvg-id="(N/A)" tvg-name="[NFL] Philadelphia Eagles @ New York Jets" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[NFL] Philadelphia Eagles @ New York Jets
 https://tvpass.org/live/NFL26/sd
-#EXTINF:-1 tvg-chno="104" tvg-id="(N/A)" tvg-name="[Premier League] Everton vs Brighton (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Premier League] Everton vs Brighton (S1)
+#EXTINF:-1 tvg-chno="103" tvg-id="(N/A)" tvg-name="[Premier League] Everton vs Brighton (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Premier League] Everton vs Brighton (S1)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YWM5OGZjM2FkNDI1LTc2MzgtMjMwNC00OTUyLWRmZGVhYzlh/master.m3u8
-#EXTINF:-1 tvg-chno="105" tvg-id="(N/A)" tvg-name="[Premier League] Everton vs Brighton (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Premier League] Everton vs Brighton (S2)
+#EXTINF:-1 tvg-chno="104" tvg-id="(N/A)" tvg-name="[Premier League] Everton vs Brighton (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Premier League] Everton vs Brighton (S2)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OTE2YjUwMDY3YzhlLTAzYzgtOTNlNC1lYzBkLWIzNjVmN2Uy/master.m3u8
-#EXTINF:-1 tvg-chno="106" tvg-id="(N/A)" tvg-name="[Premier League] Everton vs Brighton (S3)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Premier League] Everton vs Brighton (S3)
+#EXTINF:-1 tvg-chno="105" tvg-id="(N/A)" tvg-name="[Premier League] Everton vs Brighton (S3)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Premier League] Everton vs Brighton (S3)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MzlmYzMwMWU3ZjZlLTE0NmItMjljNC0xODRhLTU2MTg5YmM0/master.m3u8
-#EXTINF:-1 tvg-chno="107" tvg-id="(N/A)" tvg-name="[Premier League] Everton vs Brighton (S4)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Premier League] Everton vs Brighton (S4)
+#EXTINF:-1 tvg-chno="106" tvg-id="(N/A)" tvg-name="[Premier League] Everton vs Brighton (S4)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Premier League] Everton vs Brighton (S4)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NDE0ZDczMThiMzRkLTRjMmEtZGRhNC1mZTViLWNhYzAxYzg4/master.m3u8
-#EXTINF:-1 tvg-chno="108" tvg-id="(N/A)" tvg-name="[Segunda Liga] Leixoes vs Penafiel (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Segunda Liga] Leixoes vs Penafiel (S1)
+#EXTINF:-1 tvg-chno="107" tvg-id="(N/A)" tvg-name="[Segunda Liga] Leixoes vs Penafiel (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Segunda Liga] Leixoes vs Penafiel (S1)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1Yjc3YTEzYzkzODQ4LWJmMDktZjVhNC1jOWMzLWJkMzQ5ZTRi/master.m3u8
-#EXTINF:-1 tvg-chno="109" tvg-id="(N/A)" tvg-name="[Super League] Grasshoppers vs FC Winterthur (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Super League] Grasshoppers vs FC Winterthur (S1)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NGZlMDcxMTcxNWZlLWY5MTktNzA1NC01Yjc4LTE3ODhjM2Vl/master.m3u8
-#EXTINF:-1 tvg-chno="110" tvg-id="(N/A)" tvg-name="[Superliga] FC Midtjylland vs Silkeborg (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Superliga] FC Midtjylland vs Silkeborg (S1)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YmJkOTI5YjUyZjQ3LTVlMzgtYjBiNC03YTg2LTY2MGZlN2Y4/master.m3u8
-#EXTINF:-1 tvg-chno="111" tvg-id="(N/A)" tvg-name="[WNBA] Golden State Valkyries @ Phoenix Mercury" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[WNBA] Golden State Valkyries @ Phoenix Mercury
+#EXTINF:-1 tvg-chno="108" tvg-id="(N/A)" tvg-name="[Superliga] Sonderjyske vs Brondby (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Superliga] Sonderjyske vs Brondby (S1)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZmI3OGE0MjY1ZjU3LTRiNzktM2Q2NC1mYTY4LWNkYWM4MmFm/master.m3u8
+#EXTINF:-1 tvg-chno="109" tvg-id="(N/A)" tvg-name="[Tennis] US Open 2025 🎾 (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Tennis] US Open 2025 🎾 (S1)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1N2RiNWY4OGU0MWUwLTk5MmEtZDk2NC1jZDM3LTE0Yzg5ZDUz/master.m3u8
+#EXTINF:-1 tvg-chno="110" tvg-id="(N/A)" tvg-name="[Tennis] US Open 2025 🎾 (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Tennis] US Open 2025 🎾 (S2)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZmNhYTQ1ODQ5MGE2LTljYTktZGY1NC01NDRlLWMyZTQ3NjBm/master.m3u8
+#EXTINF:-1 tvg-chno="111" tvg-id="(N/A)" tvg-name="[Tennis] US Open 2025 🎾 (S3)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Tennis] US Open 2025 🎾 (S3)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OTE2YjUwMDY3YzhlLTAzYzgtOTNlNC1lYzBkLWIzNjVmN2Uy/master.m3u8
+#EXTINF:-1 tvg-chno="112" tvg-id="(N/A)" tvg-name="[WNBA] Golden State Valkyries @ Phoenix Mercury" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[WNBA] Golden State Valkyries @ Phoenix Mercury
 https://tvpass.org/live/WNBA03/sd
-#EXTINF:-1 tvg-chno="112" tvg-id="(N/A)" tvg-name="[WNBA] Minnesota Lynx @ Indiana Fever" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[WNBA] Minnesota Lynx @ Indiana Fever
+#EXTINF:-1 tvg-chno="113" tvg-id="(N/A)" tvg-name="[WNBA] Minnesota Lynx @ Indiana Fever" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[WNBA] Minnesota Lynx @ Indiana Fever
 https://tvpass.org/live/WNBA01/sd
-#EXTINF:-1 tvg-chno="113" tvg-id="(N/A)" tvg-name="[WNBA] Seattle Storm @ Dallas Wings" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[WNBA] Seattle Storm @ Dallas Wings
+#EXTINF:-1 tvg-chno="114" tvg-id="(N/A)" tvg-name="[WNBA] Seattle Storm @ Dallas Wings" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[WNBA] Seattle Storm @ Dallas Wings
 https://tvpass.org/live/WNBA02/sd
+#EXTINF:-1 tvg-chno="115" tvg-id="(N/A)" tvg-name="[World Cup Women] South Africa W vs Brazil W (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[World Cup Women] South Africa W vs Brazil W (S1)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZjZjNzYwZTg2YzE3LTBiODgtNThlNC1lZDYyLWQzMjEwNzFk/master.m3u8
+#EXTINF:-1 tvg-chno="116" tvg-id="(N/A)" tvg-name="[World Cup Women] South Africa W vs Brazil W (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[World Cup Women] South Africa W vs Brazil W (S2)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzA3ZGVjOWEzMGU3LTg3NmItOGM2NC05ZGI4LTZiZDIxOTA1/master.m3u8
 
