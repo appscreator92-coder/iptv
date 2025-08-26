@@ -133,10 +133,10 @@ http://fl5.moveonjoy.com/TSN_2/index.m3u8
 http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/31124/index.m3u8
 #EXTINF:-1 tvg-chno="67" tvg-id="YES.Network.us" tvg-name="YES Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30017_dark_360w_270h.png" group-title="TV",YES Network
 https://fl5.moveonjoy.com/YES_NETWORK/index.m3u8
-#EXTINF:-1 tvg-chno="68" tvg-id="(N/A)" tvg-name="[African Nations Championship] Madagascar vs Sudan (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[African Nations Championship] Madagascar vs Sudan (S1)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NzdiN2IwMTM2MzRmLTAwNmItNjM3NC05ZWJmLWFmZmYxNzU2/master.m3u8
-#EXTINF:-1 tvg-chno="69" tvg-id="(N/A)" tvg-name="[CBSSPORTSNETWORKUSA] Seattle Storm @ Indiana Fever" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[CBSSPORTSNETWORKUSA] Seattle Storm @ Indiana Fever
+#EXTINF:-1 tvg-chno="68" tvg-id="(N/A)" tvg-name="[CBSSPORTSNETWORKUSA] Seattle Storm @ Indiana Fever" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[CBSSPORTSNETWORKUSA] Seattle Storm @ Indiana Fever
 https://tvpass.org/live/CBSSportsNetworkUSA/sd
+#EXTINF:-1 tvg-chno="69" tvg-id="(N/A)" tvg-name="[Cricket] Northern Superchargers vs Manchester Originals (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Cricket] Northern Superchargers vs Manchester Originals (S1)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YjgyMDkyMDlhMTc0LTVmZmItMGQ4NC01NzcyLWY3ZDU2ODM1/master.m3u8
 #EXTINF:-1 tvg-chno="70" tvg-id="(N/A)" tvg-name="[MLB] Arizona Diamondbacks @ Milwaukee Brewers" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Arizona Diamondbacks @ Milwaukee Brewers
 https://tvpass.org/live/mlb-16/sd
 #EXTINF:-1 tvg-chno="71" tvg-id="(N/A)" tvg-name="[MLB] Atlanta Braves @ Miami Marlins" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Atlanta Braves @ Miami Marlins
@@ -183,4 +183,6 @@ https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MzgwZjU4MzNj
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OWNmNjMwNGM1YWY2LThiOTktYWNhNC1jZDYyLTIwMzU3YzRl/master.m3u8
 #EXTINF:-1 tvg-chno="92" tvg-id="(N/A)" tvg-name="[UEFA Champions League] Kairat Almaty vs Celtic (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[UEFA Champions League] Kairat Almaty vs Celtic (S2)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NjU5NGU0NzYwMGEwLTIwZmItMWNiNC1iMDI4LTYzZmM5NjU3/master.m3u8
+#EXTINF:-1 tvg-chno="93" tvg-id="(N/A)" tvg-name="[UEFA Champions League] Kairat Almaty vs Celtic (S3)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[UEFA Champions League] Kairat Almaty vs Celtic (S3)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MmUzYTQyNGU1ODZjLWE1OTgtYTE5NC1lYzcwLWEyZmVjOTk1/master.m3u8
 
