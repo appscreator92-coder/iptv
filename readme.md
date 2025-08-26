@@ -1,10 +1,11 @@
-## Log @ 2025-08-26 03:13 UTC
+## Log @ 2025-08-26 08:35 UTC
 
-### ✅ Working Streams: 63<br>➖ Empty Streams: 0<br>❌ Dead Streams: 4
+### ✅ Working Streams: 62<br>➖ Empty Streams: 0<br>❌ Dead Streams: 5
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
 | Disney | HTTP Error (404) | `http://fl5.moveonjoy.com/DISNEY/index.m3u8` |
+| FDSN Oklahoma | HTTP Error (403) | `http://cord-cutter.net:8080/25464931/30585186/20934` |
 | FDSN Southwest | HTTP Error (403) | `http://cord-cutter.net:8080/25464931/30585186/21843` |
 | FXX | Connection timed out (000) | `http://fl3.moveonjoy.com/FXX/index.m3u8` |
 | MSG | HTTP Error (404) | `https://fl3.moveonjoy.com/MSG/index.m3u8` |
