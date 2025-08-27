@@ -1,11 +1,10 @@
-## Log @ 2025-08-27 08:33 UTC
+## Log @ 2025-08-27 14:25 UTC
 
-### ✅ Working Streams: 65<br>➖ Empty Streams: 0<br>❌ Dead Streams: 2
+### ✅ Working Streams: 66<br>➖ Empty Streams: 0<br>❌ Dead Streams: 1
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
-| Fox Sports 1 | HTTP Error (404) | `http://23.237.104.106:8080/USA_FS1/index.m3u8` |
-| Fox Sports 2 | HTTP Error (404) | `http://23.237.104.106:8080/USA_FS2/index.m3u8` |
+| NBC | HTTP Error (404) | `http://fl1.moveonjoy.com/NBC_EAST/index.m3u8` |
 ---
 #### M3U8 URL
 ```
