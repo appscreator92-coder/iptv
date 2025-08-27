@@ -43,9 +43,9 @@ def save_cache(urls: dict[str, str]) -> None:
     base_file.write_text(json.dumps(payload, indent=2), encoding="utf-8")
 
 
-def fetch_m3u8(client: httpx.Client) -> list[str] | None:
+async def fetch_m3u8(client: httpx.AsyncClient) -> list[str] | None:
     try:
-        r = client.get(base_url)
+        r = await client.get(base_url)
         r.raise_for_status()
     except Exception as e:
         print(f'Failed to fetch "{base_url}"\n{e}')
@@ -53,7 +53,7 @@ def fetch_m3u8(client: httpx.Client) -> list[str] | None:
     return r.text.splitlines()
 
 
-def main(client: httpx.Client) -> None:
+async def main(client: httpx.AsyncClient) -> None:
     if cached := load_cache():
         urls.update(cached)
         print(f"TVPass: Collected {len(urls)} live events from cache")
@@ -61,24 +61,24 @@ def main(client: httpx.Client) -> None:
 
     print(f'Scraping from "{base_url}"')
 
-    if not (data := fetch_m3u8(client)):
+    if not (data := await fetch_m3u8(client)):
         return
 
-    for i in range(len(data) - 1):
-        if data[i].startswith("#EXTINF"):
-            tvg_id_match = re.search(r'tvg-id="([^"]*)"', data[i])
-            tvg_name_match = re.search(r'tvg-name="([^"]*)"', data[i])
+    for i, line in enumerate(data[:-1]):
+        if line.startswith("#EXTINF"):
+            tvg_id_match = re.search(r'tvg-id="([^"]*)"', line)
+            tvg_name_match = re.search(r'tvg-name="([^"]*)"', line)
 
             tvg_id = tvg_id_match[1] if tvg_id_match else None
-            tvg_name = tvg_name_match[1]
+            tvg_name = tvg_name_match[1] if tvg_name_match else None
 
             if tvg_id == "":
                 url = data[i + 1]
 
-                tvg_name = tvg_name.split("(")[0].strip()
+                if tvg_name:
+                    tvg_name = tvg_name.split("(")[0].strip()
 
                 if url.endswith("/sd"):
-
                     path_parts = urlparse(url).path.strip("/").split("/")
 
                     if len(path_parts) >= 2 and path_parts[-1] == "sd":

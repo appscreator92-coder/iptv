@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+import asyncio
 import gzip
 from pathlib import Path
 from xml.etree import ElementTree as ET
@@ -6,6 +7,7 @@ from xml.etree import ElementTree as ET
 import httpx
 
 epg_file = Path(__file__).parent / "TV.xml"
+
 epg_urls = [
     "https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS2.xml.gz",
@@ -13,7 +15,7 @@ epg_urls = [
     "https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz",
 ]
 
-client = httpx.Client(
+client = httpx.AsyncClient(
     timeout=5,
     follow_redirects=True,
     headers={
@@ -22,9 +24,9 @@ client = httpx.Client(
 )
 
 
-def fetch_tvg_ids() -> dict[str, str]:
+async def fetch_tvg_ids() -> dict[str, str]:
     try:
-        r = client.get("https://s.id/4dqiO")
+        r = await client.get("https://s.id/4dqiO")
         r.raise_for_status()
     except Exception as e:
         raise SystemExit(f"Failed to fetch TVG IDs\n{e}") from e
@@ -32,9 +34,9 @@ def fetch_tvg_ids() -> dict[str, str]:
     return r.json()
 
 
-def fetch_xml(url: str) -> ET.Element:
+async def fetch_xml(url: str) -> ET.Element:
     try:
-        r = client.get(url)
+        r = await client.get(url)
         r.raise_for_status()
     except Exception as e:
         raise SystemExit(f'Failed to fetch "{url}"\n{e}') from e
@@ -48,13 +50,17 @@ def fetch_xml(url: str) -> ET.Element:
         raise SystemExit(f'Failed to decompress and parse XML from "{url}"\n{e}') from e
 
 
-def main() -> None:
-    tvg_ids = fetch_tvg_ids()
+async def main() -> None:
+    tvg_ids = await fetch_tvg_ids()
 
     root = ET.Element("tv")
 
-    for url in epg_urls:
-        epg_data = fetch_xml(url)
+    tasks = [fetch_xml(url) for url in epg_urls]
+    results = await asyncio.gather(*tasks)
+
+    for epg_data in results:
+        if epg_data is None:
+            continue
 
         for channel in epg_data.findall("channel"):
             if (channel_id := channel.get("id")) in tvg_ids:
@@ -87,4 +93,4 @@ def main() -> None:
 
 
 if __name__ == "__main__":
-    main()
+    asyncio.run(main())
