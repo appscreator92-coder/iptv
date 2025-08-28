@@ -5,9 +5,9 @@ from pathlib import Path
 import httpx
 from scrape import fstv, tvpass
 
-m3u8_file = Path(__file__).parent / "TV.m3u8"
-
 base_url = "https://s.id/ePwXT"
+
+m3u8_file = Path(__file__).parent / "TV.m3u8"
 
 client = httpx.AsyncClient(
     timeout=5,

@@ -2,17 +2,17 @@ import json
 import re
 from datetime import datetime, timedelta
 from pathlib import Path
-from urllib.parse import urlparse
 
 import httpx
 import pytz
 
 base_url = "https://tvpass.org/playlist/m3u"
+
 base_file = Path(__file__).parent / "tvpass.json"
 
-urls: dict[str, str] = {}
-
 TZ = pytz.timezone("America/New_York")
+
+urls: dict[str, str] = {}
 
 
 def cache_expired(t: float) -> bool:
@@ -64,29 +64,27 @@ async def main(client: httpx.AsyncClient) -> None:
     if not (data := await fetch_m3u8(client)):
         return
 
-    for i, line in enumerate(data[:-1]):
+    for i, line in enumerate(data):
         if line.startswith("#EXTINF"):
             tvg_id_match = re.search(r'tvg-id="([^"]*)"', line)
             tvg_name_match = re.search(r'tvg-name="([^"]*)"', line)
+            group_title_match = re.search(r'group-title="([^"]*)"', line)
 
             tvg_id = tvg_id_match[1] if tvg_id_match else None
             tvg_name = tvg_name_match[1] if tvg_name_match else None
+            sport = group_title_match[1] if group_title_match else None
 
             if tvg_id == "":
                 url = data[i + 1]
 
                 if tvg_name:
-                    tvg_name = tvg_name.split("(")[0].strip()
+                    tvg_name = "(".join(tvg_name.split("(")[:-1]).strip()
 
                 if url.endswith("/sd"):
-                    path_parts = urlparse(url).path.strip("/").split("/")
+                    urls[f"[{sport}] {tvg_name} (SD)"] = url
 
-                    if len(path_parts) >= 2 and path_parts[-1] == "sd":
-                        sport = "".join(x for x in path_parts[1] if x.isalpha()).upper()
-                    else:
-                        sport = "UNKNWN"
-
-                    urls[f"[{sport}] {tvg_name}"] = url
+                elif url.endswith("/hd"):
+                    urls[f"[{sport}] {tvg_name} (HD)"] = url
 
     if urls:
         save_cache(urls)
