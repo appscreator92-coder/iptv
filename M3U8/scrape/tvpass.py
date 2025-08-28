@@ -12,7 +12,17 @@ base_file = Path(__file__).parent / "tvpass.json"
 
 TZ = pytz.timezone("America/New_York")
 
-urls: dict[str, str] = {}
+urls: dict[str, dict[str, str]] = {}
+
+logos = {
+    "MLB": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
+    "NBA": "https://i.gyazo.com/29485b295d32782bbae31a0b35de0970.png",
+    "NCAAF": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "NCAAB": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "NFL": "https://i.gyazo.com/8581d3d8cd6d902029e0daf9ca087842.png",
+    "NHL": "https://i.gyazo.com/b634ca5b0d3f16f9863eca3b27568a10.png",
+    "WNBA": "https://i.gyazo.com/f356a338044d1dfa9eed11979f8cf13f.png",
+}
 
 
 def cache_expired(t: float) -> bool:
@@ -72,7 +82,7 @@ async def main(client: httpx.AsyncClient) -> None:
 
             tvg_id = tvg_id_match[1] if tvg_id_match else None
             tvg_name = tvg_name_match[1] if tvg_name_match else None
-            sport = group_title_match[1] if group_title_match else None
+            sport = group_title_match[1].upper().strip() if group_title_match else None
 
             if tvg_id == "":
                 url = data[i + 1]
@@ -80,11 +90,16 @@ async def main(client: httpx.AsyncClient) -> None:
                 if tvg_name:
                     tvg_name = "(".join(tvg_name.split("(")[:-1]).strip()
 
+                    logo = logos.get(
+                        sport,
+                        "https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png",
+                    )
+
                 if url.endswith("/sd"):
-                    urls[f"[{sport}] {tvg_name} (SD)"] = url
+                    urls[f"[{sport}] {tvg_name} (SD)"] = {"logo": logo, "url": url}
 
                 elif url.endswith("/hd"):
-                    urls[f"[{sport}] {tvg_name} (HD)"] = url
+                    urls[f"[{sport}] {tvg_name} (HD)"] = {"logo": logo, "url": url}
 
     if urls:
         save_cache(urls)

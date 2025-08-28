@@ -4,7 +4,7 @@ from urllib.parse import urljoin
 import httpx
 from selectolax.parser import HTMLParser
 
-urls: dict[str, str] = {}
+urls: dict[str, dict[str, str]] = {}
 
 mirrors = [
     "https://fstv.online",
@@ -116,6 +116,9 @@ async def main(client: httpx.AsyncClient) -> None:
                 f"[{event}] {match_name} (S{i})" if match_name else f"[{event}] (S{i})"
             )
 
-            urls[key] = link
+            urls[key] = {
+                "logo": "https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png",
+                "url": link,
+            }
 
     print(f"Collected {len(urls)} live events")

@@ -44,8 +44,8 @@ async def main() -> None:
     additions = tvpass.urls | fstv.urls
 
     lines = [
-        f'#EXTINF:-1 tvg-chno="{chnl_number}" tvg-id="(N/A)" tvg-name="{event}" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",{event}\n{url}'
-        for chnl_number, (event, url) in enumerate(
+        f'#EXTINF:-1 tvg-chno="{chnl_number}" tvg-id="(N/A)" tvg-name="{event}" tvg-logo="{info["logo"]}" group-title="Live Events",{event}\n{info["url"]}'
+        for chnl_number, (event, info) in enumerate(
             sorted(additions.items()),
             start=chnl_number + 1,
         )
