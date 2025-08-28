@@ -1,11 +1,7 @@
-## Log @ 2025-08-28 08:33 UTC
+## Log @ 2025-08-28 14:26 UTC
 
-### ✅ Working Streams: 65<br>➖ Empty Streams: 0<br>❌ Dead Streams: 2
+### ✅ Working Streams: 67<br>➖ Empty Streams: 0<br>❌ Dead Streams: 0
 
-| Channel | Error (Code) | Link |
-| ------- | ------------ | ---- |
-| FDSN West | HTTP Error (403) | `http://cord-cutter.net:8080/25464931/30585186/20932` |
-| Game Show Network | HTTP Error (403) | `http://cord-cutter.net:8080/25464931/30585186/120633` |
 ---
 #### M3U8 URL
 ```
