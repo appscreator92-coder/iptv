@@ -133,14 +133,14 @@ http://fl5.moveonjoy.com/TSN_2/index.m3u8
 http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/31124/index.m3u8
 #EXTINF:-1 tvg-chno="67" tvg-id="YES.Network.us" tvg-name="YES Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30017_dark_360w_270h.png" group-title="TV",YES Network
 https://fl5.moveonjoy.com/YES_NETWORK/index.m3u8
-#EXTINF:-1 tvg-chno="68" tvg-id="(N/A)" tvg-name="[Cricket] Trinbago Knight Riders - Antigua and Barbuda Falcons (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Cricket] Trinbago Knight Riders - Antigua and Barbuda Falcons (S1)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NTE5MmVjYzhmYTE3LWZkMDgtZDQ2NC0xMzU3LWE5MmE0Mzk3/master.m3u8
-#EXTINF:-1 tvg-chno="69" tvg-id="(N/A)" tvg-name="[Cricket] Trinbago Knight Riders - Antigua and Barbuda Falcons (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Cricket] Trinbago Knight Riders - Antigua and Barbuda Falcons (S2)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YjRkZjRhNmI5NWUyLTg5YmItMDAwNC01MjEyLWY3ODBiNmE3/master.m3u8
-#EXTINF:-1 tvg-chno="70" tvg-id="(N/A)" tvg-name="[Leagues Cup] Inter Miami vs Orlando City SC (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Leagues Cup] Inter Miami vs Orlando City SC (S1)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZWViNzYxOTU1ODZkLTEzN2ItNmJmNC1lZmU4LTJhZjg5OWVh/master.m3u8
-#EXTINF:-1 tvg-chno="71" tvg-id="(N/A)" tvg-name="[Leagues Cup] Inter Miami vs Orlando City SC (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Leagues Cup] Inter Miami vs Orlando City SC (S2)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NmMzYTBmNGZjNDQ2LTBlMjgtOGU2NC00YjQ2LWFkZjc0MjFk/master.m3u8
+#EXTINF:-1 tvg-chno="68" tvg-id="(N/A)" tvg-name="[Concacaf Central American Cup] CD Olimpia vs Xelajú (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Concacaf Central American Cup] CD Olimpia vs Xelajú (S1)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MjVhMzNjZTkxZTdkLWRmZGItMWM4NC03Y2Q3LWU2NjQyMWU5/master.m3u8
+#EXTINF:-1 tvg-chno="69" tvg-id="(N/A)" tvg-name="[Concacaf Central American Cup] CD Olimpia vs Xelajú (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Concacaf Central American Cup] CD Olimpia vs Xelajú (S2)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MDY4NGMzM2Q5MTkzLTAwN2EtN2I0NC1lOTFmLTM3ZTAyMTEy/master.m3u8
+#EXTINF:-1 tvg-chno="70" tvg-id="(N/A)" tvg-name="[Leagues Cup] Los Angeles Galaxy vs Seattle Sounders (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Leagues Cup] Los Angeles Galaxy vs Seattle Sounders (S1)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MDYyNjQzMDkzOWYxLTg0ODktNzlmNC03MDIxLWRjNWFmZDI0/master.m3u8
+#EXTINF:-1 tvg-chno="71" tvg-id="(N/A)" tvg-name="[Leagues Cup] Los Angeles Galaxy vs Seattle Sounders (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Leagues Cup] Los Angeles Galaxy vs Seattle Sounders (S2)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MjhmYmJlNjYzNjYwLTcwNWItMDRhNC1mMWJkLTA5NTczNTE3/master.m3u8
 #EXTINF:-1 tvg-chno="72" tvg-id="(N/A)" tvg-name="[MLB] Arizona Diamondbacks @ Milwaukee Brewers" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Arizona Diamondbacks @ Milwaukee Brewers
 https://tvpass.org/live/mlb-16/sd
 #EXTINF:-1 tvg-chno="73" tvg-id="(N/A)" tvg-name="[MLB] Atlanta Braves @ Miami Marlins" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[MLB] Atlanta Braves @ Miami Marlins
@@ -177,11 +177,13 @@ https://tvpass.org/live/mlb-15/sd
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ODM4YjkzYzRjZGQ1LTg1ZmItN2M1NC1mZmE4LWY0YTA5NTdl/master.m3u8
 #EXTINF:-1 tvg-chno="89" tvg-id="(N/A)" tvg-name="[NBATV] Las Vegas Aces @ Atlanta Dream" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[NBATV] Las Vegas Aces @ Atlanta Dream
 https://tvpass.org/live/NBATV/sd
-#EXTINF:-1 tvg-chno="90" tvg-id="(N/A)" tvg-name="[Tennis] 2025 US Open Tennis - Women's Singles 🎾 (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Tennis] 2025 US Open Tennis - Women's Singles 🎾 (S1)
+#EXTINF:-1 tvg-chno="90" tvg-id="(N/A)" tvg-name="[Pay-Per-View] PPV EVENT 03 - Twin Ports Twin 25  ⭐ (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Pay-Per-View] PPV EVENT 03 - Twin Ports Twin 25  ⭐ (S1)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzQ0NDg4YzJjNzkxLWJkMWItMGI4NC1iNGVmLTk4ZjU4M2Nm/master.m3u8
+#EXTINF:-1 tvg-chno="91" tvg-id="(N/A)" tvg-name="[Tennis] 2025 US Open Tennis - Women's Singles 🎾 (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Tennis] 2025 US Open Tennis - Women's Singles 🎾 (S1)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NDU1YzcxM2M4NDQ5LWIyYWEtNmE4NC0xMzY0LWZlMWUxYTc3/master.m3u8
-#EXTINF:-1 tvg-chno="91" tvg-id="(N/A)" tvg-name="[Tennis] 2025 US Open Tennis - Women's Singles 🎾 (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Tennis] 2025 US Open Tennis - Women's Singles 🎾 (S2)
+#EXTINF:-1 tvg-chno="92" tvg-id="(N/A)" tvg-name="[Tennis] 2025 US Open Tennis - Women's Singles 🎾 (S2)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Tennis] 2025 US Open Tennis - Women's Singles 🎾 (S2)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OGY2ODAzOWY3ZDE5LThkMmEtNWY0NC0zZjViLTJiZDEwNjQ5/master.m3u8
-#EXTINF:-1 tvg-chno="92" tvg-id="(N/A)" tvg-name="[WNBA] Connecticut Sun @ Dallas Wings" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[WNBA] Connecticut Sun @ Dallas Wings
+#EXTINF:-1 tvg-chno="93" tvg-id="(N/A)" tvg-name="[WNBA] Connecticut Sun @ Dallas Wings" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[WNBA] Connecticut Sun @ Dallas Wings
 https://tvpass.org/live/WNBA02/sd
-#EXTINF:-1 tvg-chno="93" tvg-id="(N/A)" tvg-name="[Wrestling] AEW: Wednesday Night Dynamite (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Wrestling] AEW: Wednesday Night Dynamite (S1)
+#EXTINF:-1 tvg-chno="94" tvg-id="(N/A)" tvg-name="[Wrestling] AEW: Wednesday Night Dynamite (S1)" tvg-logo="https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png" group-title="Live Events",[Wrestling] AEW: Wednesday Night Dynamite (S1)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZjM3NmYzZWJiZGE0LTIxYzgtYzBkNC0zNDc2LTlmODM2NzFj/master.m3u8
