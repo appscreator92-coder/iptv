@@ -3,6 +3,7 @@ from urllib.parse import urljoin
 
 import httpx
 from selectolax.parser import HTMLParser
+from tvpass import logos
 
 urls: dict[str, dict[str, str]] = {}
 
@@ -108,6 +109,8 @@ async def main(client: httpx.AsyncClient) -> None:
     results = await asyncio.gather(*tasks)
 
     for (event, _), (match_name, m3u8_urls) in zip(events, results):
+        event = event.strip()
+
         if not m3u8_urls:
             continue
 
@@ -117,8 +120,11 @@ async def main(client: httpx.AsyncClient) -> None:
             )
 
             urls[key] = {
-                "logo": "https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png",
                 "url": link,
+                "logo": logos.get(
+                    event,
+                    "https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png",
+                ),
             }
 
     print(f"Collected {len(urls)} live events")

@@ -2,6 +2,7 @@ import json
 import re
 from datetime import datetime, timedelta
 from pathlib import Path
+from urllib.parse import urlparse
 
 import httpx
 import pytz
@@ -95,11 +96,12 @@ async def main(client: httpx.AsyncClient) -> None:
                         "https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png",
                     )
 
-                if url.endswith("/sd"):
-                    urls[f"[{sport}] {tvg_name} (SD)"] = {"logo": logo, "url": url}
+                if url.endswith("/hd"):
+                    parts = urlparse(url).path.strip("/").split("/")
 
-                elif url.endswith("/hd"):
-                    urls[f"[{sport}] {tvg_name} (HD)"] = {"logo": logo, "url": url}
+                    link = f"http://origin.thetvapp.to/hls/{parts[1]}/mono.m3u8"
+
+                    urls[f"[{sport}] {tvg_name} (SD)"] = {"logo": logo, "url": link}
 
     if urls:
         save_cache(urls)
