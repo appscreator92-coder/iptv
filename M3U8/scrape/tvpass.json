@@ -1,321 +1,318 @@
 {
-  "_timestamp": 1756578210.879576,
-  "urls": {
-    "[NCAAF] Syracuse Orange @ Tennessee Volunteers (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/WABCDT1/mono.m3u8"
-    },
-    "[NCAAF] Texas Longhorns @ Ohio State Buckeyes (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/WNYWDT1/mono.m3u8"
-    },
-    "[NCAAF] Northwestern Wildcats @ Tulane Green Wave (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/ESPNU/mono.m3u8"
-    },
-    "[NCAAF] VMI Keydets @ Navy Midshipmen (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/CBSSportsNetworkUSA/mono.m3u8"
-    },
-    "[NCAAF] Mississippi State Bulldogs @ Southern Mississippi Golden Eagles (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/ESPN/mono.m3u8"
-    },
-    "[NCAAF] Merrimack Warriors @ Kent State Golden Flashes (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/NCAAF02/mono.m3u8"
-    },
-    "[NCAAF] Florida Atlantic Owls @ Maryland Terrapins (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/NCAAF01/mono.m3u8"
-    },
-    "[NCAAF] Duquesne Dukes @ Pittsburgh Panthers (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/ACCNetwork/mono.m3u8"
-    },
-    "[NCAAF] Ball State Cardinals @ Purdue Boilermakers (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/BTN/mono.m3u8"
-    },
-    "[NCAAF] Toledo Rockets @ Kentucky Wildcats (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/SECN/mono.m3u8"
-    },
-    "[NCAAF] Robert Morris Colonials @ West Virginia Mountaineers (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/NCAAF05/mono.m3u8"
-    },
-    "[NCAAF] Central Connecticut Blue Devils @ UConn Huskies (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/NCAAF04/mono.m3u8"
-    },
-    "[NCAAF] Fordham Rams @ Boston College Eagles (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/NCAAF03/mono.m3u8"
-    },
-    "[NCAAF] Old Dominion Monarchs @ Indiana Hoosiers (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/FoxSports1/mono.m3u8"
-    },
-    "[NCAAF] Eastern Kentucky Colonels @ Louisville Cardinals (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/ACCNetwork/mono.m3u8"
-    },
-    "[MLB] Milwaukee Brewers @ Toronto Blue Jays (SD)": {
-      "logo": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
-      "url": "http://origin.thetvapp.to/hls/mlb-12/mono.m3u8"
-    },
-    "[NCAAF] Bucknell Bison @ Air Force Falcons (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/CBSSportsNetworkUSA/mono.m3u8"
-    },
-    "[NCAAF] Alabama Crimson Tide @ Florida State Seminoles (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/WABCDT1/mono.m3u8"
-    },
-    "[NCAAF] Marshall Thundering Herd @ Georgia Bulldogs (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/ESPN/mono.m3u8"
-    },
-    "[NCAAF] Holy Cross Crusaders @ Northern Illinois Huskies (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/NCAAF06/mono.m3u8"
-    },
-    "[NCAAF] South Dakota Coyotes @ Iowa State Cyclones (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/WNYWDT1/mono.m3u8"
-    },
-    "[NCAAF] Nevada Wolf Pack @ Penn State Nittany Lions (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/WCBSDT1/mono.m3u8"
-    },
-    "[NCAAF] Temple Owls @ UMass Minutemen (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/NCAAF07/mono.m3u8"
-    },
-    "[NCAAF] Maine Black Bears @ Liberty Flames (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/NCAAF08/mono.m3u8"
-    },
-    "[NCAAF] Montana State Bobcats @ Oregon Ducks (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/BTN/mono.m3u8"
-    },
-    "[MLB] Tampa Bay Rays @ Washington Nationals (SD)": {
-      "logo": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
-      "url": "http://origin.thetvapp.to/hls/mlb-01/mono.m3u8"
-    },
-    "[MLB] Miami Marlins @ New York Mets (SD)": {
-      "logo": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
-      "url": "http://origin.thetvapp.to/hls/mlb-24/mono.m3u8"
-    },
-    "[MLB] Pittsburgh Pirates @ Boston Red Sox (SD)": {
-      "logo": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
-      "url": "http://origin.thetvapp.to/hls/mlb-22/mono.m3u8"
-    },
-    "[NCAAF] Alabama A&M Bulldogs @ Arkansas Razorbacks (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/SECN/mono.m3u8"
-    },
-    "[NCAAF] Chattanooga Mocs @ Memphis Tigers (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/NCAAF09/mono.m3u8"
-    },
-    "[NCAAF] Albany @ Iowa Hawkeyes (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/FoxSports1/mono.m3u8"
-    },
-    "[NCAAF] Coastal Carolina Chanticleers @ Virginia Cavaliers (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/ACCNetwork/mono.m3u8"
-    },
-    "[NCAAF] Illinois State Redbirds @ Oklahoma Sooners (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/NCAAF10/mono.m3u8"
-    },
-    "[NCAAF] Weber State Wildcats @ James Madison Dukes (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/NCAAF11/mono.m3u8"
-    },
-    "[MLB] Atlanta Braves @ Philadelphia Phillies (SD)": {
-      "logo": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
-      "url": "http://origin.thetvapp.to/hls/mlb-18/mono.m3u8"
-    },
-    "[MLB] St. Louis Cardinals @ Cincinnati Reds (SD)": {
-      "logo": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
-      "url": "http://origin.thetvapp.to/hls/mlb-04/mono.m3u8"
-    },
-    "[NCAAF] North Dakota Fighting Hawks @ Kansas State Wildcats (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/NCAAF16/mono.m3u8"
-    },
-    "[WNBA] Minnesota Lynx @ Connecticut Sun (SD)": {
-      "logo": "https://i.gyazo.com/f356a338044d1dfa9eed11979f8cf13f.png",
-      "url": "http://origin.thetvapp.to/hls/NBATV/mono.m3u8"
-    },
-    "[NCAAF] North Alabama Lions @ Western Kentucky Hilltoppers (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/NCAAF19/mono.m3u8"
-    },
-    "[NCAAF] Nicholls State Colonels @ Troy Trojans (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/NCAAF18/mono.m3u8"
-    },
-    "[NCAAF] Morgan State Bears @ South Alabama Jaguars (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/NCAAF17/mono.m3u8"
-    },
-    "[NCAAF] LIU Sharks @ Florida Gators (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/NCAAF15/mono.m3u8"
-    },
-    "[NCAAF] Charleston Southern Buccaneers @ Vanderbilt Commodores (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/NCAAF14/mono.m3u8"
-    },
-    "[NCAAF] Austin Peay Governors @ Middle Tennessee Blue Raiders (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/NCAAF13/mono.m3u8"
-    },
-    "[NCAAF] Southeast Missouri State Redhawks @ Arkansas State Red Wolves (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/NCAAF12/mono.m3u8"
-    },
-    "[MLB] Los Angeles Angels @ Houston Astros (SD)": {
-      "logo": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
-      "url": "http://origin.thetvapp.to/hls/mlb-06/mono.m3u8"
-    },
-    "[MLB] San Diego Padres @ Minnesota Twins (SD)": {
-      "logo": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
-      "url": "http://origin.thetvapp.to/hls/mlb-20/mono.m3u8"
-    },
-    "[MLB] New York Yankees @ Chicago White Sox (SD)": {
-      "logo": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
-      "url": "http://origin.thetvapp.to/hls/mlb-03/mono.m3u8"
-    },
-    "[MLB] Baltimore Orioles @ San Francisco Giants (SD)": {
-      "logo": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
-      "url": "http://origin.thetvapp.to/hls/mlb-27/mono.m3u8"
-    },
-    "[MLB] Seattle Mariners @ Cleveland Guardians (SD)": {
-      "logo": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
-      "url": "http://origin.thetvapp.to/hls/mlb-30/mono.m3u8"
-    },
-    "[MLB] Detroit Tigers @ Kansas City Royals (SD)": {
-      "logo": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
-      "url": "http://origin.thetvapp.to/hls/mlb-05/mono.m3u8"
-    },
-    "[NCAAF] Missouri State Bears @ USC Trojans (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/BTN/mono.m3u8"
-    },
-    "[NCAAF] UTEP Miners @ Utah State Aggies (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/CBSSportsNetworkUSA/mono.m3u8"
-    },
-    "[NCAAF] New Mexico Lobos @ Michigan Wolverines (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/WNBCDT1/mono.m3u8"
-    },
-    "[NCAAF] Southeastern Louisiana Lions @ Louisiana Tech Bulldogs (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/NCAAF21/mono.m3u8"
-    },
-    "[NCAAF] LSU Tigers @ Clemson Tigers (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/ESPNU/mono.m3u8"
-    },
-    "[NCAAF] Arkansas Pine Bluff Golden Lions @ Texas Tech Red Raiders (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/NCAAF20/mono.m3u8"
-    },
-    "[NCAAF] Georgia State Panthers @ Ole Miss Rebels (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/SECN/mono.m3u8"
-    },
-    "[NCAAF] Abilene Christian Wildcats @ Tulsa Golden Hurricane (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/NCAAF22/mono.m3u8"
-    },
-    "[NCAAF] Portland State Vikings @ BYU Cougars (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/NCAAF23/mono.m3u8"
-    },
-    "[NCAAF] Eastern Michigan Eagles @ Texas State Bobcats (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/NCAAF24/mono.m3u8"
-    },
-    "[NCAAF] Lamar Cardinals @ North Texas Mean Green (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/NCAAF25/mono.m3u8"
-    },
-    "[NCAAF] Rice Owls @ Louisiana Ragin Cajuns (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/NCAAF26/mono.m3u8"
-    },
-    "[MLB] Chicago Cubs @ Colorado Rockies (SD)": {
-      "logo": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
-      "url": "http://origin.thetvapp.to/hls/mlb-25/mono.m3u8"
-    },
-    "[WNBA] Washington Mystics @ Golden State Valkyries (SD)": {
-      "logo": "https://i.gyazo.com/f356a338044d1dfa9eed11979f8cf13f.png",
-      "url": "http://origin.thetvapp.to/hls/WNBA02/mono.m3u8"
-    },
-    "[NCAAF] Bryant Bulldogs @ New Mexico State Aggies (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/NCAAF28/mono.m3u8"
-    },
-    "[NCAAF] East Texas A&M Lions @ SMU Mustangs (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/ACCNetwork/mono.m3u8"
-    },
-    "[NCAAF] UTSA Roadrunners @ Texas A&M Aggies (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/ESPN/mono.m3u8"
-    },
-    "[WNBA] Chicago Sky @ Seattle Storm (SD)": {
-      "logo": "https://i.gyazo.com/f356a338044d1dfa9eed11979f8cf13f.png",
-      "url": "http://origin.thetvapp.to/hls/WNBA03/mono.m3u8"
-    },
-    "[MLB] Arizona Diamondbacks @ Los Angeles Dodgers (SD)": {
-      "logo": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
-      "url": "http://origin.thetvapp.to/hls/mlb-14/mono.m3u8"
-    },
-    "[NCAAF] Georgia Southern Eagles @ Fresno State Bulldogs (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/FoxSports1/mono.m3u8"
-    },
-    "[NCAAF] Idaho Vandals @ Washington State Cougars (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/WPIX/mono.m3u8"
-    },
-    "[NCAAF] Northern Arizona Lumberjacks @ Arizona State Sun Devils (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/NCAAF27/mono.m3u8"
-    },
-    "[WNBA] New York Liberty @ Phoenix Mercury (SD)": {
-      "logo": "https://i.gyazo.com/f356a338044d1dfa9eed11979f8cf13f.png",
-      "url": "http://origin.thetvapp.to/hls/NBATV/mono.m3u8"
-    },
-    "[MLB] Texas Rangers @ Oakland Athletics (SD)": {
-      "logo": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
-      "url": "http://origin.thetvapp.to/hls/mlb-19/mono.m3u8"
-    },
-    "[NCAAF] Hawaii Rainbow Warriors @ Arizona Wildcats (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/TNTEast/mono.m3u8"
-    },
-    "[NCAAF] California Golden Bears @ Oregon State Beavers (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/ESPN/mono.m3u8"
-    },
-    "[NCAAF] Colorado State Rams @ Washington Huskies (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/BTN/mono.m3u8"
-    },
-    "[NCAAF] Utah Utes @ UCLA Bruins (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "http://origin.thetvapp.to/hls/WNYWDT1/mono.m3u8"
-    }
+  "[NCAAF] Syracuse Orange @ Tennessee Volunteers": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/WABCDT1/mono.m3u8"
+  },
+  "[NCAAF] Texas Longhorns @ Ohio State Buckeyes": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/WNYWDT1/mono.m3u8"
+  },
+  "[NCAAF] Northwestern Wildcats @ Tulane Green Wave": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/ESPNU/mono.m3u8"
+  },
+  "[NCAAF] VMI Keydets @ Navy Midshipmen": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/CBSSportsNetworkUSA/mono.m3u8"
+  },
+  "[NCAAF] Mississippi State Bulldogs @ Southern Mississippi Golden Eagles": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/ESPN/mono.m3u8"
+  },
+  "[NCAAF] Merrimack Warriors @ Kent State Golden Flashes": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/NCAAF02/mono.m3u8"
+  },
+  "[NCAAF] Florida Atlantic Owls @ Maryland Terrapins": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/NCAAF01/mono.m3u8"
+  },
+  "[NCAAF] Duquesne Dukes @ Pittsburgh Panthers": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/ACCNetwork/mono.m3u8"
+  },
+  "[NCAAF] Ball State Cardinals @ Purdue Boilermakers": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/BTN/mono.m3u8"
+  },
+  "[NCAAF] Toledo Rockets @ Kentucky Wildcats": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/SECN/mono.m3u8"
+  },
+  "[NCAAF] Robert Morris Colonials @ West Virginia Mountaineers": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/NCAAF05/mono.m3u8"
+  },
+  "[NCAAF] Central Connecticut Blue Devils @ UConn Huskies": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/NCAAF04/mono.m3u8"
+  },
+  "[NCAAF] Fordham Rams @ Boston College Eagles": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/NCAAF03/mono.m3u8"
+  },
+  "[NCAAF] Old Dominion Monarchs @ Indiana Hoosiers": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/FoxSports1/mono.m3u8"
+  },
+  "[NCAAF] Eastern Kentucky Colonels @ Louisville Cardinals": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/ACCNetwork/mono.m3u8"
+  },
+  "[MLB] Milwaukee Brewers @ Toronto Blue Jays": {
+    "logo": "https://i.gyazo.com/0fe7865ef2f06c9507791b24f04dbca8.png",
+    "url": "http://origin.thetvapp.to/hls/mlb-12/mono.m3u8"
+  },
+  "[NCAAF] Bucknell Bison @ Air Force Falcons": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/CBSSportsNetworkUSA/mono.m3u8"
+  },
+  "[NCAAF] Alabama Crimson Tide @ Florida State Seminoles": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/WABCDT1/mono.m3u8"
+  },
+  "[NCAAF] Marshall Thundering Herd @ Georgia Bulldogs": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/ESPN/mono.m3u8"
+  },
+  "[NCAAF] Holy Cross Crusaders @ Northern Illinois Huskies": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/NCAAF06/mono.m3u8"
+  },
+  "[NCAAF] South Dakota Coyotes @ Iowa State Cyclones": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/WNYWDT1/mono.m3u8"
+  },
+  "[NCAAF] Nevada Wolf Pack @ Penn State Nittany Lions": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/WCBSDT1/mono.m3u8"
+  },
+  "[NCAAF] Temple Owls @ UMass Minutemen": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/NCAAF07/mono.m3u8"
+  },
+  "[NCAAF] Maine Black Bears @ Liberty Flames": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/NCAAF08/mono.m3u8"
+  },
+  "[NCAAF] Montana State Bobcats @ Oregon Ducks": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/BTN/mono.m3u8"
+  },
+  "[MLB] Tampa Bay Rays @ Washington Nationals": {
+    "logo": "https://i.gyazo.com/0fe7865ef2f06c9507791b24f04dbca8.png",
+    "url": "http://origin.thetvapp.to/hls/mlb-01/mono.m3u8"
+  },
+  "[MLB] Miami Marlins @ New York Mets": {
+    "logo": "https://i.gyazo.com/0fe7865ef2f06c9507791b24f04dbca8.png",
+    "url": "http://origin.thetvapp.to/hls/mlb-24/mono.m3u8"
+  },
+  "[MLB] Pittsburgh Pirates @ Boston Red Sox": {
+    "logo": "https://i.gyazo.com/0fe7865ef2f06c9507791b24f04dbca8.png",
+    "url": "http://origin.thetvapp.to/hls/mlb-22/mono.m3u8"
+  },
+  "[NCAAF] Alabama A&M Bulldogs @ Arkansas Razorbacks": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/SECN/mono.m3u8"
+  },
+  "[NCAAF] Chattanooga Mocs @ Memphis Tigers": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/NCAAF09/mono.m3u8"
+  },
+  "[NCAAF] Albany @ Iowa Hawkeyes": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/FoxSports1/mono.m3u8"
+  },
+  "[NCAAF] Coastal Carolina Chanticleers @ Virginia Cavaliers": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/ACCNetwork/mono.m3u8"
+  },
+  "[NCAAF] Illinois State Redbirds @ Oklahoma Sooners": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/NCAAF10/mono.m3u8"
+  },
+  "[NCAAF] Weber State Wildcats @ James Madison Dukes": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/NCAAF11/mono.m3u8"
+  },
+  "[MLB] Atlanta Braves @ Philadelphia Phillies": {
+    "logo": "https://i.gyazo.com/0fe7865ef2f06c9507791b24f04dbca8.png",
+    "url": "http://origin.thetvapp.to/hls/mlb-18/mono.m3u8"
+  },
+  "[MLB] St. Louis Cardinals @ Cincinnati Reds": {
+    "logo": "https://i.gyazo.com/0fe7865ef2f06c9507791b24f04dbca8.png",
+    "url": "http://origin.thetvapp.to/hls/mlb-04/mono.m3u8"
+  },
+  "[NCAAF] North Dakota Fighting Hawks @ Kansas State Wildcats": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/NCAAF16/mono.m3u8"
+  },
+  "[WNBA] Minnesota Lynx @ Connecticut Sun": {
+    "logo": "https://i.gyazo.com/02d665a5704118d195dbcd5fa20d5462.png",
+    "url": "http://origin.thetvapp.to/hls/NBATV/mono.m3u8"
+  },
+  "[NCAAF] North Alabama Lions @ Western Kentucky Hilltoppers": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/NCAAF19/mono.m3u8"
+  },
+  "[NCAAF] Nicholls State Colonels @ Troy Trojans": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/NCAAF18/mono.m3u8"
+  },
+  "[NCAAF] Morgan State Bears @ South Alabama Jaguars": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/NCAAF17/mono.m3u8"
+  },
+  "[NCAAF] LIU Sharks @ Florida Gators": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/NCAAF15/mono.m3u8"
+  },
+  "[NCAAF] Charleston Southern Buccaneers @ Vanderbilt Commodores": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/NCAAF14/mono.m3u8"
+  },
+  "[NCAAF] Austin Peay Governors @ Middle Tennessee Blue Raiders": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/NCAAF13/mono.m3u8"
+  },
+  "[NCAAF] Southeast Missouri State Redhawks @ Arkansas State Red Wolves": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/NCAAF12/mono.m3u8"
+  },
+  "[MLB] Los Angeles Angels @ Houston Astros": {
+    "logo": "https://i.gyazo.com/0fe7865ef2f06c9507791b24f04dbca8.png",
+    "url": "http://origin.thetvapp.to/hls/mlb-06/mono.m3u8"
+  },
+  "[MLB] San Diego Padres @ Minnesota Twins": {
+    "logo": "https://i.gyazo.com/0fe7865ef2f06c9507791b24f04dbca8.png",
+    "url": "http://origin.thetvapp.to/hls/mlb-20/mono.m3u8"
+  },
+  "[MLB] New York Yankees @ Chicago White Sox": {
+    "logo": "https://i.gyazo.com/0fe7865ef2f06c9507791b24f04dbca8.png",
+    "url": "http://origin.thetvapp.to/hls/mlb-03/mono.m3u8"
+  },
+  "[MLB] Baltimore Orioles @ San Francisco Giants": {
+    "logo": "https://i.gyazo.com/0fe7865ef2f06c9507791b24f04dbca8.png",
+    "url": "http://origin.thetvapp.to/hls/mlb-27/mono.m3u8"
+  },
+  "[MLB] Seattle Mariners @ Cleveland Guardians": {
+    "logo": "https://i.gyazo.com/0fe7865ef2f06c9507791b24f04dbca8.png",
+    "url": "http://origin.thetvapp.to/hls/mlb-30/mono.m3u8"
+  },
+  "[MLB] Detroit Tigers @ Kansas City Royals": {
+    "logo": "https://i.gyazo.com/0fe7865ef2f06c9507791b24f04dbca8.png",
+    "url": "http://origin.thetvapp.to/hls/mlb-05/mono.m3u8"
+  },
+  "[NCAAF] Missouri State Bears @ USC Trojans": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/BTN/mono.m3u8"
+  },
+  "[NCAAF] UTEP Miners @ Utah State Aggies": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/CBSSportsNetworkUSA/mono.m3u8"
+  },
+  "[NCAAF] New Mexico Lobos @ Michigan Wolverines": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/WNBCDT1/mono.m3u8"
+  },
+  "[NCAAF] Southeastern Louisiana Lions @ Louisiana Tech Bulldogs": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/NCAAF21/mono.m3u8"
+  },
+  "[NCAAF] LSU Tigers @ Clemson Tigers": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/ESPNU/mono.m3u8"
+  },
+  "[NCAAF] Arkansas Pine Bluff Golden Lions @ Texas Tech Red Raiders": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/NCAAF20/mono.m3u8"
+  },
+  "[NCAAF] Georgia State Panthers @ Ole Miss Rebels": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/SECN/mono.m3u8"
+  },
+  "[NCAAF] Abilene Christian Wildcats @ Tulsa Golden Hurricane": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/NCAAF22/mono.m3u8"
+  },
+  "[NCAAF] Portland State Vikings @ BYU Cougars": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/NCAAF23/mono.m3u8"
+  },
+  "[NCAAF] Eastern Michigan Eagles @ Texas State Bobcats": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/NCAAF24/mono.m3u8"
+  },
+  "[NCAAF] Lamar Cardinals @ North Texas Mean Green": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/NCAAF25/mono.m3u8"
+  },
+  "[NCAAF] Rice Owls @ Louisiana Ragin Cajuns": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/NCAAF26/mono.m3u8"
+  },
+  "[MLB] Chicago Cubs @ Colorado Rockies": {
+    "logo": "https://i.gyazo.com/0fe7865ef2f06c9507791b24f04dbca8.png",
+    "url": "http://origin.thetvapp.to/hls/mlb-25/mono.m3u8"
+  },
+  "[WNBA] Washington Mystics @ Golden State Valkyries": {
+    "logo": "https://i.gyazo.com/02d665a5704118d195dbcd5fa20d5462.png",
+    "url": "http://origin.thetvapp.to/hls/WNBA02/mono.m3u8"
+  },
+  "[NCAAF] Bryant Bulldogs @ New Mexico State Aggies": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/NCAAF28/mono.m3u8"
+  },
+  "[NCAAF] East Texas A&M Lions @ SMU Mustangs": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/ACCNetwork/mono.m3u8"
+  },
+  "[NCAAF] UTSA Roadrunners @ Texas A&M Aggies": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/ESPN/mono.m3u8"
+  },
+  "[WNBA] Chicago Sky @ Seattle Storm": {
+    "logo": "https://i.gyazo.com/02d665a5704118d195dbcd5fa20d5462.png",
+    "url": "http://origin.thetvapp.to/hls/WNBA03/mono.m3u8"
+  },
+  "[MLB] Arizona Diamondbacks @ Los Angeles Dodgers": {
+    "logo": "https://i.gyazo.com/0fe7865ef2f06c9507791b24f04dbca8.png",
+    "url": "http://origin.thetvapp.to/hls/mlb-14/mono.m3u8"
+  },
+  "[NCAAF] Georgia Southern Eagles @ Fresno State Bulldogs": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/FoxSports1/mono.m3u8"
+  },
+  "[NCAAF] Idaho Vandals @ Washington State Cougars": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/WPIX/mono.m3u8"
+  },
+  "[NCAAF] Northern Arizona Lumberjacks @ Arizona State Sun Devils": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/NCAAF27/mono.m3u8"
+  },
+  "[WNBA] New York Liberty @ Phoenix Mercury": {
+    "logo": "https://i.gyazo.com/02d665a5704118d195dbcd5fa20d5462.png",
+    "url": "http://origin.thetvapp.to/hls/NBATV/mono.m3u8"
+  },
+  "[MLB] Texas Rangers @ Oakland Athletics": {
+    "logo": "https://i.gyazo.com/0fe7865ef2f06c9507791b24f04dbca8.png",
+    "url": "http://origin.thetvapp.to/hls/mlb-19/mono.m3u8"
+  },
+  "[NCAAF] Hawaii Rainbow Warriors @ Arizona Wildcats": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/TNTEast/mono.m3u8"
+  },
+  "[NCAAF] California Golden Bears @ Oregon State Beavers": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/ESPN/mono.m3u8"
+  },
+  "[NCAAF] Colorado State Rams @ Washington Huskies": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/BTN/mono.m3u8"
+  },
+  "[NCAAF] Utah Utes @ UCLA Bruins": {
+    "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+    "url": "http://origin.thetvapp.to/hls/WNYWDT1/mono.m3u8"
   }
 }

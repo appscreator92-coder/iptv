@@ -3,7 +3,9 @@ import asyncio
 from pathlib import Path
 
 import httpx
-from scrape import tvpass  # , fstv
+from scrape import fstv, logger, tvpass
+
+log = logger.get_logger(__name__)
 
 base_url = "https://s.id/ePwXT"
 
@@ -19,13 +21,14 @@ client = httpx.AsyncClient(
 
 
 async def vanilla_fetch() -> tuple[list[str], int]:
-    print("Fetching base M3U8")
+    log.info("Fetching base M3U8")
 
     try:
         r = await client.get(base_url)
         r.raise_for_status()
     except Exception as e:
-        raise SystemExit(f'Failed to fetch "{base_url}"\n{e}') from e
+        log.error(f'Failed to fetch "{base_url}"\n{e}')
+        raise SystemExit(e) from e
 
     d = r.text.splitlines()[1:]
 
@@ -37,11 +40,11 @@ async def vanilla_fetch() -> tuple[list[str], int]:
 async def main() -> None:
     await tvpass.main(client)
 
-    # await fstv.main(client)
+    await fstv.main(client)
 
     base_m3u8, chnl_number = await vanilla_fetch()
 
-    additions = tvpass.urls  # | fstv.urls
+    additions = tvpass.urls | fstv.urls
 
     lines = [
         f'#EXTINF:-1 tvg-chno="{chnl_number}" tvg-id="(N/A)" tvg-name="{event}" tvg-logo="{info["logo"]}" group-title="Live Events",{event}\n{info["url"]}'
@@ -60,7 +63,7 @@ async def main() -> None:
         encoding="utf-8",
     )
 
-    print(f"M3U8 saved to {m3u8_file.name}")
+    log.info(f"M3U8 saved to {m3u8_file.name}")
 
 
 if __name__ == "__main__":

@@ -3,7 +3,11 @@ from urllib.parse import urljoin
 
 import httpx
 from selectolax.parser import HTMLParser
-from tvpass import logos
+
+from .logger import get_logger
+from .tvpass import logos
+
+log = get_logger(__name__)
 
 urls: dict[str, dict[str, str]] = {}
 
@@ -33,13 +37,13 @@ async def get_base(client: httpx.AsyncClient) -> str:
 
 
 async def get_hrefs(client: httpx.AsyncClient, base_url: str) -> list[tuple[str, str]]:
-    print(f'Scraping from "{base_url}"')
+    log.info(f'Scraping from "{base_url}"')
 
     try:
         r = await client.get(base_url)
         r.raise_for_status()
     except Exception as e:
-        print(f'Failed to fetch "{base_url}"\n{e}')
+        log.error(f'Failed to fetch "{base_url}"\n{e}')
 
         return []
 
@@ -74,7 +78,7 @@ async def fetch_m3u8(client: httpx.AsyncClient, url: str) -> tuple[str, list[str
         r = await client.get(url)
         r.raise_for_status()
     except Exception as e:
-        print(f'Failed to fetch "{url}"\n{e}')
+        log.error(f'Failed to fetch "{url}"\n{e}')
 
         return []
 
@@ -100,7 +104,7 @@ async def fetch_m3u8(client: httpx.AsyncClient, url: str) -> tuple[str, list[str
 
 async def main(client: httpx.AsyncClient) -> None:
     if not (base_url := await get_base(client)):
-        print("No working FSTV mirrors")
+        log.warning("No working FSTV mirrors")
         return
 
     events = await get_hrefs(client, base_url)
@@ -127,4 +131,4 @@ async def main(client: httpx.AsyncClient) -> None:
                 ),
             }
 
-    print(f"Collected {len(urls)} live events")
+    log.info(f"Collected {len(urls)} live events")

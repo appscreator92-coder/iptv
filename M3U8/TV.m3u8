@@ -133,161 +133,161 @@ http://fl5.moveonjoy.com/TSN_2/index.m3u8
 http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/31124/index.m3u8
 #EXTINF:-1 tvg-chno="67" tvg-id="YES.Network.us" tvg-name="YES Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30017_dark_360w_270h.png" group-title="TV",YES Network
 https://fl5.moveonjoy.com/YES_NETWORK/index.m3u8
-#EXTINF:-1 tvg-chno="68" tvg-id="(N/A)" tvg-name="[MLB] Arizona Diamondbacks @ Los Angeles Dodgers (SD)" tvg-logo="https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png" group-title="Live Events",[MLB] Arizona Diamondbacks @ Los Angeles Dodgers (SD)
+#EXTINF:-1 tvg-chno="68" tvg-id="(N/A)" tvg-name="[MLB] Arizona Diamondbacks @ Los Angeles Dodgers" tvg-logo="https://i.gyazo.com/0fe7865ef2f06c9507791b24f04dbca8.png" group-title="Live Events",[MLB] Arizona Diamondbacks @ Los Angeles Dodgers
 http://origin.thetvapp.to/hls/mlb-14/mono.m3u8
-#EXTINF:-1 tvg-chno="69" tvg-id="(N/A)" tvg-name="[MLB] Atlanta Braves @ Philadelphia Phillies (SD)" tvg-logo="https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png" group-title="Live Events",[MLB] Atlanta Braves @ Philadelphia Phillies (SD)
+#EXTINF:-1 tvg-chno="69" tvg-id="(N/A)" tvg-name="[MLB] Atlanta Braves @ Philadelphia Phillies" tvg-logo="https://i.gyazo.com/0fe7865ef2f06c9507791b24f04dbca8.png" group-title="Live Events",[MLB] Atlanta Braves @ Philadelphia Phillies
 http://origin.thetvapp.to/hls/mlb-18/mono.m3u8
-#EXTINF:-1 tvg-chno="70" tvg-id="(N/A)" tvg-name="[MLB] Baltimore Orioles @ San Francisco Giants (SD)" tvg-logo="https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png" group-title="Live Events",[MLB] Baltimore Orioles @ San Francisco Giants (SD)
+#EXTINF:-1 tvg-chno="70" tvg-id="(N/A)" tvg-name="[MLB] Baltimore Orioles @ San Francisco Giants" tvg-logo="https://i.gyazo.com/0fe7865ef2f06c9507791b24f04dbca8.png" group-title="Live Events",[MLB] Baltimore Orioles @ San Francisco Giants
 http://origin.thetvapp.to/hls/mlb-27/mono.m3u8
-#EXTINF:-1 tvg-chno="71" tvg-id="(N/A)" tvg-name="[MLB] Chicago Cubs @ Colorado Rockies (SD)" tvg-logo="https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png" group-title="Live Events",[MLB] Chicago Cubs @ Colorado Rockies (SD)
+#EXTINF:-1 tvg-chno="71" tvg-id="(N/A)" tvg-name="[MLB] Chicago Cubs @ Colorado Rockies" tvg-logo="https://i.gyazo.com/0fe7865ef2f06c9507791b24f04dbca8.png" group-title="Live Events",[MLB] Chicago Cubs @ Colorado Rockies
 http://origin.thetvapp.to/hls/mlb-25/mono.m3u8
-#EXTINF:-1 tvg-chno="72" tvg-id="(N/A)" tvg-name="[MLB] Detroit Tigers @ Kansas City Royals (SD)" tvg-logo="https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png" group-title="Live Events",[MLB] Detroit Tigers @ Kansas City Royals (SD)
+#EXTINF:-1 tvg-chno="72" tvg-id="(N/A)" tvg-name="[MLB] Detroit Tigers @ Kansas City Royals" tvg-logo="https://i.gyazo.com/0fe7865ef2f06c9507791b24f04dbca8.png" group-title="Live Events",[MLB] Detroit Tigers @ Kansas City Royals
 http://origin.thetvapp.to/hls/mlb-05/mono.m3u8
-#EXTINF:-1 tvg-chno="73" tvg-id="(N/A)" tvg-name="[MLB] Los Angeles Angels @ Houston Astros (SD)" tvg-logo="https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png" group-title="Live Events",[MLB] Los Angeles Angels @ Houston Astros (SD)
+#EXTINF:-1 tvg-chno="73" tvg-id="(N/A)" tvg-name="[MLB] Los Angeles Angels @ Houston Astros" tvg-logo="https://i.gyazo.com/0fe7865ef2f06c9507791b24f04dbca8.png" group-title="Live Events",[MLB] Los Angeles Angels @ Houston Astros
 http://origin.thetvapp.to/hls/mlb-06/mono.m3u8
-#EXTINF:-1 tvg-chno="74" tvg-id="(N/A)" tvg-name="[MLB] Miami Marlins @ New York Mets (SD)" tvg-logo="https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png" group-title="Live Events",[MLB] Miami Marlins @ New York Mets (SD)
+#EXTINF:-1 tvg-chno="74" tvg-id="(N/A)" tvg-name="[MLB] Miami Marlins @ New York Mets" tvg-logo="https://i.gyazo.com/0fe7865ef2f06c9507791b24f04dbca8.png" group-title="Live Events",[MLB] Miami Marlins @ New York Mets
 http://origin.thetvapp.to/hls/mlb-24/mono.m3u8
-#EXTINF:-1 tvg-chno="75" tvg-id="(N/A)" tvg-name="[MLB] Milwaukee Brewers @ Toronto Blue Jays (SD)" tvg-logo="https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png" group-title="Live Events",[MLB] Milwaukee Brewers @ Toronto Blue Jays (SD)
+#EXTINF:-1 tvg-chno="75" tvg-id="(N/A)" tvg-name="[MLB] Milwaukee Brewers @ Toronto Blue Jays" tvg-logo="https://i.gyazo.com/0fe7865ef2f06c9507791b24f04dbca8.png" group-title="Live Events",[MLB] Milwaukee Brewers @ Toronto Blue Jays
 http://origin.thetvapp.to/hls/mlb-12/mono.m3u8
-#EXTINF:-1 tvg-chno="76" tvg-id="(N/A)" tvg-name="[MLB] New York Yankees @ Chicago White Sox (SD)" tvg-logo="https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png" group-title="Live Events",[MLB] New York Yankees @ Chicago White Sox (SD)
+#EXTINF:-1 tvg-chno="76" tvg-id="(N/A)" tvg-name="[MLB] New York Yankees @ Chicago White Sox" tvg-logo="https://i.gyazo.com/0fe7865ef2f06c9507791b24f04dbca8.png" group-title="Live Events",[MLB] New York Yankees @ Chicago White Sox
 http://origin.thetvapp.to/hls/mlb-03/mono.m3u8
-#EXTINF:-1 tvg-chno="77" tvg-id="(N/A)" tvg-name="[MLB] Pittsburgh Pirates @ Boston Red Sox (SD)" tvg-logo="https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png" group-title="Live Events",[MLB] Pittsburgh Pirates @ Boston Red Sox (SD)
+#EXTINF:-1 tvg-chno="77" tvg-id="(N/A)" tvg-name="[MLB] Pittsburgh Pirates @ Boston Red Sox" tvg-logo="https://i.gyazo.com/0fe7865ef2f06c9507791b24f04dbca8.png" group-title="Live Events",[MLB] Pittsburgh Pirates @ Boston Red Sox
 http://origin.thetvapp.to/hls/mlb-22/mono.m3u8
-#EXTINF:-1 tvg-chno="78" tvg-id="(N/A)" tvg-name="[MLB] San Diego Padres @ Minnesota Twins (SD)" tvg-logo="https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png" group-title="Live Events",[MLB] San Diego Padres @ Minnesota Twins (SD)
+#EXTINF:-1 tvg-chno="78" tvg-id="(N/A)" tvg-name="[MLB] San Diego Padres @ Minnesota Twins" tvg-logo="https://i.gyazo.com/0fe7865ef2f06c9507791b24f04dbca8.png" group-title="Live Events",[MLB] San Diego Padres @ Minnesota Twins
 http://origin.thetvapp.to/hls/mlb-20/mono.m3u8
-#EXTINF:-1 tvg-chno="79" tvg-id="(N/A)" tvg-name="[MLB] Seattle Mariners @ Cleveland Guardians (SD)" tvg-logo="https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png" group-title="Live Events",[MLB] Seattle Mariners @ Cleveland Guardians (SD)
+#EXTINF:-1 tvg-chno="79" tvg-id="(N/A)" tvg-name="[MLB] Seattle Mariners @ Cleveland Guardians" tvg-logo="https://i.gyazo.com/0fe7865ef2f06c9507791b24f04dbca8.png" group-title="Live Events",[MLB] Seattle Mariners @ Cleveland Guardians
 http://origin.thetvapp.to/hls/mlb-30/mono.m3u8
-#EXTINF:-1 tvg-chno="80" tvg-id="(N/A)" tvg-name="[MLB] St. Louis Cardinals @ Cincinnati Reds (SD)" tvg-logo="https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png" group-title="Live Events",[MLB] St. Louis Cardinals @ Cincinnati Reds (SD)
+#EXTINF:-1 tvg-chno="80" tvg-id="(N/A)" tvg-name="[MLB] St. Louis Cardinals @ Cincinnati Reds" tvg-logo="https://i.gyazo.com/0fe7865ef2f06c9507791b24f04dbca8.png" group-title="Live Events",[MLB] St. Louis Cardinals @ Cincinnati Reds
 http://origin.thetvapp.to/hls/mlb-04/mono.m3u8
-#EXTINF:-1 tvg-chno="81" tvg-id="(N/A)" tvg-name="[MLB] Tampa Bay Rays @ Washington Nationals (SD)" tvg-logo="https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png" group-title="Live Events",[MLB] Tampa Bay Rays @ Washington Nationals (SD)
+#EXTINF:-1 tvg-chno="81" tvg-id="(N/A)" tvg-name="[MLB] Tampa Bay Rays @ Washington Nationals" tvg-logo="https://i.gyazo.com/0fe7865ef2f06c9507791b24f04dbca8.png" group-title="Live Events",[MLB] Tampa Bay Rays @ Washington Nationals
 http://origin.thetvapp.to/hls/mlb-01/mono.m3u8
-#EXTINF:-1 tvg-chno="82" tvg-id="(N/A)" tvg-name="[MLB] Texas Rangers @ Oakland Athletics (SD)" tvg-logo="https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png" group-title="Live Events",[MLB] Texas Rangers @ Oakland Athletics (SD)
+#EXTINF:-1 tvg-chno="82" tvg-id="(N/A)" tvg-name="[MLB] Texas Rangers @ Oakland Athletics" tvg-logo="https://i.gyazo.com/0fe7865ef2f06c9507791b24f04dbca8.png" group-title="Live Events",[MLB] Texas Rangers @ Oakland Athletics
 http://origin.thetvapp.to/hls/mlb-19/mono.m3u8
-#EXTINF:-1 tvg-chno="83" tvg-id="(N/A)" tvg-name="[NCAAF] Abilene Christian Wildcats @ Tulsa Golden Hurricane (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Abilene Christian Wildcats @ Tulsa Golden Hurricane (SD)
+#EXTINF:-1 tvg-chno="83" tvg-id="(N/A)" tvg-name="[NCAAF] Abilene Christian Wildcats @ Tulsa Golden Hurricane" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Abilene Christian Wildcats @ Tulsa Golden Hurricane
 http://origin.thetvapp.to/hls/NCAAF22/mono.m3u8
-#EXTINF:-1 tvg-chno="84" tvg-id="(N/A)" tvg-name="[NCAAF] Alabama A&M Bulldogs @ Arkansas Razorbacks (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Alabama A&M Bulldogs @ Arkansas Razorbacks (SD)
+#EXTINF:-1 tvg-chno="84" tvg-id="(N/A)" tvg-name="[NCAAF] Alabama A&M Bulldogs @ Arkansas Razorbacks" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Alabama A&M Bulldogs @ Arkansas Razorbacks
 http://origin.thetvapp.to/hls/SECN/mono.m3u8
-#EXTINF:-1 tvg-chno="85" tvg-id="(N/A)" tvg-name="[NCAAF] Alabama Crimson Tide @ Florida State Seminoles (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Alabama Crimson Tide @ Florida State Seminoles (SD)
+#EXTINF:-1 tvg-chno="85" tvg-id="(N/A)" tvg-name="[NCAAF] Alabama Crimson Tide @ Florida State Seminoles" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Alabama Crimson Tide @ Florida State Seminoles
 http://origin.thetvapp.to/hls/WABCDT1/mono.m3u8
-#EXTINF:-1 tvg-chno="86" tvg-id="(N/A)" tvg-name="[NCAAF] Albany @ Iowa Hawkeyes (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Albany @ Iowa Hawkeyes (SD)
+#EXTINF:-1 tvg-chno="86" tvg-id="(N/A)" tvg-name="[NCAAF] Albany @ Iowa Hawkeyes" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Albany @ Iowa Hawkeyes
 http://origin.thetvapp.to/hls/FoxSports1/mono.m3u8
-#EXTINF:-1 tvg-chno="87" tvg-id="(N/A)" tvg-name="[NCAAF] Arkansas Pine Bluff Golden Lions @ Texas Tech Red Raiders (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Arkansas Pine Bluff Golden Lions @ Texas Tech Red Raiders (SD)
+#EXTINF:-1 tvg-chno="87" tvg-id="(N/A)" tvg-name="[NCAAF] Arkansas Pine Bluff Golden Lions @ Texas Tech Red Raiders" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Arkansas Pine Bluff Golden Lions @ Texas Tech Red Raiders
 http://origin.thetvapp.to/hls/NCAAF20/mono.m3u8
-#EXTINF:-1 tvg-chno="88" tvg-id="(N/A)" tvg-name="[NCAAF] Austin Peay Governors @ Middle Tennessee Blue Raiders (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Austin Peay Governors @ Middle Tennessee Blue Raiders (SD)
+#EXTINF:-1 tvg-chno="88" tvg-id="(N/A)" tvg-name="[NCAAF] Austin Peay Governors @ Middle Tennessee Blue Raiders" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Austin Peay Governors @ Middle Tennessee Blue Raiders
 http://origin.thetvapp.to/hls/NCAAF13/mono.m3u8
-#EXTINF:-1 tvg-chno="89" tvg-id="(N/A)" tvg-name="[NCAAF] Ball State Cardinals @ Purdue Boilermakers (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Ball State Cardinals @ Purdue Boilermakers (SD)
+#EXTINF:-1 tvg-chno="89" tvg-id="(N/A)" tvg-name="[NCAAF] Ball State Cardinals @ Purdue Boilermakers" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Ball State Cardinals @ Purdue Boilermakers
 http://origin.thetvapp.to/hls/BTN/mono.m3u8
-#EXTINF:-1 tvg-chno="90" tvg-id="(N/A)" tvg-name="[NCAAF] Bryant Bulldogs @ New Mexico State Aggies (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Bryant Bulldogs @ New Mexico State Aggies (SD)
+#EXTINF:-1 tvg-chno="90" tvg-id="(N/A)" tvg-name="[NCAAF] Bryant Bulldogs @ New Mexico State Aggies" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Bryant Bulldogs @ New Mexico State Aggies
 http://origin.thetvapp.to/hls/NCAAF28/mono.m3u8
-#EXTINF:-1 tvg-chno="91" tvg-id="(N/A)" tvg-name="[NCAAF] Bucknell Bison @ Air Force Falcons (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Bucknell Bison @ Air Force Falcons (SD)
+#EXTINF:-1 tvg-chno="91" tvg-id="(N/A)" tvg-name="[NCAAF] Bucknell Bison @ Air Force Falcons" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Bucknell Bison @ Air Force Falcons
 http://origin.thetvapp.to/hls/CBSSportsNetworkUSA/mono.m3u8
-#EXTINF:-1 tvg-chno="92" tvg-id="(N/A)" tvg-name="[NCAAF] California Golden Bears @ Oregon State Beavers (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] California Golden Bears @ Oregon State Beavers (SD)
+#EXTINF:-1 tvg-chno="92" tvg-id="(N/A)" tvg-name="[NCAAF] California Golden Bears @ Oregon State Beavers" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] California Golden Bears @ Oregon State Beavers
 http://origin.thetvapp.to/hls/ESPN/mono.m3u8
-#EXTINF:-1 tvg-chno="93" tvg-id="(N/A)" tvg-name="[NCAAF] Central Connecticut Blue Devils @ UConn Huskies (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Central Connecticut Blue Devils @ UConn Huskies (SD)
+#EXTINF:-1 tvg-chno="93" tvg-id="(N/A)" tvg-name="[NCAAF] Central Connecticut Blue Devils @ UConn Huskies" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Central Connecticut Blue Devils @ UConn Huskies
 http://origin.thetvapp.to/hls/NCAAF04/mono.m3u8
-#EXTINF:-1 tvg-chno="94" tvg-id="(N/A)" tvg-name="[NCAAF] Charleston Southern Buccaneers @ Vanderbilt Commodores (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Charleston Southern Buccaneers @ Vanderbilt Commodores (SD)
+#EXTINF:-1 tvg-chno="94" tvg-id="(N/A)" tvg-name="[NCAAF] Charleston Southern Buccaneers @ Vanderbilt Commodores" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Charleston Southern Buccaneers @ Vanderbilt Commodores
 http://origin.thetvapp.to/hls/NCAAF14/mono.m3u8
-#EXTINF:-1 tvg-chno="95" tvg-id="(N/A)" tvg-name="[NCAAF] Chattanooga Mocs @ Memphis Tigers (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Chattanooga Mocs @ Memphis Tigers (SD)
+#EXTINF:-1 tvg-chno="95" tvg-id="(N/A)" tvg-name="[NCAAF] Chattanooga Mocs @ Memphis Tigers" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Chattanooga Mocs @ Memphis Tigers
 http://origin.thetvapp.to/hls/NCAAF09/mono.m3u8
-#EXTINF:-1 tvg-chno="96" tvg-id="(N/A)" tvg-name="[NCAAF] Coastal Carolina Chanticleers @ Virginia Cavaliers (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Coastal Carolina Chanticleers @ Virginia Cavaliers (SD)
+#EXTINF:-1 tvg-chno="96" tvg-id="(N/A)" tvg-name="[NCAAF] Coastal Carolina Chanticleers @ Virginia Cavaliers" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Coastal Carolina Chanticleers @ Virginia Cavaliers
 http://origin.thetvapp.to/hls/ACCNetwork/mono.m3u8
-#EXTINF:-1 tvg-chno="97" tvg-id="(N/A)" tvg-name="[NCAAF] Colorado State Rams @ Washington Huskies (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Colorado State Rams @ Washington Huskies (SD)
+#EXTINF:-1 tvg-chno="97" tvg-id="(N/A)" tvg-name="[NCAAF] Colorado State Rams @ Washington Huskies" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Colorado State Rams @ Washington Huskies
 http://origin.thetvapp.to/hls/BTN/mono.m3u8
-#EXTINF:-1 tvg-chno="98" tvg-id="(N/A)" tvg-name="[NCAAF] Duquesne Dukes @ Pittsburgh Panthers (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Duquesne Dukes @ Pittsburgh Panthers (SD)
+#EXTINF:-1 tvg-chno="98" tvg-id="(N/A)" tvg-name="[NCAAF] Duquesne Dukes @ Pittsburgh Panthers" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Duquesne Dukes @ Pittsburgh Panthers
 http://origin.thetvapp.to/hls/ACCNetwork/mono.m3u8
-#EXTINF:-1 tvg-chno="99" tvg-id="(N/A)" tvg-name="[NCAAF] East Texas A&M Lions @ SMU Mustangs (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] East Texas A&M Lions @ SMU Mustangs (SD)
+#EXTINF:-1 tvg-chno="99" tvg-id="(N/A)" tvg-name="[NCAAF] East Texas A&M Lions @ SMU Mustangs" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] East Texas A&M Lions @ SMU Mustangs
 http://origin.thetvapp.to/hls/ACCNetwork/mono.m3u8
-#EXTINF:-1 tvg-chno="100" tvg-id="(N/A)" tvg-name="[NCAAF] Eastern Kentucky Colonels @ Louisville Cardinals (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Eastern Kentucky Colonels @ Louisville Cardinals (SD)
+#EXTINF:-1 tvg-chno="100" tvg-id="(N/A)" tvg-name="[NCAAF] Eastern Kentucky Colonels @ Louisville Cardinals" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Eastern Kentucky Colonels @ Louisville Cardinals
 http://origin.thetvapp.to/hls/ACCNetwork/mono.m3u8
-#EXTINF:-1 tvg-chno="101" tvg-id="(N/A)" tvg-name="[NCAAF] Eastern Michigan Eagles @ Texas State Bobcats (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Eastern Michigan Eagles @ Texas State Bobcats (SD)
+#EXTINF:-1 tvg-chno="101" tvg-id="(N/A)" tvg-name="[NCAAF] Eastern Michigan Eagles @ Texas State Bobcats" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Eastern Michigan Eagles @ Texas State Bobcats
 http://origin.thetvapp.to/hls/NCAAF24/mono.m3u8
-#EXTINF:-1 tvg-chno="102" tvg-id="(N/A)" tvg-name="[NCAAF] Florida Atlantic Owls @ Maryland Terrapins (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Florida Atlantic Owls @ Maryland Terrapins (SD)
+#EXTINF:-1 tvg-chno="102" tvg-id="(N/A)" tvg-name="[NCAAF] Florida Atlantic Owls @ Maryland Terrapins" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Florida Atlantic Owls @ Maryland Terrapins
 http://origin.thetvapp.to/hls/NCAAF01/mono.m3u8
-#EXTINF:-1 tvg-chno="103" tvg-id="(N/A)" tvg-name="[NCAAF] Fordham Rams @ Boston College Eagles (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Fordham Rams @ Boston College Eagles (SD)
+#EXTINF:-1 tvg-chno="103" tvg-id="(N/A)" tvg-name="[NCAAF] Fordham Rams @ Boston College Eagles" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Fordham Rams @ Boston College Eagles
 http://origin.thetvapp.to/hls/NCAAF03/mono.m3u8
-#EXTINF:-1 tvg-chno="104" tvg-id="(N/A)" tvg-name="[NCAAF] Georgia Southern Eagles @ Fresno State Bulldogs (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Georgia Southern Eagles @ Fresno State Bulldogs (SD)
+#EXTINF:-1 tvg-chno="104" tvg-id="(N/A)" tvg-name="[NCAAF] Georgia Southern Eagles @ Fresno State Bulldogs" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Georgia Southern Eagles @ Fresno State Bulldogs
 http://origin.thetvapp.to/hls/FoxSports1/mono.m3u8
-#EXTINF:-1 tvg-chno="105" tvg-id="(N/A)" tvg-name="[NCAAF] Georgia State Panthers @ Ole Miss Rebels (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Georgia State Panthers @ Ole Miss Rebels (SD)
+#EXTINF:-1 tvg-chno="105" tvg-id="(N/A)" tvg-name="[NCAAF] Georgia State Panthers @ Ole Miss Rebels" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Georgia State Panthers @ Ole Miss Rebels
 http://origin.thetvapp.to/hls/SECN/mono.m3u8
-#EXTINF:-1 tvg-chno="106" tvg-id="(N/A)" tvg-name="[NCAAF] Hawaii Rainbow Warriors @ Arizona Wildcats (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Hawaii Rainbow Warriors @ Arizona Wildcats (SD)
+#EXTINF:-1 tvg-chno="106" tvg-id="(N/A)" tvg-name="[NCAAF] Hawaii Rainbow Warriors @ Arizona Wildcats" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Hawaii Rainbow Warriors @ Arizona Wildcats
 http://origin.thetvapp.to/hls/TNTEast/mono.m3u8
-#EXTINF:-1 tvg-chno="107" tvg-id="(N/A)" tvg-name="[NCAAF] Holy Cross Crusaders @ Northern Illinois Huskies (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Holy Cross Crusaders @ Northern Illinois Huskies (SD)
+#EXTINF:-1 tvg-chno="107" tvg-id="(N/A)" tvg-name="[NCAAF] Holy Cross Crusaders @ Northern Illinois Huskies" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Holy Cross Crusaders @ Northern Illinois Huskies
 http://origin.thetvapp.to/hls/NCAAF06/mono.m3u8
-#EXTINF:-1 tvg-chno="108" tvg-id="(N/A)" tvg-name="[NCAAF] Idaho Vandals @ Washington State Cougars (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Idaho Vandals @ Washington State Cougars (SD)
+#EXTINF:-1 tvg-chno="108" tvg-id="(N/A)" tvg-name="[NCAAF] Idaho Vandals @ Washington State Cougars" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Idaho Vandals @ Washington State Cougars
 http://origin.thetvapp.to/hls/WPIX/mono.m3u8
-#EXTINF:-1 tvg-chno="109" tvg-id="(N/A)" tvg-name="[NCAAF] Illinois State Redbirds @ Oklahoma Sooners (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Illinois State Redbirds @ Oklahoma Sooners (SD)
+#EXTINF:-1 tvg-chno="109" tvg-id="(N/A)" tvg-name="[NCAAF] Illinois State Redbirds @ Oklahoma Sooners" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Illinois State Redbirds @ Oklahoma Sooners
 http://origin.thetvapp.to/hls/NCAAF10/mono.m3u8
-#EXTINF:-1 tvg-chno="110" tvg-id="(N/A)" tvg-name="[NCAAF] LIU Sharks @ Florida Gators (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] LIU Sharks @ Florida Gators (SD)
+#EXTINF:-1 tvg-chno="110" tvg-id="(N/A)" tvg-name="[NCAAF] LIU Sharks @ Florida Gators" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] LIU Sharks @ Florida Gators
 http://origin.thetvapp.to/hls/NCAAF15/mono.m3u8
-#EXTINF:-1 tvg-chno="111" tvg-id="(N/A)" tvg-name="[NCAAF] LSU Tigers @ Clemson Tigers (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] LSU Tigers @ Clemson Tigers (SD)
+#EXTINF:-1 tvg-chno="111" tvg-id="(N/A)" tvg-name="[NCAAF] LSU Tigers @ Clemson Tigers" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] LSU Tigers @ Clemson Tigers
 http://origin.thetvapp.to/hls/ESPNU/mono.m3u8
-#EXTINF:-1 tvg-chno="112" tvg-id="(N/A)" tvg-name="[NCAAF] Lamar Cardinals @ North Texas Mean Green (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Lamar Cardinals @ North Texas Mean Green (SD)
+#EXTINF:-1 tvg-chno="112" tvg-id="(N/A)" tvg-name="[NCAAF] Lamar Cardinals @ North Texas Mean Green" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Lamar Cardinals @ North Texas Mean Green
 http://origin.thetvapp.to/hls/NCAAF25/mono.m3u8
-#EXTINF:-1 tvg-chno="113" tvg-id="(N/A)" tvg-name="[NCAAF] Maine Black Bears @ Liberty Flames (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Maine Black Bears @ Liberty Flames (SD)
+#EXTINF:-1 tvg-chno="113" tvg-id="(N/A)" tvg-name="[NCAAF] Maine Black Bears @ Liberty Flames" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Maine Black Bears @ Liberty Flames
 http://origin.thetvapp.to/hls/NCAAF08/mono.m3u8
-#EXTINF:-1 tvg-chno="114" tvg-id="(N/A)" tvg-name="[NCAAF] Marshall Thundering Herd @ Georgia Bulldogs (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Marshall Thundering Herd @ Georgia Bulldogs (SD)
+#EXTINF:-1 tvg-chno="114" tvg-id="(N/A)" tvg-name="[NCAAF] Marshall Thundering Herd @ Georgia Bulldogs" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Marshall Thundering Herd @ Georgia Bulldogs
 http://origin.thetvapp.to/hls/ESPN/mono.m3u8
-#EXTINF:-1 tvg-chno="115" tvg-id="(N/A)" tvg-name="[NCAAF] Merrimack Warriors @ Kent State Golden Flashes (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Merrimack Warriors @ Kent State Golden Flashes (SD)
+#EXTINF:-1 tvg-chno="115" tvg-id="(N/A)" tvg-name="[NCAAF] Merrimack Warriors @ Kent State Golden Flashes" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Merrimack Warriors @ Kent State Golden Flashes
 http://origin.thetvapp.to/hls/NCAAF02/mono.m3u8
-#EXTINF:-1 tvg-chno="116" tvg-id="(N/A)" tvg-name="[NCAAF] Mississippi State Bulldogs @ Southern Mississippi Golden Eagles (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Mississippi State Bulldogs @ Southern Mississippi Golden Eagles (SD)
+#EXTINF:-1 tvg-chno="116" tvg-id="(N/A)" tvg-name="[NCAAF] Mississippi State Bulldogs @ Southern Mississippi Golden Eagles" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Mississippi State Bulldogs @ Southern Mississippi Golden Eagles
 http://origin.thetvapp.to/hls/ESPN/mono.m3u8
-#EXTINF:-1 tvg-chno="117" tvg-id="(N/A)" tvg-name="[NCAAF] Missouri State Bears @ USC Trojans (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Missouri State Bears @ USC Trojans (SD)
+#EXTINF:-1 tvg-chno="117" tvg-id="(N/A)" tvg-name="[NCAAF] Missouri State Bears @ USC Trojans" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Missouri State Bears @ USC Trojans
 http://origin.thetvapp.to/hls/BTN/mono.m3u8
-#EXTINF:-1 tvg-chno="118" tvg-id="(N/A)" tvg-name="[NCAAF] Montana State Bobcats @ Oregon Ducks (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Montana State Bobcats @ Oregon Ducks (SD)
+#EXTINF:-1 tvg-chno="118" tvg-id="(N/A)" tvg-name="[NCAAF] Montana State Bobcats @ Oregon Ducks" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Montana State Bobcats @ Oregon Ducks
 http://origin.thetvapp.to/hls/BTN/mono.m3u8
-#EXTINF:-1 tvg-chno="119" tvg-id="(N/A)" tvg-name="[NCAAF] Morgan State Bears @ South Alabama Jaguars (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Morgan State Bears @ South Alabama Jaguars (SD)
+#EXTINF:-1 tvg-chno="119" tvg-id="(N/A)" tvg-name="[NCAAF] Morgan State Bears @ South Alabama Jaguars" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Morgan State Bears @ South Alabama Jaguars
 http://origin.thetvapp.to/hls/NCAAF17/mono.m3u8
-#EXTINF:-1 tvg-chno="120" tvg-id="(N/A)" tvg-name="[NCAAF] Nevada Wolf Pack @ Penn State Nittany Lions (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Nevada Wolf Pack @ Penn State Nittany Lions (SD)
+#EXTINF:-1 tvg-chno="120" tvg-id="(N/A)" tvg-name="[NCAAF] Nevada Wolf Pack @ Penn State Nittany Lions" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Nevada Wolf Pack @ Penn State Nittany Lions
 http://origin.thetvapp.to/hls/WCBSDT1/mono.m3u8
-#EXTINF:-1 tvg-chno="121" tvg-id="(N/A)" tvg-name="[NCAAF] New Mexico Lobos @ Michigan Wolverines (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] New Mexico Lobos @ Michigan Wolverines (SD)
+#EXTINF:-1 tvg-chno="121" tvg-id="(N/A)" tvg-name="[NCAAF] New Mexico Lobos @ Michigan Wolverines" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] New Mexico Lobos @ Michigan Wolverines
 http://origin.thetvapp.to/hls/WNBCDT1/mono.m3u8
-#EXTINF:-1 tvg-chno="122" tvg-id="(N/A)" tvg-name="[NCAAF] Nicholls State Colonels @ Troy Trojans (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Nicholls State Colonels @ Troy Trojans (SD)
+#EXTINF:-1 tvg-chno="122" tvg-id="(N/A)" tvg-name="[NCAAF] Nicholls State Colonels @ Troy Trojans" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Nicholls State Colonels @ Troy Trojans
 http://origin.thetvapp.to/hls/NCAAF18/mono.m3u8
-#EXTINF:-1 tvg-chno="123" tvg-id="(N/A)" tvg-name="[NCAAF] North Alabama Lions @ Western Kentucky Hilltoppers (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] North Alabama Lions @ Western Kentucky Hilltoppers (SD)
+#EXTINF:-1 tvg-chno="123" tvg-id="(N/A)" tvg-name="[NCAAF] North Alabama Lions @ Western Kentucky Hilltoppers" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] North Alabama Lions @ Western Kentucky Hilltoppers
 http://origin.thetvapp.to/hls/NCAAF19/mono.m3u8
-#EXTINF:-1 tvg-chno="124" tvg-id="(N/A)" tvg-name="[NCAAF] North Dakota Fighting Hawks @ Kansas State Wildcats (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] North Dakota Fighting Hawks @ Kansas State Wildcats (SD)
+#EXTINF:-1 tvg-chno="124" tvg-id="(N/A)" tvg-name="[NCAAF] North Dakota Fighting Hawks @ Kansas State Wildcats" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] North Dakota Fighting Hawks @ Kansas State Wildcats
 http://origin.thetvapp.to/hls/NCAAF16/mono.m3u8
-#EXTINF:-1 tvg-chno="125" tvg-id="(N/A)" tvg-name="[NCAAF] Northern Arizona Lumberjacks @ Arizona State Sun Devils (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Northern Arizona Lumberjacks @ Arizona State Sun Devils (SD)
+#EXTINF:-1 tvg-chno="125" tvg-id="(N/A)" tvg-name="[NCAAF] Northern Arizona Lumberjacks @ Arizona State Sun Devils" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Northern Arizona Lumberjacks @ Arizona State Sun Devils
 http://origin.thetvapp.to/hls/NCAAF27/mono.m3u8
-#EXTINF:-1 tvg-chno="126" tvg-id="(N/A)" tvg-name="[NCAAF] Northwestern Wildcats @ Tulane Green Wave (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Northwestern Wildcats @ Tulane Green Wave (SD)
+#EXTINF:-1 tvg-chno="126" tvg-id="(N/A)" tvg-name="[NCAAF] Northwestern Wildcats @ Tulane Green Wave" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Northwestern Wildcats @ Tulane Green Wave
 http://origin.thetvapp.to/hls/ESPNU/mono.m3u8
-#EXTINF:-1 tvg-chno="127" tvg-id="(N/A)" tvg-name="[NCAAF] Old Dominion Monarchs @ Indiana Hoosiers (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Old Dominion Monarchs @ Indiana Hoosiers (SD)
+#EXTINF:-1 tvg-chno="127" tvg-id="(N/A)" tvg-name="[NCAAF] Old Dominion Monarchs @ Indiana Hoosiers" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Old Dominion Monarchs @ Indiana Hoosiers
 http://origin.thetvapp.to/hls/FoxSports1/mono.m3u8
-#EXTINF:-1 tvg-chno="128" tvg-id="(N/A)" tvg-name="[NCAAF] Portland State Vikings @ BYU Cougars (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Portland State Vikings @ BYU Cougars (SD)
+#EXTINF:-1 tvg-chno="128" tvg-id="(N/A)" tvg-name="[NCAAF] Portland State Vikings @ BYU Cougars" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Portland State Vikings @ BYU Cougars
 http://origin.thetvapp.to/hls/NCAAF23/mono.m3u8
-#EXTINF:-1 tvg-chno="129" tvg-id="(N/A)" tvg-name="[NCAAF] Rice Owls @ Louisiana Ragin Cajuns (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Rice Owls @ Louisiana Ragin Cajuns (SD)
+#EXTINF:-1 tvg-chno="129" tvg-id="(N/A)" tvg-name="[NCAAF] Rice Owls @ Louisiana Ragin Cajuns" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Rice Owls @ Louisiana Ragin Cajuns
 http://origin.thetvapp.to/hls/NCAAF26/mono.m3u8
-#EXTINF:-1 tvg-chno="130" tvg-id="(N/A)" tvg-name="[NCAAF] Robert Morris Colonials @ West Virginia Mountaineers (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Robert Morris Colonials @ West Virginia Mountaineers (SD)
+#EXTINF:-1 tvg-chno="130" tvg-id="(N/A)" tvg-name="[NCAAF] Robert Morris Colonials @ West Virginia Mountaineers" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Robert Morris Colonials @ West Virginia Mountaineers
 http://origin.thetvapp.to/hls/NCAAF05/mono.m3u8
-#EXTINF:-1 tvg-chno="131" tvg-id="(N/A)" tvg-name="[NCAAF] South Dakota Coyotes @ Iowa State Cyclones (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] South Dakota Coyotes @ Iowa State Cyclones (SD)
+#EXTINF:-1 tvg-chno="131" tvg-id="(N/A)" tvg-name="[NCAAF] South Dakota Coyotes @ Iowa State Cyclones" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] South Dakota Coyotes @ Iowa State Cyclones
 http://origin.thetvapp.to/hls/WNYWDT1/mono.m3u8
-#EXTINF:-1 tvg-chno="132" tvg-id="(N/A)" tvg-name="[NCAAF] Southeast Missouri State Redhawks @ Arkansas State Red Wolves (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Southeast Missouri State Redhawks @ Arkansas State Red Wolves (SD)
+#EXTINF:-1 tvg-chno="132" tvg-id="(N/A)" tvg-name="[NCAAF] Southeast Missouri State Redhawks @ Arkansas State Red Wolves" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Southeast Missouri State Redhawks @ Arkansas State Red Wolves
 http://origin.thetvapp.to/hls/NCAAF12/mono.m3u8
-#EXTINF:-1 tvg-chno="133" tvg-id="(N/A)" tvg-name="[NCAAF] Southeastern Louisiana Lions @ Louisiana Tech Bulldogs (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Southeastern Louisiana Lions @ Louisiana Tech Bulldogs (SD)
+#EXTINF:-1 tvg-chno="133" tvg-id="(N/A)" tvg-name="[NCAAF] Southeastern Louisiana Lions @ Louisiana Tech Bulldogs" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Southeastern Louisiana Lions @ Louisiana Tech Bulldogs
 http://origin.thetvapp.to/hls/NCAAF21/mono.m3u8
-#EXTINF:-1 tvg-chno="134" tvg-id="(N/A)" tvg-name="[NCAAF] Syracuse Orange @ Tennessee Volunteers (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Syracuse Orange @ Tennessee Volunteers (SD)
+#EXTINF:-1 tvg-chno="134" tvg-id="(N/A)" tvg-name="[NCAAF] Syracuse Orange @ Tennessee Volunteers" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Syracuse Orange @ Tennessee Volunteers
 http://origin.thetvapp.to/hls/WABCDT1/mono.m3u8
-#EXTINF:-1 tvg-chno="135" tvg-id="(N/A)" tvg-name="[NCAAF] Temple Owls @ UMass Minutemen (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Temple Owls @ UMass Minutemen (SD)
+#EXTINF:-1 tvg-chno="135" tvg-id="(N/A)" tvg-name="[NCAAF] Temple Owls @ UMass Minutemen" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Temple Owls @ UMass Minutemen
 http://origin.thetvapp.to/hls/NCAAF07/mono.m3u8
-#EXTINF:-1 tvg-chno="136" tvg-id="(N/A)" tvg-name="[NCAAF] Texas Longhorns @ Ohio State Buckeyes (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Texas Longhorns @ Ohio State Buckeyes (SD)
+#EXTINF:-1 tvg-chno="136" tvg-id="(N/A)" tvg-name="[NCAAF] Texas Longhorns @ Ohio State Buckeyes" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Texas Longhorns @ Ohio State Buckeyes
 http://origin.thetvapp.to/hls/WNYWDT1/mono.m3u8
-#EXTINF:-1 tvg-chno="137" tvg-id="(N/A)" tvg-name="[NCAAF] Toledo Rockets @ Kentucky Wildcats (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Toledo Rockets @ Kentucky Wildcats (SD)
+#EXTINF:-1 tvg-chno="137" tvg-id="(N/A)" tvg-name="[NCAAF] Toledo Rockets @ Kentucky Wildcats" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Toledo Rockets @ Kentucky Wildcats
 http://origin.thetvapp.to/hls/SECN/mono.m3u8
-#EXTINF:-1 tvg-chno="138" tvg-id="(N/A)" tvg-name="[NCAAF] UTEP Miners @ Utah State Aggies (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] UTEP Miners @ Utah State Aggies (SD)
+#EXTINF:-1 tvg-chno="138" tvg-id="(N/A)" tvg-name="[NCAAF] UTEP Miners @ Utah State Aggies" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] UTEP Miners @ Utah State Aggies
 http://origin.thetvapp.to/hls/CBSSportsNetworkUSA/mono.m3u8
-#EXTINF:-1 tvg-chno="139" tvg-id="(N/A)" tvg-name="[NCAAF] UTSA Roadrunners @ Texas A&M Aggies (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] UTSA Roadrunners @ Texas A&M Aggies (SD)
+#EXTINF:-1 tvg-chno="139" tvg-id="(N/A)" tvg-name="[NCAAF] UTSA Roadrunners @ Texas A&M Aggies" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] UTSA Roadrunners @ Texas A&M Aggies
 http://origin.thetvapp.to/hls/ESPN/mono.m3u8
-#EXTINF:-1 tvg-chno="140" tvg-id="(N/A)" tvg-name="[NCAAF] Utah Utes @ UCLA Bruins (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Utah Utes @ UCLA Bruins (SD)
+#EXTINF:-1 tvg-chno="140" tvg-id="(N/A)" tvg-name="[NCAAF] Utah Utes @ UCLA Bruins" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Utah Utes @ UCLA Bruins
 http://origin.thetvapp.to/hls/WNYWDT1/mono.m3u8
-#EXTINF:-1 tvg-chno="141" tvg-id="(N/A)" tvg-name="[NCAAF] VMI Keydets @ Navy Midshipmen (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] VMI Keydets @ Navy Midshipmen (SD)
+#EXTINF:-1 tvg-chno="141" tvg-id="(N/A)" tvg-name="[NCAAF] VMI Keydets @ Navy Midshipmen" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] VMI Keydets @ Navy Midshipmen
 http://origin.thetvapp.to/hls/CBSSportsNetworkUSA/mono.m3u8
-#EXTINF:-1 tvg-chno="142" tvg-id="(N/A)" tvg-name="[NCAAF] Weber State Wildcats @ James Madison Dukes (SD)" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Weber State Wildcats @ James Madison Dukes (SD)
+#EXTINF:-1 tvg-chno="142" tvg-id="(N/A)" tvg-name="[NCAAF] Weber State Wildcats @ James Madison Dukes" tvg-logo="https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png" group-title="Live Events",[NCAAF] Weber State Wildcats @ James Madison Dukes
 http://origin.thetvapp.to/hls/NCAAF11/mono.m3u8
-#EXTINF:-1 tvg-chno="143" tvg-id="(N/A)" tvg-name="[WNBA] Chicago Sky @ Seattle Storm (SD)" tvg-logo="https://i.gyazo.com/f356a338044d1dfa9eed11979f8cf13f.png" group-title="Live Events",[WNBA] Chicago Sky @ Seattle Storm (SD)
+#EXTINF:-1 tvg-chno="143" tvg-id="(N/A)" tvg-name="[WNBA] Chicago Sky @ Seattle Storm" tvg-logo="https://i.gyazo.com/02d665a5704118d195dbcd5fa20d5462.png" group-title="Live Events",[WNBA] Chicago Sky @ Seattle Storm
 http://origin.thetvapp.to/hls/WNBA03/mono.m3u8
-#EXTINF:-1 tvg-chno="144" tvg-id="(N/A)" tvg-name="[WNBA] Minnesota Lynx @ Connecticut Sun (SD)" tvg-logo="https://i.gyazo.com/f356a338044d1dfa9eed11979f8cf13f.png" group-title="Live Events",[WNBA] Minnesota Lynx @ Connecticut Sun (SD)
+#EXTINF:-1 tvg-chno="144" tvg-id="(N/A)" tvg-name="[WNBA] Minnesota Lynx @ Connecticut Sun" tvg-logo="https://i.gyazo.com/02d665a5704118d195dbcd5fa20d5462.png" group-title="Live Events",[WNBA] Minnesota Lynx @ Connecticut Sun
 http://origin.thetvapp.to/hls/NBATV/mono.m3u8
-#EXTINF:-1 tvg-chno="145" tvg-id="(N/A)" tvg-name="[WNBA] New York Liberty @ Phoenix Mercury (SD)" tvg-logo="https://i.gyazo.com/f356a338044d1dfa9eed11979f8cf13f.png" group-title="Live Events",[WNBA] New York Liberty @ Phoenix Mercury (SD)
+#EXTINF:-1 tvg-chno="145" tvg-id="(N/A)" tvg-name="[WNBA] New York Liberty @ Phoenix Mercury" tvg-logo="https://i.gyazo.com/02d665a5704118d195dbcd5fa20d5462.png" group-title="Live Events",[WNBA] New York Liberty @ Phoenix Mercury
 http://origin.thetvapp.to/hls/NBATV/mono.m3u8
-#EXTINF:-1 tvg-chno="146" tvg-id="(N/A)" tvg-name="[WNBA] Washington Mystics @ Golden State Valkyries (SD)" tvg-logo="https://i.gyazo.com/f356a338044d1dfa9eed11979f8cf13f.png" group-title="Live Events",[WNBA] Washington Mystics @ Golden State Valkyries (SD)
+#EXTINF:-1 tvg-chno="146" tvg-id="(N/A)" tvg-name="[WNBA] Washington Mystics @ Golden State Valkyries" tvg-logo="https://i.gyazo.com/02d665a5704118d195dbcd5fa20d5462.png" group-title="Live Events",[WNBA] Washington Mystics @ Golden State Valkyries
 http://origin.thetvapp.to/hls/WNBA02/mono.m3u8

@@ -1,57 +1,41 @@
 import json
 import re
-from datetime import datetime, timedelta
+from datetime import datetime
 from pathlib import Path
-from urllib.parse import urlparse
 
 import httpx
 import pytz
+
+from .logger import get_logger
+
+log = get_logger(__name__)
 
 base_url = "https://tvpass.org/playlist/m3u"
 
 base_file = Path(__file__).parent / "tvpass.json"
 
-TZ = pytz.timezone("America/New_York")
-
 urls: dict[str, dict[str, str]] = {}
 
 logos = {
-    "MLB": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
-    "NBA": "https://i.gyazo.com/29485b295d32782bbae31a0b35de0970.png",
+    "MLB": "https://i.gyazo.com/0fe7865ef2f06c9507791b24f04dbca8.png",
+    "NBA": "https://i.gyazo.com/773c23570f095a5d549c23b9401d83f4.png",
     "NCAAF": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
     "NCAAB": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-    "NFL": "https://i.gyazo.com/8581d3d8cd6d902029e0daf9ca087842.png",
-    "NHL": "https://i.gyazo.com/b634ca5b0d3f16f9863eca3b27568a10.png",
-    "WNBA": "https://i.gyazo.com/f356a338044d1dfa9eed11979f8cf13f.png",
+    "NFL": "https://i.gyazo.com/fb4956d7a2fe54a1bac54cd81e1b3f11.png",
+    "NHL": "https://i.gyazo.com/526607d4e886d5ed1fecca4bff3115e2.png",
+    "WNBA": "https://i.gyazo.com/02d665a5704118d195dbcd5fa20d5462.png",
 }
 
 
-def cache_expired(t: float) -> bool:
-    now = datetime.now(TZ)
-
-    eleven = now.replace(hour=11, minute=0, second=0, microsecond=0)
-
-    if now < eleven:
-        eleven -= timedelta(days=1)
-
-    return t < eleven.timestamp()
-
-
 def load_cache() -> dict[str, str]:
+    TZ = pytz.timezone("America/New_York")
+
     try:
         data = json.loads(base_file.read_text(encoding="utf-8"))
 
-        ts = data.get("_timestamp", 0)
-
-        return {} if cache_expired(ts) else data.get("urls", {})
+        return {} if 8 <= datetime.now(TZ).hour <= 12 else data
     except (FileNotFoundError, json.JSONDecodeError):
         return {}
-
-
-def save_cache(urls: dict[str, str]) -> None:
-    payload = {"_timestamp": datetime.now(TZ).timestamp(), "urls": urls}
-
-    base_file.write_text(json.dumps(payload, indent=2), encoding="utf-8")
 
 
 async def fetch_m3u8(client: httpx.AsyncClient) -> list[str] | None:
@@ -59,7 +43,7 @@ async def fetch_m3u8(client: httpx.AsyncClient) -> list[str] | None:
         r = await client.get(base_url)
         r.raise_for_status()
     except Exception as e:
-        print(f'Failed to fetch "{base_url}"\n{e}')
+        log.error(f'Failed to fetch "{base_url}"\n{e}')
 
     return r.text.splitlines()
 
@@ -67,10 +51,10 @@ async def fetch_m3u8(client: httpx.AsyncClient) -> list[str] | None:
 async def main(client: httpx.AsyncClient) -> None:
     if cached := load_cache():
         urls.update(cached)
-        print(f"TVPass: Collected {len(urls)} live events from cache")
+        log.info(f"TVPass: Collected {len(urls)} live events from cache")
         return
 
-    print(f'Scraping from "{base_url}"')
+    log.info(f'Scraping from "{base_url}"')
 
     if not (data := await fetch_m3u8(client)):
         return
@@ -97,12 +81,12 @@ async def main(client: httpx.AsyncClient) -> None:
                     )
 
                 if url.endswith("/hd"):
-                    parts = urlparse(url).path.strip("/").split("/")
-
-                    link = f"http://origin.thetvapp.to/hls/{parts[1]}/mono.m3u8"
-
-                    urls[f"[{sport}] {tvg_name} (SD)"] = {"logo": logo, "url": link}
+                    urls[f"[{sport}] {tvg_name}"] = {
+                        "logo": logo,
+                        "url": f"http://origin.thetvapp.to/hls/{url.split('/')[-2]}/mono.m3u8",
+                    }
 
     if urls:
-        save_cache(urls)
-        print(f"Cached {len(urls)} live events")
+        base_file.write_text(json.dumps(urls, indent=2), encoding="utf-8")
+
+        log.info(f"Cached {len(urls)} live events")
