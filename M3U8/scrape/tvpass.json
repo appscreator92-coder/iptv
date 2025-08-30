@@ -1,69 +1,125 @@
 {
-  "_timestamp": 1756566697.856851,
+  "_timestamp": 1756570585.570094,
   "urls": {
-    "[NCAAF] Tarleton State Texans @ Army Black Knights (SD)": {
+    "[NCAAF] Syracuse Orange @ Tennessee Volunteers (SD)": {
       "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "https://tvpass.org/live/CBSSportsNetworkUSA/sd"
+      "url": "https://tvpass.org/live/WABCDT1/sd"
     },
-    "[NCAAF] Tarleton State Texans @ Army Black Knights (HD)": {
+    "[NCAAF] Syracuse Orange @ Tennessee Volunteers (HD)": {
       "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "https://tvpass.org/live/CBSSportsNetworkUSA/hd"
+      "url": "https://tvpass.org/live/WABCDT1/hd"
     },
-    "[MLB] St. Louis Cardinals @ Cincinnati Reds (SD)": {
-      "logo": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
-      "url": "https://tvpass.org/live/mlb-04/sd"
-    },
-    "[MLB] St. Louis Cardinals @ Cincinnati Reds (HD)": {
-      "logo": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
-      "url": "https://tvpass.org/live/mlb-04/hd"
-    },
-    "[MLB] Atlanta Braves @ Philadelphia Phillies (SD)": {
-      "logo": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
-      "url": "https://tvpass.org/live/mlb-18/sd"
-    },
-    "[MLB] Atlanta Braves @ Philadelphia Phillies (HD)": {
-      "logo": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
-      "url": "https://tvpass.org/live/mlb-18/hd"
-    },
-    "[MLB] Tampa Bay Rays @ Washington Nationals (SD)": {
-      "logo": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
-      "url": "https://tvpass.org/live/mlb-01/sd"
-    },
-    "[MLB] Tampa Bay Rays @ Washington Nationals (HD)": {
-      "logo": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
-      "url": "https://tvpass.org/live/mlb-01/hd"
-    },
-    "[NCAAF] Western Michigan Broncos @ Michigan State Spartans (SD)": {
+    "[NCAAF] Texas Longhorns @ Ohio State Buckeyes (SD)": {
       "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "https://tvpass.org/live/FoxSports1/sd"
+      "url": "https://tvpass.org/live/WNYWDT1/sd"
     },
-    "[NCAAF] Western Michigan Broncos @ Michigan State Spartans (HD)": {
+    "[NCAAF] Texas Longhorns @ Ohio State Buckeyes (HD)": {
       "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "https://tvpass.org/live/FoxSports1/hd"
+      "url": "https://tvpass.org/live/WNYWDT1/hd"
     },
-    "[NCAAF] Kennesaw State Owls @ Wake Forest Demon Deacons (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "https://tvpass.org/live/ACCNetwork/sd"
-    },
-    "[NCAAF] Kennesaw State Owls @ Wake Forest Demon Deacons (HD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "https://tvpass.org/live/ACCNetwork/hd"
-    },
-    "[NCAAF] Bethune-Cookman Wildcats @ Florida International Panthers (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "https://tvpass.org/live/NCAAF05/sd"
-    },
-    "[NCAAF] Bethune-Cookman Wildcats @ Florida International Panthers (HD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "https://tvpass.org/live/NCAAF05/hd"
-    },
-    "[NCAAF] Appalachian State Mountaineers @ Charlotte 49ers (SD)": {
+    "[NCAAF] Northwestern Wildcats @ Tulane Green Wave (SD)": {
       "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
       "url": "https://tvpass.org/live/ESPNU/sd"
     },
-    "[NCAAF] Appalachian State Mountaineers @ Charlotte 49ers (HD)": {
+    "[NCAAF] Northwestern Wildcats @ Tulane Green Wave (HD)": {
       "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
       "url": "https://tvpass.org/live/ESPNU/hd"
+    },
+    "[NCAAF] VMI Keydets @ Navy Midshipmen (SD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/CBSSportsNetworkUSA/sd"
+    },
+    "[NCAAF] VMI Keydets @ Navy Midshipmen (HD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/CBSSportsNetworkUSA/hd"
+    },
+    "[NCAAF] Mississippi State Bulldogs @ Southern Mississippi Golden Eagles (SD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/ESPN/sd"
+    },
+    "[NCAAF] Mississippi State Bulldogs @ Southern Mississippi Golden Eagles (HD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/ESPN/hd"
+    },
+    "[NCAAF] Merrimack Warriors @ Kent State Golden Flashes (SD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/NCAAF02/sd"
+    },
+    "[NCAAF] Merrimack Warriors @ Kent State Golden Flashes (HD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/NCAAF02/hd"
+    },
+    "[NCAAF] Florida Atlantic Owls @ Maryland Terrapins (SD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/NCAAF01/sd"
+    },
+    "[NCAAF] Florida Atlantic Owls @ Maryland Terrapins (HD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/NCAAF01/hd"
+    },
+    "[NCAAF] Duquesne Dukes @ Pittsburgh Panthers (SD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/ACCNetwork/sd"
+    },
+    "[NCAAF] Duquesne Dukes @ Pittsburgh Panthers (HD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/ACCNetwork/hd"
+    },
+    "[NCAAF] Ball State Cardinals @ Purdue Boilermakers (SD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/BTN/sd"
+    },
+    "[NCAAF] Ball State Cardinals @ Purdue Boilermakers (HD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/BTN/hd"
+    },
+    "[NCAAF] Toledo Rockets @ Kentucky Wildcats (SD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/SECN/sd"
+    },
+    "[NCAAF] Toledo Rockets @ Kentucky Wildcats (HD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/SECN/hd"
+    },
+    "[NCAAF] Robert Morris Colonials @ West Virginia Mountaineers (SD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/NCAAF05/sd"
+    },
+    "[NCAAF] Robert Morris Colonials @ West Virginia Mountaineers (HD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/NCAAF05/hd"
+    },
+    "[NCAAF] Central Connecticut Blue Devils @ UConn Huskies (SD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/NCAAF04/sd"
+    },
+    "[NCAAF] Central Connecticut Blue Devils @ UConn Huskies (HD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/NCAAF04/hd"
+    },
+    "[NCAAF] Fordham Rams @ Boston College Eagles (SD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/NCAAF03/sd"
+    },
+    "[NCAAF] Fordham Rams @ Boston College Eagles (HD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/NCAAF03/hd"
+    },
+    "[NCAAF] Old Dominion Monarchs @ Indiana Hoosiers (SD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/FoxSports1/sd"
+    },
+    "[NCAAF] Old Dominion Monarchs @ Indiana Hoosiers (HD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/FoxSports1/hd"
+    },
+    "[NCAAF] Eastern Kentucky Colonels @ Louisville Cardinals (SD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/ACCNetwork/sd"
+    },
+    "[NCAAF] Eastern Kentucky Colonels @ Louisville Cardinals (HD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/ACCNetwork/hd"
     },
     "[MLB] Milwaukee Brewers @ Toronto Blue Jays (SD)": {
       "logo": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
@@ -73,21 +129,85 @@
       "logo": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
       "url": "https://tvpass.org/live/mlb-12/hd"
     },
-    "[MLB] Pittsburgh Pirates @ Boston Red Sox (SD)": {
-      "logo": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
-      "url": "https://tvpass.org/live/mlb-22/sd"
+    "[NCAAF] Bucknell Bison @ Air Force Falcons (SD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/CBSSportsNetworkUSA/sd"
     },
-    "[MLB] Pittsburgh Pirates @ Boston Red Sox (HD)": {
-      "logo": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
-      "url": "https://tvpass.org/live/mlb-22/hd"
+    "[NCAAF] Bucknell Bison @ Air Force Falcons (HD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/CBSSportsNetworkUSA/hd"
     },
-    "[MLB] Seattle Mariners @ Cleveland Guardians (SD)": {
-      "logo": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
-      "url": "https://tvpass.org/live/mlb-30/sd"
+    "[NCAAF] Alabama Crimson Tide @ Florida State Seminoles (SD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/WABCDT1/sd"
     },
-    "[MLB] Seattle Mariners @ Cleveland Guardians (HD)": {
+    "[NCAAF] Alabama Crimson Tide @ Florida State Seminoles (HD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/WABCDT1/hd"
+    },
+    "[NCAAF] Marshall Thundering Herd @ Georgia Bulldogs (SD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/ESPN/sd"
+    },
+    "[NCAAF] Marshall Thundering Herd @ Georgia Bulldogs (HD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/ESPN/hd"
+    },
+    "[NCAAF] Holy Cross Crusaders @ Northern Illinois Huskies (SD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/NCAAF06/sd"
+    },
+    "[NCAAF] Holy Cross Crusaders @ Northern Illinois Huskies (HD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/NCAAF06/hd"
+    },
+    "[NCAAF] South Dakota Coyotes @ Iowa State Cyclones (SD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/WNYWDT1/sd"
+    },
+    "[NCAAF] South Dakota Coyotes @ Iowa State Cyclones (HD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/WNYWDT1/hd"
+    },
+    "[NCAAF] Nevada Wolf Pack @ Penn State Nittany Lions (SD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/WCBSDT1/sd"
+    },
+    "[NCAAF] Nevada Wolf Pack @ Penn State Nittany Lions (HD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/WCBSDT1/hd"
+    },
+    "[NCAAF] Temple Owls @ UMass Minutemen (SD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/NCAAF07/sd"
+    },
+    "[NCAAF] Temple Owls @ UMass Minutemen (HD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/NCAAF07/hd"
+    },
+    "[NCAAF] Maine Black Bears @ Liberty Flames (SD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/NCAAF08/sd"
+    },
+    "[NCAAF] Maine Black Bears @ Liberty Flames (HD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/NCAAF08/hd"
+    },
+    "[NCAAF] Montana State Bobcats @ Oregon Ducks (SD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/BTN/sd"
+    },
+    "[NCAAF] Montana State Bobcats @ Oregon Ducks (HD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/BTN/hd"
+    },
+    "[MLB] Tampa Bay Rays @ Washington Nationals (SD)": {
       "logo": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
-      "url": "https://tvpass.org/live/mlb-30/hd"
+      "url": "https://tvpass.org/live/mlb-01/sd"
+    },
+    "[MLB] Tampa Bay Rays @ Washington Nationals (HD)": {
+      "logo": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
+      "url": "https://tvpass.org/live/mlb-01/hd"
     },
     "[MLB] Miami Marlins @ New York Mets (SD)": {
       "logo": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
@@ -97,53 +217,149 @@
       "logo": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
       "url": "https://tvpass.org/live/mlb-24/hd"
     },
-    "[WNBA] Dallas Wings @ Atlanta Dream (SD)": {
-      "logo": "https://i.gyazo.com/f356a338044d1dfa9eed11979f8cf13f.png",
-      "url": "https://tvpass.org/live/WNBA01/sd"
+    "[MLB] Pittsburgh Pirates @ Boston Red Sox (SD)": {
+      "logo": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
+      "url": "https://tvpass.org/live/mlb-22/sd"
     },
-    "[WNBA] Dallas Wings @ Atlanta Dream (HD)": {
-      "logo": "https://i.gyazo.com/f356a338044d1dfa9eed11979f8cf13f.png",
-      "url": "https://tvpass.org/live/WNBA01/hd"
+    "[MLB] Pittsburgh Pirates @ Boston Red Sox (HD)": {
+      "logo": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
+      "url": "https://tvpass.org/live/mlb-22/hd"
     },
-    "[NCAAF] Wagner Seahawks @ Kansas Jayhawks (SD)": {
+    "[NCAAF] Alabama A&M Bulldogs @ Arkansas Razorbacks (SD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/SECN/sd"
+    },
+    "[NCAAF] Alabama A&M Bulldogs @ Arkansas Razorbacks (HD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/SECN/hd"
+    },
+    "[NCAAF] Chattanooga Mocs @ Memphis Tigers (SD)": {
       "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
       "url": "https://tvpass.org/live/NCAAF09/sd"
     },
-    "[NCAAF] Wagner Seahawks @ Kansas Jayhawks (HD)": {
+    "[NCAAF] Chattanooga Mocs @ Memphis Tigers (HD)": {
       "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
       "url": "https://tvpass.org/live/NCAAF09/hd"
     },
-    "[NCAAF] Western Illinois Leathernecks @ Illinois Fighting Illini (SD)": {
+    "[NCAAF] Albany @ Iowa Hawkeyes (SD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/FoxSports1/sd"
+    },
+    "[NCAAF] Albany @ Iowa Hawkeyes (HD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/FoxSports1/hd"
+    },
+    "[NCAAF] Coastal Carolina Chanticleers @ Virginia Cavaliers (SD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/ACCNetwork/sd"
+    },
+    "[NCAAF] Coastal Carolina Chanticleers @ Virginia Cavaliers (HD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/ACCNetwork/hd"
+    },
+    "[NCAAF] Illinois State Redbirds @ Oklahoma Sooners (SD)": {
       "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
       "url": "https://tvpass.org/live/NCAAF10/sd"
     },
-    "[NCAAF] Western Illinois Leathernecks @ Illinois Fighting Illini (HD)": {
+    "[NCAAF] Illinois State Redbirds @ Oklahoma Sooners (HD)": {
       "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
       "url": "https://tvpass.org/live/NCAAF10/hd"
     },
-    "[MLB] New York Yankees @ Chicago White Sox (SD)": {
+    "[NCAAF] Weber State Wildcats @ James Madison Dukes (SD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/NCAAF11/sd"
+    },
+    "[NCAAF] Weber State Wildcats @ James Madison Dukes (HD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/NCAAF11/hd"
+    },
+    "[MLB] Atlanta Braves @ Philadelphia Phillies (SD)": {
       "logo": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
-      "url": "https://tvpass.org/live/mlb-03/sd"
+      "url": "https://tvpass.org/live/mlb-18/sd"
     },
-    "[MLB] New York Yankees @ Chicago White Sox (HD)": {
+    "[MLB] Atlanta Braves @ Philadelphia Phillies (HD)": {
       "logo": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
-      "url": "https://tvpass.org/live/mlb-03/hd"
+      "url": "https://tvpass.org/live/mlb-18/hd"
     },
-    "[NCAAF] Auburn Tigers @ Baylor Bears (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "https://tvpass.org/live/WNYWDT1/sd"
+    "[MLB] St. Louis Cardinals @ Cincinnati Reds (SD)": {
+      "logo": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
+      "url": "https://tvpass.org/live/mlb-04/sd"
     },
-    "[NCAAF] Auburn Tigers @ Baylor Bears (HD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "https://tvpass.org/live/WNYWDT1/hd"
+    "[MLB] St. Louis Cardinals @ Cincinnati Reds (HD)": {
+      "logo": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
+      "url": "https://tvpass.org/live/mlb-04/hd"
     },
-    "[NCAAF] Georgia Tech Yellow Jackets @ Colorado Buffaloes (SD)": {
+    "[NCAAF] North Dakota Fighting Hawks @ Kansas State Wildcats (SD)": {
       "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "https://tvpass.org/live/ESPN/sd"
+      "url": "https://tvpass.org/live/NCAAF16/sd"
     },
-    "[NCAAF] Georgia Tech Yellow Jackets @ Colorado Buffaloes (HD)": {
+    "[NCAAF] North Dakota Fighting Hawks @ Kansas State Wildcats (HD)": {
       "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "https://tvpass.org/live/ESPN/hd"
+      "url": "https://tvpass.org/live/NCAAF16/hd"
+    },
+    "[WNBA] Minnesota Lynx @ Connecticut Sun (SD)": {
+      "logo": "https://i.gyazo.com/f356a338044d1dfa9eed11979f8cf13f.png",
+      "url": "https://tvpass.org/live/NBATV/sd"
+    },
+    "[WNBA] Minnesota Lynx @ Connecticut Sun (HD)": {
+      "logo": "https://i.gyazo.com/f356a338044d1dfa9eed11979f8cf13f.png",
+      "url": "https://tvpass.org/live/NBATV/hd"
+    },
+    "[NCAAF] North Alabama Lions @ Western Kentucky Hilltoppers (SD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/NCAAF19/sd"
+    },
+    "[NCAAF] North Alabama Lions @ Western Kentucky Hilltoppers (HD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/NCAAF19/hd"
+    },
+    "[NCAAF] Nicholls State Colonels @ Troy Trojans (SD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/NCAAF18/sd"
+    },
+    "[NCAAF] Nicholls State Colonels @ Troy Trojans (HD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/NCAAF18/hd"
+    },
+    "[NCAAF] Morgan State Bears @ South Alabama Jaguars (SD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/NCAAF17/sd"
+    },
+    "[NCAAF] Morgan State Bears @ South Alabama Jaguars (HD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/NCAAF17/hd"
+    },
+    "[NCAAF] LIU Sharks @ Florida Gators (SD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/NCAAF15/sd"
+    },
+    "[NCAAF] LIU Sharks @ Florida Gators (HD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/NCAAF15/hd"
+    },
+    "[NCAAF] Charleston Southern Buccaneers @ Vanderbilt Commodores (SD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/NCAAF14/sd"
+    },
+    "[NCAAF] Charleston Southern Buccaneers @ Vanderbilt Commodores (HD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/NCAAF14/hd"
+    },
+    "[NCAAF] Austin Peay Governors @ Middle Tennessee Blue Raiders (SD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/NCAAF13/sd"
+    },
+    "[NCAAF] Austin Peay Governors @ Middle Tennessee Blue Raiders (HD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/NCAAF13/hd"
+    },
+    "[NCAAF] Southeast Missouri State Redhawks @ Arkansas State Red Wolves (SD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/NCAAF12/sd"
+    },
+    "[NCAAF] Southeast Missouri State Redhawks @ Arkansas State Red Wolves (HD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/NCAAF12/hd"
     },
     "[MLB] Los Angeles Angels @ Houston Astros (SD)": {
       "logo": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
@@ -161,53 +377,13 @@
       "logo": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
       "url": "https://tvpass.org/live/mlb-20/hd"
     },
-    "[MLB] Detroit Tigers @ Kansas City Royals (SD)": {
+    "[MLB] New York Yankees @ Chicago White Sox (SD)": {
       "logo": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
-      "url": "https://tvpass.org/live/mlb-05/sd"
+      "url": "https://tvpass.org/live/mlb-03/sd"
     },
-    "[MLB] Detroit Tigers @ Kansas City Royals (HD)": {
+    "[MLB] New York Yankees @ Chicago White Sox (HD)": {
       "logo": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
-      "url": "https://tvpass.org/live/mlb-05/hd"
-    },
-    "[MLB] Chicago Cubs @ Colorado Rockies (SD)": {
-      "logo": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
-      "url": "https://tvpass.org/live/mlb-25/sd"
-    },
-    "[MLB] Chicago Cubs @ Colorado Rockies (HD)": {
-      "logo": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
-      "url": "https://tvpass.org/live/mlb-25/hd"
-    },
-    "[NCAAF] UNLV Rebels @ Sam Houston State Bearkats (SD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "https://tvpass.org/live/CBSSportsNetworkUSA/sd"
-    },
-    "[NCAAF] UNLV Rebels @ Sam Houston State Bearkats (HD)": {
-      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
-      "url": "https://tvpass.org/live/CBSSportsNetworkUSA/hd"
-    },
-    "[WNBA] Indiana Fever @ Los Angeles Sparks (SD)": {
-      "logo": "https://i.gyazo.com/f356a338044d1dfa9eed11979f8cf13f.png",
-      "url": "https://tvpass.org/live/WNBA02/sd"
-    },
-    "[WNBA] Indiana Fever @ Los Angeles Sparks (HD)": {
-      "logo": "https://i.gyazo.com/f356a338044d1dfa9eed11979f8cf13f.png",
-      "url": "https://tvpass.org/live/WNBA02/hd"
-    },
-    "[MLB] Texas Rangers @ Oakland Athletics (SD)": {
-      "logo": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
-      "url": "https://tvpass.org/live/mlb-19/sd"
-    },
-    "[MLB] Texas Rangers @ Oakland Athletics (HD)": {
-      "logo": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
-      "url": "https://tvpass.org/live/mlb-19/hd"
-    },
-    "[MLB] Arizona Diamondbacks @ Los Angeles Dodgers (SD)": {
-      "logo": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
-      "url": "https://tvpass.org/live/mlb-14/sd"
-    },
-    "[MLB] Arizona Diamondbacks @ Los Angeles Dodgers (HD)": {
-      "logo": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
-      "url": "https://tvpass.org/live/mlb-14/hd"
+      "url": "https://tvpass.org/live/mlb-03/hd"
     },
     "[MLB] Baltimore Orioles @ San Francisco Giants (SD)": {
       "logo": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
@@ -217,13 +393,245 @@
       "logo": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
       "url": "https://tvpass.org/live/mlb-27/hd"
     },
-    "[NCAAF] Central Michigan Chippewas @ San Jose State Spartans (SD)": {
+    "[MLB] Seattle Mariners @ Cleveland Guardians (SD)": {
+      "logo": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
+      "url": "https://tvpass.org/live/mlb-30/sd"
+    },
+    "[MLB] Seattle Mariners @ Cleveland Guardians (HD)": {
+      "logo": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
+      "url": "https://tvpass.org/live/mlb-30/hd"
+    },
+    "[MLB] Detroit Tigers @ Kansas City Royals (SD)": {
+      "logo": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
+      "url": "https://tvpass.org/live/mlb-05/sd"
+    },
+    "[MLB] Detroit Tigers @ Kansas City Royals (HD)": {
+      "logo": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
+      "url": "https://tvpass.org/live/mlb-05/hd"
+    },
+    "[NCAAF] Missouri State Bears @ USC Trojans (SD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/BTN/sd"
+    },
+    "[NCAAF] Missouri State Bears @ USC Trojans (HD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/BTN/hd"
+    },
+    "[NCAAF] UTEP Miners @ Utah State Aggies (SD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/CBSSportsNetworkUSA/sd"
+    },
+    "[NCAAF] UTEP Miners @ Utah State Aggies (HD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/CBSSportsNetworkUSA/hd"
+    },
+    "[NCAAF] New Mexico Lobos @ Michigan Wolverines (SD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/WNBCDT1/sd"
+    },
+    "[NCAAF] New Mexico Lobos @ Michigan Wolverines (HD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/WNBCDT1/hd"
+    },
+    "[NCAAF] Southeastern Louisiana Lions @ Louisiana Tech Bulldogs (SD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/NCAAF21/sd"
+    },
+    "[NCAAF] Southeastern Louisiana Lions @ Louisiana Tech Bulldogs (HD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/NCAAF21/hd"
+    },
+    "[NCAAF] LSU Tigers @ Clemson Tigers (SD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/ESPNU/sd"
+    },
+    "[NCAAF] LSU Tigers @ Clemson Tigers (HD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/ESPNU/hd"
+    },
+    "[NCAAF] Arkansas Pine Bluff Golden Lions @ Texas Tech Red Raiders (SD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/NCAAF20/sd"
+    },
+    "[NCAAF] Arkansas Pine Bluff Golden Lions @ Texas Tech Red Raiders (HD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/NCAAF20/hd"
+    },
+    "[NCAAF] Georgia State Panthers @ Ole Miss Rebels (SD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/SECN/sd"
+    },
+    "[NCAAF] Georgia State Panthers @ Ole Miss Rebels (HD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/SECN/hd"
+    },
+    "[NCAAF] Abilene Christian Wildcats @ Tulsa Golden Hurricane (SD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/NCAAF22/sd"
+    },
+    "[NCAAF] Abilene Christian Wildcats @ Tulsa Golden Hurricane (HD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/NCAAF22/hd"
+    },
+    "[NCAAF] Portland State Vikings @ BYU Cougars (SD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/NCAAF23/sd"
+    },
+    "[NCAAF] Portland State Vikings @ BYU Cougars (HD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/NCAAF23/hd"
+    },
+    "[NCAAF] Eastern Michigan Eagles @ Texas State Bobcats (SD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/NCAAF24/sd"
+    },
+    "[NCAAF] Eastern Michigan Eagles @ Texas State Bobcats (HD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/NCAAF24/hd"
+    },
+    "[NCAAF] Lamar Cardinals @ North Texas Mean Green (SD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/NCAAF25/sd"
+    },
+    "[NCAAF] Lamar Cardinals @ North Texas Mean Green (HD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/NCAAF25/hd"
+    },
+    "[NCAAF] Rice Owls @ Louisiana Ragin Cajuns (SD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/NCAAF26/sd"
+    },
+    "[NCAAF] Rice Owls @ Louisiana Ragin Cajuns (HD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/NCAAF26/hd"
+    },
+    "[MLB] Chicago Cubs @ Colorado Rockies (SD)": {
+      "logo": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
+      "url": "https://tvpass.org/live/mlb-25/sd"
+    },
+    "[MLB] Chicago Cubs @ Colorado Rockies (HD)": {
+      "logo": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
+      "url": "https://tvpass.org/live/mlb-25/hd"
+    },
+    "[WNBA] Washington Mystics @ Golden State Valkyries (SD)": {
+      "logo": "https://i.gyazo.com/f356a338044d1dfa9eed11979f8cf13f.png",
+      "url": "https://tvpass.org/live/WNBA02/sd"
+    },
+    "[WNBA] Washington Mystics @ Golden State Valkyries (HD)": {
+      "logo": "https://i.gyazo.com/f356a338044d1dfa9eed11979f8cf13f.png",
+      "url": "https://tvpass.org/live/WNBA02/hd"
+    },
+    "[NCAAF] Bryant Bulldogs @ New Mexico State Aggies (SD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/NCAAF28/sd"
+    },
+    "[NCAAF] Bryant Bulldogs @ New Mexico State Aggies (HD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/NCAAF28/hd"
+    },
+    "[NCAAF] East Texas A&M Lions @ SMU Mustangs (SD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/ACCNetwork/sd"
+    },
+    "[NCAAF] East Texas A&M Lions @ SMU Mustangs (HD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/ACCNetwork/hd"
+    },
+    "[NCAAF] UTSA Roadrunners @ Texas A&M Aggies (SD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/ESPN/sd"
+    },
+    "[NCAAF] UTSA Roadrunners @ Texas A&M Aggies (HD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/ESPN/hd"
+    },
+    "[WNBA] Chicago Sky @ Seattle Storm (SD)": {
+      "logo": "https://i.gyazo.com/f356a338044d1dfa9eed11979f8cf13f.png",
+      "url": "https://tvpass.org/live/WNBA03/sd"
+    },
+    "[WNBA] Chicago Sky @ Seattle Storm (HD)": {
+      "logo": "https://i.gyazo.com/f356a338044d1dfa9eed11979f8cf13f.png",
+      "url": "https://tvpass.org/live/WNBA03/hd"
+    },
+    "[MLB] Arizona Diamondbacks @ Los Angeles Dodgers (SD)": {
+      "logo": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
+      "url": "https://tvpass.org/live/mlb-14/sd"
+    },
+    "[MLB] Arizona Diamondbacks @ Los Angeles Dodgers (HD)": {
+      "logo": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
+      "url": "https://tvpass.org/live/mlb-14/hd"
+    },
+    "[NCAAF] Georgia Southern Eagles @ Fresno State Bulldogs (SD)": {
       "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
       "url": "https://tvpass.org/live/FoxSports1/sd"
     },
-    "[NCAAF] Central Michigan Chippewas @ San Jose State Spartans (HD)": {
+    "[NCAAF] Georgia Southern Eagles @ Fresno State Bulldogs (HD)": {
       "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
       "url": "https://tvpass.org/live/FoxSports1/hd"
+    },
+    "[NCAAF] Idaho Vandals @ Washington State Cougars (SD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/WPIX/sd"
+    },
+    "[NCAAF] Idaho Vandals @ Washington State Cougars (HD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/WPIX/hd"
+    },
+    "[NCAAF] Northern Arizona Lumberjacks @ Arizona State Sun Devils (SD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/NCAAF27/sd"
+    },
+    "[NCAAF] Northern Arizona Lumberjacks @ Arizona State Sun Devils (HD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/NCAAF27/hd"
+    },
+    "[WNBA] New York Liberty @ Phoenix Mercury (SD)": {
+      "logo": "https://i.gyazo.com/f356a338044d1dfa9eed11979f8cf13f.png",
+      "url": "https://tvpass.org/live/NBATV/sd"
+    },
+    "[WNBA] New York Liberty @ Phoenix Mercury (HD)": {
+      "logo": "https://i.gyazo.com/f356a338044d1dfa9eed11979f8cf13f.png",
+      "url": "https://tvpass.org/live/NBATV/hd"
+    },
+    "[MLB] Texas Rangers @ Oakland Athletics (SD)": {
+      "logo": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
+      "url": "https://tvpass.org/live/mlb-19/sd"
+    },
+    "[MLB] Texas Rangers @ Oakland Athletics (HD)": {
+      "logo": "https://i.gyazo.com/ff3e375a48039d86d9b6216b213ad327.png",
+      "url": "https://tvpass.org/live/mlb-19/hd"
+    },
+    "[NCAAF] Hawaii Rainbow Warriors @ Arizona Wildcats (SD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/TNTEast/sd"
+    },
+    "[NCAAF] Hawaii Rainbow Warriors @ Arizona Wildcats (HD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/TNTEast/hd"
+    },
+    "[NCAAF] California Golden Bears @ Oregon State Beavers (SD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/ESPN/sd"
+    },
+    "[NCAAF] California Golden Bears @ Oregon State Beavers (HD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/ESPN/hd"
+    },
+    "[NCAAF] Colorado State Rams @ Washington Huskies (SD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/BTN/sd"
+    },
+    "[NCAAF] Colorado State Rams @ Washington Huskies (HD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/BTN/hd"
+    },
+    "[NCAAF] Utah Utes @ UCLA Bruins (SD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/WNYWDT1/sd"
+    },
+    "[NCAAF] Utah Utes @ UCLA Bruins (HD)": {
+      "logo": "https://i.gyazo.com/ca63b40c86e757436de9d34d369b24f8.png",
+      "url": "https://tvpass.org/live/WNYWDT1/hd"
     }
   }
 }
