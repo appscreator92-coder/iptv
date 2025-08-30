@@ -1,10 +1,7 @@
-## Log @ 2025-08-29 20:26 UTC
+## Log @ 2025-08-30 03:01 UTC
 
-### ✅ Working Streams: 66<br>➖ Empty Streams: 0<br>❌ Dead Streams: 1
+### ✅ Working Streams: 67<br>➖ Empty Streams: 0<br>❌ Dead Streams: 0
 
-| Channel | Error (Code) | Link |
-| ------- | ------------ | ---- |
-| NBC | HTTP Error (404) | `http://fl1.moveonjoy.com/NBC_EAST/index.m3u8` |
 ---
 #### M3U8 URL
 ```
