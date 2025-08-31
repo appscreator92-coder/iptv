@@ -75,15 +75,13 @@ async def main(client: httpx.AsyncClient) -> None:
                 if tvg_name:
                     tvg_name = "(".join(tvg_name.split("(")[:-1]).strip()
 
-                    logo = logos.get(
-                        sport,
-                        "https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png",
-                    )
-
                 if url.endswith("/hd"):
                     urls[f"[{sport}] {tvg_name}"] = {
-                        "logo": logo,
                         "url": f"http://origin.thetvapp.to/hls/{url.split('/')[-2]}/mono.m3u8",
+                        "logo": logos.get(
+                            sport,
+                            "https://i.gyazo.com/ec27417a9644ae517196494afa72d2b9.png",
+                        ),
                     }
 
     if urls:

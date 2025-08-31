@@ -1,7 +1,5 @@
 import logging
 
-reset = "\033[0m"
-
 log_format = "[%(asctime)s] %(levelname)-8s %(message)-70s %(filename)s:%(lineno)d"
 
 colors = {
@@ -10,13 +8,15 @@ colors = {
     "WARNING": "\033[33m",
     "ERROR": "\033[31m",
     "CRITICAL": "\033[41m",
+    "reset": "\033[0m",
 }
 
 
 class ColorFormatter(logging.Formatter):
     def format(self, record) -> str:
         color = colors.get(record.levelname, "")
-        record.levelname = f"{color}{record.levelname}{reset}"
+
+        record.levelname = f"{color}{record.levelname}{colors['reset']}"
 
         return super().format(record)
 

@@ -3,7 +3,7 @@ import asyncio
 from pathlib import Path
 
 import httpx
-from scrape import fstv, logger, tvpass
+from scrape import logger, tvpass  # , fstv
 
 log = logger.get_logger(__name__)
 
@@ -32,25 +32,25 @@ async def vanilla_fetch() -> tuple[list[str], int]:
 
     d = r.text.splitlines()[1:]
 
-    last_chnl_number = int(r.text.split("tvg-chno=")[-1].split('"')[1])
+    last_chnl_num = int(r.text.split("tvg-chno=")[-1].split('"')[1])
 
-    return d, last_chnl_number
+    return d, last_chnl_num
 
 
 async def main() -> None:
     await tvpass.main(client)
 
-    await fstv.main(client)
+    # await fstv.main(client)
 
-    base_m3u8, chnl_number = await vanilla_fetch()
+    base_m3u8, tvg_chno = await vanilla_fetch()
 
-    additions = tvpass.urls | fstv.urls
+    additions = tvpass.urls  # | fstv.urls
 
     lines = [
-        f'#EXTINF:-1 tvg-chno="{chnl_number}" tvg-id="(N/A)" tvg-name="{event}" tvg-logo="{info["logo"]}" group-title="Live Events",{event}\n{info["url"]}'
-        for chnl_number, (event, info) in enumerate(
+        f'#EXTINF:-1 tvg-chno="{chnl_num}" tvg-id="(N/A)" tvg-name="{event}" tvg-logo="{info["logo"]}" group-title="Live Events",{event}\n{info["url"]}'
+        for chnl_num, (event, info) in enumerate(
             sorted(additions.items()),
-            start=chnl_number + 1,
+            start=tvg_chno + 1,
         )
     ]
 
