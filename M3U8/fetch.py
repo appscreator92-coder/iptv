@@ -41,7 +41,7 @@ async def main() -> None:
     tasks = [
         # ace.main(client),
         # fstv.main(client),
-        # livetvsx.main(),
+        livetvsx.main(),
         tvpass.main(client),
     ]
 
