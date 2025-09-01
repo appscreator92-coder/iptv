@@ -46,6 +46,19 @@ jobs:
         with:
           python-version-file: "pyproject.toml"
 
+      - name: Cache Playwright browsers
+        if: steps.check_time.outputs.run == 'true'
+        uses: actions/cache@v3
+        with:
+          path: ~/.cache/ms-playwright
+          key: ${{ runner.os }}-playwright
+          restore-keys: |
+            ${{ runner.os }}-playwright
+
+      - name: Install Playwright browsers
+        if: steps.check_time.outputs.run == 'true'
+        run: uv run playwright install
+
       - name: Fetch M3U8
         if: steps.check_time.outputs.run == 'true'
         run: uv run M3U8/fetch.py
