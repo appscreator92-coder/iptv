@@ -3,7 +3,7 @@ import asyncio
 from pathlib import Path
 
 import httpx
-from scrape import logger, tvpass  # , fstv
+from scrape import ace, logger, tvpass  # , fstv
 
 log = logger.get_logger(__name__)
 
@@ -40,11 +40,13 @@ async def vanilla_fetch() -> tuple[list[str], int]:
 async def main() -> None:
     await tvpass.main(client)
 
+    await ace.main(client)
+
     # await fstv.main(client)
 
     base_m3u8, tvg_chno = await vanilla_fetch()
 
-    additions = tvpass.urls  # | fstv.urls
+    additions = tvpass.urls | ace.urls  # | fstv.urls
 
     lines = [
         f'#EXTINF:-1 tvg-chno="{chnl_num}" tvg-id="(N/A)" tvg-name="{event}" tvg-logo="{info["logo"]}" group-title="Live Events",{event}\n{info["url"]}'

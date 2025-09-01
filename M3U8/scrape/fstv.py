@@ -29,7 +29,7 @@ async def check_status(client: httpx.AsyncClient, url: str) -> bool:
     return r.status_code == 200
 
 
-async def get_base(client: httpx.AsyncClient) -> str:
+async def get_base(client: httpx.AsyncClient, mirrors: list[str]) -> str:
     tasks = [check_status(client, link) for link in mirrors]
     results = await asyncio.gather(*tasks)
 
@@ -103,7 +103,7 @@ async def fetch_m3u8(client: httpx.AsyncClient, url: str) -> tuple[str, list[str
 
 
 async def main(client: httpx.AsyncClient) -> None:
-    if not (base_url := await get_base(client)):
+    if not (base_url := await get_base(client, mirrors)):
         log.warning("No working FSTV mirrors")
         return
 
