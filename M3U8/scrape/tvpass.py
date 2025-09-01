@@ -51,7 +51,7 @@ async def fetch_m3u8(client: httpx.AsyncClient) -> list[str] | None:
 async def main(client: httpx.AsyncClient) -> None:
     if cached := load_cache():
         urls.update(cached)
-        log.info(f"TVPass: Collected {len(urls)} live events from cache")
+        log.info(f"Collected {len(urls)} events from cache")
         return
 
     log.info(f'Scraping from "{base_url}"')
@@ -87,4 +87,4 @@ async def main(client: httpx.AsyncClient) -> None:
     if urls:
         base_file.write_text(json.dumps(urls, indent=2), encoding="utf-8")
 
-        log.info(f"Cached {len(urls)} live events")
+        log.info(f"Cached {len(urls)} events")

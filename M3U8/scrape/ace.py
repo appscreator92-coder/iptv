@@ -25,7 +25,7 @@ def is_valid_href(a: Node) -> bool:
 
 
 async def get_schedule(client: httpx.AsyncClient, base_url: str) -> list[dict]:
-    log.info(f'Scraping schedule from "{base_url}"')
+    log.info(f'Scraping from "{base_url}"')
 
     try:
         r = await client.get(base_url)
@@ -90,7 +90,7 @@ async def get_m3u8_links(client: httpx.AsyncClient, url: str) -> list[str]:
         if ".m3u8" in src and src not in m3u8_links:
             m3u8_links.insert(
                 0,
-                src.split("https://cors.ricohspaces.app/")[-1],
+                src.split("cors.ricohspaces.app/")[-1],
             )
 
     return m3u8_links
