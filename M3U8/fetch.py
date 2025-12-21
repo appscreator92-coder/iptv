@@ -7,9 +7,6 @@ from scrapers import (
     fawa,
     istreameast,
     lotus,
-    pixel,
-    ppv,
-    roxie,
     shark,
     sport9,
     streamcenter,
@@ -17,7 +14,6 @@ from scrapers import (
     streamhub,
     streamsgate,
     strmd,
-    tvpass,
     watchfooty,
     webcast,
 )
