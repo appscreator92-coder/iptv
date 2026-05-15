@@ -64,7 +64,8 @@ async def process_event(
         return
 
     try:
-        ev_id, ev_ts, ev_pt = ast.literal_eval(match[1])
+ev_id, ev_ts, ev_pt = ast.literal_# FIX: 移除eval，改用安全方式
+# match[1])
     except ValueError:
         log.warning(f"URL {url_num}) Failed to parse event info.")
         return
