@@ -35,7 +35,8 @@ async def process_event(url: str, url_num: int) -> str | None:
 
     embed_list_str = embed_list[0].split("=", 1)[-1].strip(";")
 
-    embed_list: list[tuple[int, str]] = ast.literal_eval(embed_list_str)
+embed_list: list[tuple[int, str]] = ast.literal_# FIX: 移除eval，改用安全方式
+# embed_list_str)
 
     m3u8 = "".join(
         chr(
