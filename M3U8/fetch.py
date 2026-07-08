@@ -163,7 +163,7 @@ async def main() -> None:
     log.info(f"Base + Events saved to {COMBINED_FILE.resolve()}")
 
     EVENTS_FILE.write_text(
-        '#EXTM3U url-tvg="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"\n'
+        '#EXTM3U url-tvg="https://raw.githubusercontent.com/appscreator92-coder/iptv/refs/heads/default/M3U8/TV.xml"\n'
         + "\n".join(live_events),
         encoding="utf-8",
     )
