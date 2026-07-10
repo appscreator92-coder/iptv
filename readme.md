@@ -1,13 +1,11 @@
-## Base Log @ 2026-07-10 11:26 UTC
+## Base Log @ 2026-07-10 16:38 UTC
 
-### ✅ Working Streams: 148<br>❌ Dead Streams: 4
+### ✅ Working Streams: 150<br>❌ Dead Streams: 2
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
 | CBS Sports Golazo Network | HTTP Error (404) | `https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8` |
-| Disney Jr | HTTP Error (404) | `http://206.212.244.63/655/index.m3u8` |
 | HBO 2 | HTTP Error (404) | `http://23.237.104.106:8080/USA_HBO2/index.m3u8` |
-| SportsNet New York | HTTP Error (403) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3865.ts` |
 ---
 #### Base Channels URL
 ```
