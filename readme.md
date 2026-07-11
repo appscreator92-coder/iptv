@@ -1,11 +1,12 @@
-## Base Log @ 2026-07-10 21:36 UTC
+## Base Log @ 2026-07-11 09:59 UTC
 
-### ✅ Working Streams: 150<br>❌ Dead Streams: 2
+### ✅ Working Streams: 149<br>❌ Dead Streams: 3
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
 | CBS Sports Golazo Network | HTTP Error (404) | `https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8` |
 | HBO 2 | HTTP Error (404) | `http://23.237.104.106:8080/USA_HBO2/index.m3u8` |
+| MotorTrend TV | HTTP Error (404) | `http://206.212.244.63/113/index.m3u8` |
 ---
 #### Base Channels URL
 ```
