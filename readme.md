@@ -1,4 +1,4 @@
-## Base Log @ 2026-07-13 16:57 UTC
+## Base Log @ 2026-07-13 21:30 UTC
 
 ### ✅ Working Streams: 108<br>❌ Dead Streams: 44
 
@@ -11,7 +11,6 @@
 | Boomerang | cURL Error (28) | `http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8` |
 | Bounce TV | cURL Error (28) | `http://23.237.104.106:8080/USA_BOUNCE/index.m3u8` |
 | CBS Sports Golazo Network | HTTP Error (404) | `https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8` |
-| CBS Sports Network | HTTP Error (403) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3621.ts` |
 | CMT | cURL Error (28) | `http://23.237.104.106:8080/USA_CMT/index.m3u8` |
 | Cartoon Network | cURL Error (28) | `http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8` |
 | Cinemax | cURL Error (28) | `http://23.237.104.106:8080/USA_CINEMAX/index.m3u8` |
@@ -47,6 +46,7 @@
 | VH1 | cURL Error (28) | `http://23.237.104.106:8080/USA_VH1/index.m3u8` |
 | Vice TV | cURL Error (28) | `http://23.237.104.106:8080/USA_VICETV/index.m3u8` |
 | We Tv | cURL Error (28) | `http://23.237.104.106:8080/USA_WE_TV/index.m3u8` |
+| Willow Cricket | HTTP Error (403) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3972.ts` |
 | YES Network | cURL Error (28) | `http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8` |
 ---
 #### Base Channels URL
