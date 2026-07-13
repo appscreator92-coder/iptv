@@ -1,6 +1,6 @@
-## Base Log @ 2026-07-13 11:39 UTC
+## Base Log @ 2026-07-13 16:57 UTC
 
-### ✅ Working Streams: 110<br>❌ Dead Streams: 42
+### ✅ Working Streams: 108<br>❌ Dead Streams: 44
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -11,6 +11,7 @@
 | Boomerang | cURL Error (28) | `http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8` |
 | Bounce TV | cURL Error (28) | `http://23.237.104.106:8080/USA_BOUNCE/index.m3u8` |
 | CBS Sports Golazo Network | HTTP Error (404) | `https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8` |
+| CBS Sports Network | HTTP Error (403) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3621.ts` |
 | CMT | cURL Error (28) | `http://23.237.104.106:8080/USA_CMT/index.m3u8` |
 | Cartoon Network | cURL Error (28) | `http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8` |
 | Cinemax | cURL Error (28) | `http://23.237.104.106:8080/USA_CINEMAX/index.m3u8` |
@@ -40,6 +41,7 @@
 | Paramount Network | cURL Error (28) | `http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8` |
 | Reelz Channel | cURL Error (28) | `http://23.237.104.106:8080/USA_REELZ/index.m3u8` |
 | SEC Network | cURL Error (28) | `http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8` |
+| STV | HTTP Error (403) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2168.ts` |
 | Starz | cURL Error (28) | `http://23.237.104.106:8080/USA_STARZ/index.m3u8` |
 | Syfy | cURL Error (28) | `http://23.237.104.106:8080/USA_SYFY/index.m3u8` |
 | VH1 | cURL Error (28) | `http://23.237.104.106:8080/USA_VH1/index.m3u8` |
