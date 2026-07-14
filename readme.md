@@ -1,6 +1,6 @@
-## Base Log @ 2026-07-14 15:58 UTC
+## Base Log @ 2026-07-14 21:32 UTC
 
-### ✅ Working Streams: 109<br>❌ Dead Streams: 43
+### ✅ Working Streams: 110<br>❌ Dead Streams: 42
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -46,7 +46,6 @@
 | Vice TV | cURL Error (28) | `http://23.237.104.106:8080/USA_VICETV/index.m3u8` |
 | We Tv | cURL Error (28) | `http://23.237.104.106:8080/USA_WE_TV/index.m3u8` |
 | YES Network | cURL Error (28) | `http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8` |
-| beIN Sports 1 | HTTP Error (404) | `https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8` |
 ---
 #### Base Channels URL
 ```
