@@ -1,12 +1,13 @@
-## Base Log @ 2026-07-15 16:03 UTC
+## Base Log @ 2026-07-15 21:31 UTC
 
-### ✅ Working Streams: 110<br>❌ Dead Streams: 42
+### ✅ Working Streams: 109<br>❌ Dead Streams: 43
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
 | ACC Network | cURL Error (28) | `http://23.237.104.106:8080/USA_ACCN/mpegts` |
 | Animal Planet | cURL Error (28) | `http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8` |
 | BBC America | cURL Error (28) | `http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8` |
+| BBC One | HTTP Error (403) | `http://193.239.186.231/BBC1/index.m3u8` |
 | Big Ten Network | cURL Error (28) | `http://23.237.104.106:8080/USA_BTN/index.m3u8` |
 | Boomerang | cURL Error (28) | `http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8` |
 | Bounce TV | cURL Error (28) | `http://23.237.104.106:8080/USA_BOUNCE/index.m3u8` |
