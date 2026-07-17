@@ -1,12 +1,13 @@
-## Base Log @ 2026-07-17 15:56 UTC
+## Base Log @ 2026-07-17 21:22 UTC
 
-### ✅ Working Streams: 149<br>❌ Dead Streams: 3
+### ✅ Working Streams: 148<br>❌ Dead Streams: 4
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
 | BBC One | HTTP Error (403) | `http://193.239.186.231/BBC1/index.m3u8` |
 | CBS Sports Golazo Network | HTTP Error (404) | `https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8` |
 | HBO 2 | HTTP Error (404) | `http://23.237.104.106:8080/USA_HBO2/index.m3u8` |
+| beIN Sports 1 | Invalid M3U8 (200) | `https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8` |
 ---
 #### Base Channels URL
 ```
