@@ -1,14 +1,15 @@
-## Base Log @ 2026-07-18 09:57 UTC
+## Base Log @ 2026-07-18 15:30 UTC
 
-### ✅ Working Streams: 147<br>❌ Dead Streams: 5
+### ✅ Working Streams: 146<br>❌ Dead Streams: 6
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
 | BBC One | HTTP Error (403) | `http://193.239.186.231/BBC1/index.m3u8` |
 | CBS Sports Golazo Network | HTTP Error (404) | `https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8` |
 | HBO 2 | HTTP Error (404) | `http://23.237.104.106:8080/USA_HBO2/index.m3u8` |
-| MotorTrend TV | HTTP Error (404) | `http://206.212.244.63/113/index.m3u8` |
-| Starz Encore Classic | HTTP Error (403) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3953.ts` |
+| NESN | HTTP Error (403) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/149310.ts` |
+| Sony Movie Channel | HTTP Error (403) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2412.ts` |
+| SportsNet New York | HTTP Error (403) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3865.ts` |
 ---
 #### Base Channels URL
 ```
