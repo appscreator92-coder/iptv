@@ -1,6 +1,6 @@
-## Base Log @ 2026-07-20 11:23 UTC
+## Base Log @ 2026-07-20 16:09 UTC
 
-### ✅ Working Streams: 147<br>❌ Dead Streams: 5
+### ✅ Working Streams: 145<br>❌ Dead Streams: 7
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -9,6 +9,8 @@
 | DIRECTV Sports | HTTP Error (404) | `http://201.230.121.85:8000/play/dssporthd/index.m3u8` |
 | ESPN | HTTP Error (404) | `http://41.205.93.154/ESPN/index.m3u8` |
 | HBO 2 | HTTP Error (404) | `http://23.237.104.106:8080/USA_HBO2/index.m3u8` |
+| Nick Jr | cURL Error (28) | `http://40.160.24.55/NICK_JR/index.m3u8` |
+| Showtime Extreme | HTTP Error (403) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648984.ts` |
 ---
 #### Base Channels URL
 ```
