@@ -1,16 +1,17 @@
-## Base Log @ 2026-07-21 10:39 UTC
+## Base Log @ 2026-07-21 16:02 UTC
 
-### ✅ Working Streams: 145<br>❌ Dead Streams: 7
+### ✅ Working Streams: 144<br>❌ Dead Streams: 8
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
 | BBC One | HTTP Error (403) | `http://193.239.186.231/BBC1/index.m3u8` |
 | CBS Sports Golazo Network | HTTP Error (404) | `https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8` |
+| CBS Sports Network | HTTP Error (403) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3621.ts` |
+| Comedy TV | HTTP Error (403) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/77411.ts` |
 | DIRECTV Sports | HTTP Error (404) | `http://201.230.121.85:8000/play/dssporthd/index.m3u8` |
 | ESPN | HTTP Error (404) | `http://41.205.93.154/ESPN/index.m3u8` |
+| FX Movie Channel | HTTP Error (403) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3736.ts` |
 | HBO 2 | HTTP Error (404) | `http://23.237.104.106:8080/USA_HBO2/index.m3u8` |
-| SEC Network | HTTP Error (404) | `http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8` |
-| Sky Sports News | HTTP Error (403) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2179.ts` |
 ---
 #### Base Channels URL
 ```
