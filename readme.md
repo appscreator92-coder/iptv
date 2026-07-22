@@ -1,6 +1,6 @@
-## Base Log @ 2026-07-22 10:39 UTC
+## Base Log @ 2026-07-22 15:59 UTC
 
-### ✅ Working Streams: 147<br>❌ Dead Streams: 5
+### ✅ Working Streams: 146<br>❌ Dead Streams: 6
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -9,6 +9,7 @@
 | DIRECTV Sports | HTTP Error (404) | `http://201.230.121.85:8000/play/dssporthd/index.m3u8` |
 | ESPN | HTTP Error (404) | `http://41.205.93.154/ESPN/index.m3u8` |
 | HBO 2 | HTTP Error (404) | `http://23.237.104.106:8080/USA_HBO2/index.m3u8` |
+| beIN Sports 1 | HTTP Error (504) | `https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8` |
 ---
 #### Base Channels URL
 ```
