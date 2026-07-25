@@ -1,6 +1,6 @@
-## Base Log @ 2026-07-24 21:38 UTC
+## Base Log @ 2026-07-25 10:08 UTC
 
-### ✅ Working Streams: 145<br>❌ Dead Streams: 7
+### ✅ Working Streams: 144<br>❌ Dead Streams: 8
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -10,7 +10,8 @@
 | ESPN | HTTP Error (404) | `http://41.205.93.154/ESPN/index.m3u8` |
 | HBO 2 | HTTP Error (404) | `http://23.237.104.106:8080/USA_HBO2/index.m3u8` |
 | NBC Sports Philadelphia | HTTP Error (403) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3769.ts` |
-| Willow Cricket | cURL Error (28) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3972.ts` |
+| Willow Cricket | HTTP Error (403) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3972.ts` |
+| beIN Sports 1 | HTTP Error (504) | `https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8` |
 ---
 #### Base Channels URL
 ```
