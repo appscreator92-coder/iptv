@@ -1,6 +1,6 @@
-## Base Log @ 2026-07-30 21:43 UTC
+## Base Log @ 2026-07-31 11:06 UTC
 
-### ✅ Working Streams: 146<br>❌ Dead Streams: 6
+### ✅ Working Streams: 144<br>❌ Dead Streams: 8
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -10,6 +10,8 @@
 | DIRECTV Sports | HTTP Error (404) | `http://201.230.121.85:8000/play/dssporthd/index.m3u8` |
 | ESPN | HTTP Error (404) | `http://41.205.93.154/ESPN/index.m3u8` |
 | HBO 2 | HTTP Error (404) | `http://23.237.104.106:8080/USA_HBO2/index.m3u8` |
+| HBO Comedy | cURL Error (28) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648977.ts` |
+| ITV1 | cURL Error (28) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/527497.ts` |
 ---
 #### Base Channels URL
 ```
