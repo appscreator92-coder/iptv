@@ -1,17 +1,22 @@
-## Base Log @ 2026-08-01 15:37 UTC
+## Base Log @ 2026-08-01 21:25 UTC
 
-### ✅ Working Streams: 144<br>❌ Dead Streams: 8
+### ✅ Working Streams: 139<br>❌ Dead Streams: 13
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
 | A&E TV | HTTP Error (403) | `http://206.212.244.63/1/index.m3u8` |
 | BBC One | HTTP Error (403) | `http://193.239.186.231/BBC1/index.m3u8` |
+| BET | HTTP Error (403) | `http://206.212.244.63/16/index.m3u8` |
 | CBS Sports Golazo Network | HTTP Error (404) | `https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8` |
 | DIRECTV Sports + | HTTP Error (404) | `http://190.108.83.69:8000/play/a05w/index.m3u8` |
 | DIRECTV Sports | HTTP Error (404) | `http://201.230.121.85:8000/play/dssporthd/index.m3u8` |
 | ESPN | HTTP Error (404) | `http://41.205.93.154/ESPN/index.m3u8` |
 | Fox News | HTTP Error (403) | `http://206.212.244.63/67/index.m3u8` |
 | HBO 2 | HTTP Error (404) | `http://23.237.104.106:8080/USA_HBO2/index.m3u8` |
+| MLB Network | HTTP Error (502) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3661.ts` |
+| MSNBC | HTTP Error (403) | `http://206.212.244.63/114/index.m3u8` |
+| Premier Sports 1 | HTTP Error (502) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/89089.ts` |
+| Premier Sports 2 | HTTP Error (502) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/89090.ts` |
 ---
 #### Base Channels URL
 ```
