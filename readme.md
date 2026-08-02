@@ -1,6 +1,6 @@
-## Base Log @ 2026-08-01 21:25 UTC
+## Base Log @ 2026-08-02 10:15 UTC
 
-### ✅ Working Streams: 139<br>❌ Dead Streams: 13
+### ✅ Working Streams: 142<br>❌ Dead Streams: 10
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -13,10 +13,7 @@
 | ESPN | HTTP Error (404) | `http://41.205.93.154/ESPN/index.m3u8` |
 | Fox News | HTTP Error (403) | `http://206.212.244.63/67/index.m3u8` |
 | HBO 2 | HTTP Error (404) | `http://23.237.104.106:8080/USA_HBO2/index.m3u8` |
-| MLB Network | HTTP Error (502) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3661.ts` |
 | MSNBC | HTTP Error (403) | `http://206.212.244.63/114/index.m3u8` |
-| Premier Sports 1 | HTTP Error (502) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/89089.ts` |
-| Premier Sports 2 | HTTP Error (502) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/89090.ts` |
 ---
 #### Base Channels URL
 ```
