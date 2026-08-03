@@ -1,6 +1,6 @@
-## Base Log @ 2026-08-02 21:25 UTC
+## Base Log @ 2026-08-03 11:57 UTC
 
-### ✅ Working Streams: 142<br>❌ Dead Streams: 10
+### ✅ Working Streams: 133<br>❌ Dead Streams: 19
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -12,8 +12,17 @@
 | DIRECTV Sports | HTTP Error (404) | `http://201.230.121.85:8000/play/dssporthd/index.m3u8` |
 | ESPN | HTTP Error (404) | `http://41.205.93.154/ESPN/index.m3u8` |
 | Fox News | HTTP Error (403) | `http://206.212.244.63/67/index.m3u8` |
+| Fox Sports 2 | HTTP Error (500) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2500.ts` |
 | HBO 2 | HTTP Error (404) | `http://23.237.104.106:8080/USA_HBO2/index.m3u8` |
 | MSNBC | HTTP Error (403) | `http://206.212.244.63/114/index.m3u8` |
+| Marquee Sports Network | HTTP Error (500) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/55178.ts` |
+| NHL Network | HTTP Error (500) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3672.ts` |
+| Sky Sports Premier League | HTTP Error (500) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2182.ts` |
+| Sony Movie Channel | HTTP Error (500) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2412.ts` |
+| Spectrum SportsNet Lakers | HTTP Error (500) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/512561.ts` |
+| Sportsnet One | HTTP Error (500) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3071.ts` |
+| Starz Encore Classic | HTTP Error (500) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3953.ts` |
+| Willow Cricket | HTTP Error (500) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3972.ts` |
 ---
 #### Base Channels URL
 ```
