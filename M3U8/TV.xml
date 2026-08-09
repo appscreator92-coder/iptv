@@ -1,239 +1,29 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv><channel id="Sportsnet.360.HD.ca2">
-    <icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49952_dark_360w_270h.png" />
-    <icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49952_dark_360w_270h.png" />
-    <display-name lang="en">Sportsnet 360 HD</display-name>
-  </channel>
-  <channel id="TSN.1.ca2">
+<tv><channel id="TSN.1.ca2">
     <icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11182_dark_360w_270h.png" />
     <icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11182_dark_360w_270h.png" />
     <display-name lang="en">TSN 1</display-name>
   </channel>
-  <channel id="Sportsnet.East.ca2">
-    <icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62109_dark_360w_270h.png" />
-    <icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62109_dark_360w_270h.png" />
-    <display-name lang="en">Sportsnet East</display-name>
+  <channel id="Sportsnet.360.HD.ca2">
+    <icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49952_dark_360w_270h.png" />
+    <icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49952_dark_360w_270h.png" />
+    <display-name lang="en">Sportsnet 360 HD</display-name>
   </channel>
   <channel id="Sportsnet.One.ca2">
     <icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68859_dark_360w_270h.png" />
     <icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68859_dark_360w_270h.png" />
     <display-name lang="en">Sportsnet One</display-name>
   </channel>
+  <channel id="Sportsnet.East.ca2">
+    <icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62109_dark_360w_270h.png" />
+    <icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62109_dark_360w_270h.png" />
+    <display-name lang="en">Sportsnet East</display-name>
+  </channel>
   <channel id="TSN.2.ca2">
     <icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61474_dark_360w_270h.png" />
     <icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61474_dark_360w_270h.png" />
     <display-name lang="en">TSN 2</display-name>
   </channel>
-  <programme channel="TSN.1.ca2" start="20260807050000 +0000" stop="20260807060000 +0000">
-    <title lang="en">Live: SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2009</date>
-    <category lang="en">News</category>
-    <category lang="en">Sports talk</category>
-    <icon src="http://dtil.tmsimg.com/assets/p492912_b_h10_ae.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="TSN.1.ca2" start="20260807060000 +0000" stop="20260807070000 +0000">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2009</date>
-    <category lang="en">News</category>
-    <category lang="en">Sports talk</category>
-    <icon src="http://dtil.tmsimg.com/assets/p492912_b_h10_ae.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="TSN.1.ca2" start="20260807070000 +0000" stop="20260807080000 +0000">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2009</date>
-    <category lang="en">News</category>
-    <category lang="en">Sports talk</category>
-    <icon src="http://dtil.tmsimg.com/assets/p492912_b_h10_ae.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="TSN.1.ca2" start="20260807080000 +0000" stop="20260807090000 +0000">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2009</date>
-    <category lang="en">News</category>
-    <category lang="en">Sports talk</category>
-    <icon src="http://dtil.tmsimg.com/assets/p492912_b_h10_ae.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="TSN.1.ca2" start="20260807090000 +0000" stop="20260807100000 +0000">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2009</date>
-    <category lang="en">News</category>
-    <category lang="en">Sports talk</category>
-    <icon src="http://dtil.tmsimg.com/assets/p492912_b_h10_ae.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="TSN.1.ca2" start="20260807100000 +0000" stop="20260807110000 +0000">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2009</date>
-    <category lang="en">News</category>
-    <category lang="en">Sports talk</category>
-    <icon src="http://dtil.tmsimg.com/assets/p492912_b_h10_ae.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="TSN.1.ca2" start="20260807110000 +0000" stop="20260807120000 +0000">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2009</date>
-    <category lang="en">News</category>
-    <category lang="en">Sports talk</category>
-    <icon src="http://dtil.tmsimg.com/assets/p492912_b_h10_ae.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="TSN.1.ca2" start="20260807120000 +0000" stop="20260807130000 +0000">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2009</date>
-    <category lang="en">News</category>
-    <category lang="en">Sports talk</category>
-    <icon src="http://dtil.tmsimg.com/assets/p492912_b_h10_ae.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="TSN.1.ca2" start="20260807130000 +0000" stop="20260807140000 +0000">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2009</date>
-    <category lang="en">News</category>
-    <category lang="en">Sports talk</category>
-    <icon src="http://dtil.tmsimg.com/assets/p492912_b_h10_ae.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="TSN.1.ca2" start="20260807140000 +0000" stop="20260807150000 +0000">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2009</date>
-    <category lang="en">News</category>
-    <category lang="en">Sports talk</category>
-    <icon src="http://dtil.tmsimg.com/assets/p492912_b_h10_ae.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="TSN.1.ca2" start="20260807150000 +0000" stop="20260807160000 +0000">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2009</date>
-    <category lang="en">News</category>
-    <category lang="en">Sports talk</category>
-    <icon src="http://dtil.tmsimg.com/assets/p492912_b_h10_ae.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="TSN.1.ca2" start="20260807160000 +0000" stop="20260807170000 +0000">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2009</date>
-    <category lang="en">News</category>
-    <category lang="en">Sports talk</category>
-    <icon src="http://dtil.tmsimg.com/assets/p492912_b_h10_ae.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="TSN.1.ca2" start="20260807170000 +0000" stop="20260807173000 +0000">
-    <title lang="en">SC</title>
-    <sub-title lang="en">Outrageous NASCAR Moments</sub-title>
-    <desc lang="en">The most outrageous moments in NASCAR history.</desc>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Anthology</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11413944_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E45</episode-num>
-    <previously-shown /></programme>
-  <programme channel="TSN.1.ca2" start="20260807173000 +0000" stop="20260807180000 +0000">
-    <title lang="en">BarDown: Shattuck-St. Mary's School Tour</title>
-    <desc lang="en">BarDown's Jesse Pollock takes a tour of prestigious hockey school Shattuck-St. Mary's, and speaks to NHL stars who are part of the school's alumni.</desc>
-    <date>2026</date>
-    <category lang="en">Special</category>
-    <category lang="en">Multi-sport event</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33240268_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="TSN.1.ca2" start="20260807180000 +0000" stop="20260807203000 +0000">
-    <title lang="en">Live: Hlinka Gretzky Cup</title>
-    <desc lang="en">First semifinal.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Hockey</category>
-    <icon src="http://dtil.tmsimg.com/assets/p17132835_b_h10_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="TSN.1.ca2" start="20260807203000 +0000" stop="20260807210000 +0000">
-    <title lang="en">SC</title>
-    <sub-title lang="en">July Plays of the Month</sub-title>
-    <desc lang="en">The best and worst from the world of sports.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Anthology</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11413944_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E21</episode-num>
-    <premiere lang="en" />
-  </programme>
-  <programme channel="TSN.1.ca2" start="20260807210000 +0000" stop="20260807213000 +0000">
-    <title lang="en">SC</title>
-    <sub-title lang="en">Coaches Gone Wild</sub-title>
-    <desc lang="en">2024 SC Top 10-SC: Coaches Gone Wild.</desc>
-    <date>2024</date>
-    <category lang="en">Series</category>
-    <category lang="en">Anthology</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11413944_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E3</episode-num>
-    <previously-shown /></programme>
-  <programme channel="TSN.1.ca2" start="20260807213000 +0000" stop="20260807220000 +0000">
-    <title lang="en">Live: Pardon the Interruption</title>
-    <desc lang="en">The debate is the story in this fast-paced, half-hour series hosted by former Washington Post sportswriters Tony Kornheiser and Michael Wilbon. The pair engage in high-energy discussions, conduct interviews and often argue over topics not even related to sports. Other sports reporters appear as guests and offer opinions on the top stories of the day.</desc>
-    <credits>
-      <actor>Tony Kornheiser</actor>
-      <actor>Michael Wilbon</actor>
-    </credits>
-    <date>2001</date>
-    <category lang="en">Sports talk</category>
-    <icon src="http://dtil.tmsimg.com/assets/p31727874_b_h8_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="TSN.1.ca2" start="20260807220000 +0000" stop="20260807233000 +0000">
-    <title lang="en">Live: SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2009</date>
-    <category lang="en">News</category>
-    <category lang="en">Sports talk</category>
-    <icon src="http://dtil.tmsimg.com/assets/p492912_b_h10_ae.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="TSN.1.ca2" start="20260807233000 +0000" stop="20260808000000 +0000">
-    <title lang="en">SC</title>
-    <sub-title lang="en">July Plays of the Month</sub-title>
-    <desc lang="en">The best and worst from the world of sports.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Anthology</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11413944_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E21</episode-num>
-    <previously-shown /></programme>
-  <programme channel="TSN.1.ca2" start="20260808000000 +0000" stop="20260808003000 +0000">
-    <title lang="en">SC</title>
-    <sub-title lang="en">Wacky CFL Moments</sub-title>
-    <desc lang="en">The best and worst from the world of sports.</desc>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Anthology</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11413944_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E11</episode-num>
-    <previously-shown /></programme>
-  <programme channel="TSN.1.ca2" start="20260808003000 +0000" stop="20260808010000 +0000">
-    <title lang="en">Live: CFL on TSN Pregame</title>
-    <desc lang="en">The CFL on TSN panel sets up the game ahead.</desc>
-    <date>2007</date>
-    <category lang="en">Football</category>
-    <icon src="http://dtil.tmsimg.com/assets/p216160_b_h8_ac.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="TSN.1.ca2" start="20260808010000 +0000" stop="20260808040000 +0000">
-    <title lang="en">Live: CFL Football</title>
-    <desc lang="en">The Saskatchewan Roughriders host the Ottawa Redblacks at Mosaic Stadium for a Week 10 CFL game. The home Roughriders count on starting quarterback Trevor Harris to lead the air game, while the Redblacks look to quarterback Jake Maier.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003CHFKE.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="TSN.1.ca2" start="20260808040000 +0000" stop="20260808050000 +0000">
-    <title lang="en">Live: SportsCentre</title>
-    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
-    <date>2009</date>
-    <category lang="en">News</category>
-    <category lang="en">Sports talk</category>
-    <icon src="http://dtil.tmsimg.com/assets/p492912_b_h10_ae.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
   <programme channel="TSN.1.ca2" start="20260808050000 +0000" stop="20260808060000 +0000">
     <title lang="en">Live: SportsCentre</title>
     <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
@@ -427,6 +217,9 @@
     </rating>
     <rating system="Canadian Parental Rating">
       <value>18+</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
     </rating>
   </programme>
   <programme channel="TSN.1.ca2" start="20260809040000 +0000" stop="20260809050000 +0000">
@@ -867,66 +660,143 @@
     <icon src="http://dtil.tmsimg.com/assets/p492912_b_h10_ae.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
-  <programme channel="TSN.2.ca2" start="20260807043000 +0000" stop="20260807073000 +0000">
-    <title lang="en">CFL Football</title>
-    <desc lang="en">The Argonauts host the Stampeders in a regular-season CFL game in Toronto. The Stampeders look to receivers Tevin Jones and Erik Brooks to coordinate the downfield road offense, while Toronto relies on wideout Damonte Coxie to drive the home lineup.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003CHH5Z.jpg?w=960&amp;h=540" />
+  <programme channel="TSN.1.ca2" start="20260811050000 +0000" stop="20260811060000 +0000">
+    <title lang="en">Live: SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2009</date>
+    <category lang="en">News</category>
+    <category lang="en">Sports talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p492912_b_h10_ae.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
-  <programme channel="TSN.2.ca2" start="20260807073000 +0000" stop="20260807093000 +0000">
+  <programme channel="TSN.1.ca2" start="20260811060000 +0000" stop="20260811070000 +0000">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2009</date>
+    <category lang="en">News</category>
+    <category lang="en">Sports talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p492912_b_h10_ae.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="TSN.1.ca2" start="20260811070000 +0000" stop="20260811080000 +0000">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2009</date>
+    <category lang="en">News</category>
+    <category lang="en">Sports talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p492912_b_h10_ae.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="TSN.1.ca2" start="20260811080000 +0000" stop="20260811090000 +0000">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2009</date>
+    <category lang="en">News</category>
+    <category lang="en">Sports talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p492912_b_h10_ae.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="TSN.1.ca2" start="20260811090000 +0000" stop="20260811100000 +0000">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2009</date>
+    <category lang="en">News</category>
+    <category lang="en">Sports talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p492912_b_h10_ae.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="TSN.1.ca2" start="20260811100000 +0000" stop="20260811110000 +0000">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2009</date>
+    <category lang="en">News</category>
+    <category lang="en">Sports talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p492912_b_h10_ae.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="TSN.1.ca2" start="20260811110000 +0000" stop="20260811120000 +0000">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2009</date>
+    <category lang="en">News</category>
+    <category lang="en">Sports talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p492912_b_h10_ae.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="TSN.1.ca2" start="20260811120000 +0000" stop="20260811130000 +0000">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2009</date>
+    <category lang="en">News</category>
+    <category lang="en">Sports talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p492912_b_h10_ae.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="TSN.1.ca2" start="20260811130000 +0000" stop="20260811140000 +0000">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2009</date>
+    <category lang="en">News</category>
+    <category lang="en">Sports talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p492912_b_h10_ae.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="TSN.1.ca2" start="20260811140000 +0000" stop="20260811150000 +0000">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2009</date>
+    <category lang="en">News</category>
+    <category lang="en">Sports talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p492912_b_h10_ae.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="TSN.1.ca2" start="20260811150000 +0000" stop="20260811160000 +0000">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2009</date>
+    <category lang="en">News</category>
+    <category lang="en">Sports talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p492912_b_h10_ae.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="TSN.1.ca2" start="20260811160000 +0000" stop="20260811170000 +0000">
+    <title lang="en">SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2009</date>
+    <category lang="en">News</category>
+    <category lang="en">Sports talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p492912_b_h10_ae.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="TSN.1.ca2" start="20260811170000 +0000" stop="20260811190000 +0000">
     <title lang="en">WNBA Basketball</title>
-    <desc lang="en">The Toronto Tempo visit the Portland Fire at Moda Center for their second regular-season game. Portland leads the series 1-0 against Toronto following a May 23 win. Forward Maria Conde leads the Tempo, while guard Carla Leite paces the Fire.</desc>
+    <desc lang="en">The Atlanta Dream host the Toronto Tempo in an Eastern Conference regular-season WNBA game. Atlanta holds a 3-0 season series lead following a 111-92 victory in July. Guard Julie Allemand leads Toronto, while guard Allisha Gray paces Atlanta.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG00399402.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG00399563.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="TSN.1.ca2" start="20260811190000 +0000" stop="20260811200000 +0000">
+    <title lang="en">Live: NBA Today</title>
+    <desc lang="en">In-depth, comprehensive daily coverage of all aspects of the NBA from expert analysts.</desc>
+    <credits>
+      <actor>Malika Andrews</actor>
+      <actor>Kendrick Perkins</actor>
+      <actor>Chiney Ogwumike</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22600822_b_h8_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
-  <programme channel="TSN.2.ca2" start="20260807093000 +0000" stop="20260807100000 +0000">
-    <title lang="en">SC</title>
-    <sub-title lang="en">July Plays of the Month</sub-title>
-    <desc lang="en">The best and worst from the world of sports.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Anthology</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11413944_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E21</episode-num>
-    <previously-shown /></programme>
-  <programme channel="TSN.2.ca2" start="20260807100000 +0000" stop="20260807130000 +0000">
-    <title lang="en">CFL Football</title>
-    <desc lang="en">The Argonauts host the Stampeders in a regular-season CFL game in Toronto. The Stampeders look to receivers Tevin Jones and Erik Brooks to coordinate the downfield road offense, while Toronto relies on wideout Damonte Coxie to drive the home lineup.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="TSN.1.ca2" start="20260811200000 +0000" stop="20260811210000 +0000">
+    <title lang="en">NFL Live</title>
+    <desc lang="en">Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter. The "NFL Live" crew entertains fans while offering all the latest news and analysis from across the NFL.</desc>
+    <credits>
+      <actor>Laura Rutledge</actor>
+      <actor>Marcus Spears</actor>
+      <actor>Dan Orlovsky</actor>
+    </credits>
+    <date>2003</date>
     <category lang="en">Football</category>
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003CHH5Z.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="TSN.2.ca2" start="20260807130000 +0000" stop="20260807150000 +0000">
-    <title lang="en">WNBA Basketball</title>
-    <desc lang="en">The Toronto Tempo visit the Portland Fire at Moda Center for their second regular-season game. Portland leads the series 1-0 against Toronto following a May 23 win. Forward Maria Conde leads the Tempo, while guard Carla Leite paces the Fire.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG00399402.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="TSN.2.ca2" start="20260807150000 +0000" stop="20260807153000 +0000">
-    <title lang="en">SC</title>
-    <sub-title lang="en">July Plays of the Month</sub-title>
-    <desc lang="en">The best and worst from the world of sports.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Anthology</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11413944_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E21</episode-num>
-    <previously-shown /></programme>
-  <programme channel="TSN.2.ca2" start="20260807153000 +0000" stop="20260807183000 +0000">
-    <title lang="en">CFL Football</title>
-    <desc lang="en">The Argonauts host the Stampeders in a regular-season CFL game in Toronto. The Stampeders look to receivers Tevin Jones and Erik Brooks to coordinate the downfield road offense, while Toronto relies on wideout Damonte Coxie to drive the home lineup.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003CHH5Z.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="TSN.2.ca2" start="20260807183000 +0000" stop="20260807190000 +0000">
+    <icon src="http://dtil.tmsimg.com/assets/p17830833_b_h10_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="TSN.1.ca2" start="20260811210000 +0000" stop="20260811213000 +0000">
     <title lang="en">STIHL Timbersports</title>
-    <sub-title lang="en">2025 World Championship: Men's Individual</sub-title>
+    <sub-title lang="en">2025 World Championship: Men's North American Trophy</sub-title>
     <desc lang="en">Showcasing the world's best lumberjacks competing across six events.</desc>
     <date>2026</date>
     <category lang="en">Series</category>
@@ -936,91 +806,77 @@
       <value>6</value>
     </rating>
   </programme>
-  <programme channel="TSN.2.ca2" start="20260807190000 +0000" stop="20260807220000 +0000">
-    <title lang="en">AFL Premiership Football</title>
-    <desc lang="en">From Brisbane Cricket Ground in Brisbane, Queensland, Australia.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Australian rules football</category>
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG00347FV4.jpg?w=960&amp;h=540" />
+  <programme channel="TSN.1.ca2" start="20260811213000 +0000" stop="20260811220000 +0000">
+    <title lang="en">College Football Live</title>
+    <desc lang="en">Want to know up-to-the-minute reports about your favorite college football team? ESPN has it covered with this weekday studio show, a roundtable format that emphasizes discussion and opinions on the sport's biggest stories and newsmakers. The half-hour program features a rotating roster of analysts that includes coaches, former players, and media personalities.</desc>
+    <credits>
+      <actor>Kelsey Riggs</actor>
+      <actor>Jen Lada</actor>
+      <actor>Desmond Howard</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Football</category>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p221266_b_h10_ah.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="TSN.1.ca2" start="20260811220000 +0000" stop="20260811233000 +0000">
+    <title lang="en">Live: SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2009</date>
+    <category lang="en">News</category>
+    <category lang="en">Sports talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p492912_b_h10_ae.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
-  <programme channel="TSN.2.ca2" start="20260807220000 +0000" stop="20260807223000 +0000">
-    <title lang="en">SC</title>
-    <sub-title lang="en">Top 50 Tennis Shots of All-Time</sub-title>
-    <desc lang="en">The best and worst from the world of sports.</desc>
-    <date>2024</date>
-    <category lang="en">Series</category>
-    <category lang="en">Anthology</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11413944_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E4</episode-num>
-    <previously-shown /></programme>
-  <programme channel="TSN.2.ca2" start="20260807223000 +0000" stop="20260807230000 +0000">
-    <title lang="en">SC</title>
-    <sub-title lang="en">Top 50 Curling Shots</sub-title>
-    <desc lang="en">The best and worst from the world of sports.</desc>
-    <date>2024</date>
-    <category lang="en">Series</category>
-    <category lang="en">Anthology</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11413944_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E11</episode-num>
-    <previously-shown /></programme>
-  <programme channel="TSN.2.ca2" start="20260807230000 +0000" stop="20260807233000 +0000">
-    <title lang="en">SC</title>
-    <sub-title lang="en">Top Comebacks of All-Time</sub-title>
-    <desc lang="en">The best and worst from the world of sports.</desc>
-    <date>2024</date>
-    <category lang="en">Series</category>
-    <category lang="en">Anthology</category>
-    <category lang="en">Documentary</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11413944_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E18</episode-num>
-    <previously-shown /></programme>
-  <programme channel="TSN.2.ca2" start="20260807233000 +0000" stop="20260808000000 +0000">
-    <title lang="en">SC</title>
-    <sub-title lang="en">Top Playoff Soundbites</sub-title>
-    <desc lang="en">The best and worst from the world of sports.</desc>
-    <date>2024</date>
-    <category lang="en">Series</category>
-    <category lang="en">Anthology</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11413944_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E19</episode-num>
-    <previously-shown /></programme>
-  <programme channel="TSN.2.ca2" start="20260808000000 +0000" stop="20260808020000 +0000">
-    <title lang="en">Live: Leagues Cup</title>
-    <desc lang="en">From TQL Stadium in Cincinnati.</desc>
+  <programme channel="TSN.1.ca2" start="20260811233000 +0000" stop="20260812013000 +0000">
+    <title lang="en">Live: WNBA Basketball</title>
+    <desc lang="en">The New York Liberty visit Gainbridge Fieldhouse to face the Indiana Fever in a WNBA matchup. The season series is tied after Indiana's 108-88 July win behind Kelsey Mitchell's 33 points. Breanna Stewart leads New York in scoring this season.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003C4Z8D.jpg?w=960&amp;h=540" />
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0039RNQ9.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
-  <programme channel="TSN.2.ca2" start="20260808020000 +0000" stop="20260808023000 +0000">
+  <programme channel="TSN.1.ca2" start="20260812013000 +0000" stop="20260812023000 +0000">
+    <title lang="en">Live: SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2009</date>
+    <category lang="en">News</category>
+    <category lang="en">Sports talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p492912_b_h10_ae.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="TSN.1.ca2" start="20260812023000 +0000" stop="20260812033000 +0000">
+    <title lang="en">Live: SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2009</date>
+    <category lang="en">News</category>
+    <category lang="en">Sports talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p492912_b_h10_ae.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="TSN.1.ca2" start="20260812033000 +0000" stop="20260812040000 +0000">
     <title lang="en">SC</title>
-    <sub-title lang="en">Top Moments of the FIFA World Cup</sub-title>
+    <sub-title lang="en">Top 40 Wild and Wacky Finishes</sub-title>
     <desc lang="en">The best and worst from the world of sports.</desc>
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Anthology</category>
     <icon src="http://dtil.tmsimg.com/assets/p11413944_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E20</episode-num>
+    <episode-num system="onscreen">E8</episode-num>
     <previously-shown /></programme>
-  <programme channel="TSN.2.ca2" start="20260808023000 +0000" stop="20260808043000 +0000">
-    <title lang="en">Live: Leagues Cup</title>
-    <desc lang="en">From BC Place Vancouver in Vancouver, BC, Canada.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003C4V5G.jpg?w=960&amp;h=540" />
+  <programme channel="TSN.1.ca2" start="20260812040000 +0000" stop="20260812050000 +0000">
+    <title lang="en">Live: SportsCentre</title>
+    <desc lang="en">TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2009</date>
+    <category lang="en">News</category>
+    <category lang="en">Sports talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p492912_b_h10_ae.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
-  <programme channel="TSN.2.ca2" start="20260808043000 +0000" stop="20260808050000 +0000">
-    <title lang="en">SC</title>
-    <sub-title lang="en">July Plays of the Month</sub-title>
-    <desc lang="en">The best and worst from the world of sports.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Anthology</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11413944_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E21</episode-num>
-    <previously-shown /></programme>
   <programme channel="TSN.2.ca2" start="20260808050000 +0000" stop="20260808073000 +0000">
     <title lang="en">Hlinka Gretzky Cup</title>
     <desc lang="en">Second semifinal.</desc>
@@ -1201,7 +1057,7 @@
   </programme>
   <programme channel="TSN.2.ca2" start="20260809150000 +0000" stop="20260809180000 +0000">
     <title lang="en">Hlinka Gretzky Cup</title>
-    <desc lang="en">From Rogers Place in Edmonton, Alberta.</desc>
+    <desc lang="en">Gold Medal Game.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Hockey</category>
     <icon src="http://dtil.tmsimg.com/assets/p17132835_b_h10_aa.jpg?w=960&amp;h=540" />
@@ -1510,6 +1366,9 @@
     <rating system="Canadian Parental Rating">
       <value>18+</value>
     </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
   </programme>
   <programme channel="TSN.2.ca2" start="20260811040000 +0000" stop="20260811060000 +0000">
     <title lang="en">WNBA Basketball</title>
@@ -1519,172 +1378,334 @@
     <icon src="http://dtil.tmsimg.com/assets/GNLZZGG00399563.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
-  <programme channel="Sportsnet.East.ca2" start="20260807050000 +0000" stop="20260807053000 +0000">
-    <title lang="en">Live: Sportsnet Central</title>
-    <desc lang="en">Canada's premier destination for sports and analysis.</desc>
-    <date>2014</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11080201_b_h8_ag.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="Sportsnet.East.ca2" start="20260807053000 +0000" stop="20260807060000 +0000">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Canada's premier destination for sports and analysis.</desc>
-    <date>2014</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11080201_b_h8_ag.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="Sportsnet.East.ca2" start="20260807060000 +0000" stop="20260807070000 +0000">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Canada's premier destination for sports and analysis.</desc>
-    <date>2014</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11080201_b_h8_ag.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="Sportsnet.East.ca2" start="20260807070000 +0000" stop="20260807080000 +0000">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Canada's premier destination for sports and analysis.</desc>
-    <date>2014</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11080201_b_h8_ag.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="Sportsnet.East.ca2" start="20260807080000 +0000" stop="20260807090000 +0000">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Canada's premier destination for sports and analysis.</desc>
-    <date>2014</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11080201_b_h8_ag.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="Sportsnet.East.ca2" start="20260807090000 +0000" stop="20260807100000 +0000">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Canada's premier destination for sports and analysis.</desc>
-    <date>2014</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11080201_b_h8_ag.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="Sportsnet.East.ca2" start="20260807100000 +0000" stop="20260807110000 +0000">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Canada's premier destination for sports and analysis.</desc>
-    <date>2014</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11080201_b_h8_ag.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="Sportsnet.East.ca2" start="20260807110000 +0000" stop="20260807120000 +0000">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Canada's premier destination for sports and analysis.</desc>
-    <date>2014</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11080201_b_h8_ag.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="Sportsnet.East.ca2" start="20260807120000 +0000" stop="20260807130000 +0000">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Canada's premier destination for sports and analysis.</desc>
-    <date>2014</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11080201_b_h8_ag.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="Sportsnet.East.ca2" start="20260807130000 +0000" stop="20260807140000 +0000">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Canada's premier destination for sports and analysis.</desc>
-    <date>2014</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11080201_b_h8_ag.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="Sportsnet.East.ca2" start="20260807140000 +0000" stop="20260807150000 +0000">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Canada's premier destination for sports and analysis.</desc>
-    <date>2014</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11080201_b_h8_ag.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="Sportsnet.East.ca2" start="20260807150000 +0000" stop="20260807160000 +0000">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Canada's premier destination for sports and analysis.</desc>
-    <date>2014</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11080201_b_h8_ag.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="Sportsnet.East.ca2" start="20260807160000 +0000" stop="20260807163000 +0000">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Canada's premier destination for sports and analysis.</desc>
-    <date>2014</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11080201_b_h8_ag.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="Sportsnet.East.ca2" start="20260807163000 +0000" stop="20260807213000 +0000">
-    <title lang="en">National Bank Open Live Coverage</title>
-    <desc lang="en">Coverage of the National Bank Open tennis tournament.</desc>
-    <date>2022</date>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p22719617_b_h8_ab.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="Sportsnet.East.ca2" start="20260807213000 +0000" stop="20260807220000 +0000">
-    <title lang="en">Plays of the Month - Countdown</title>
-    <desc lang="en">Highlighting the past month's best in daily sports moments.</desc>
-    <date>2020</date>
+  <programme channel="TSN.2.ca2" start="20260811060000 +0000" stop="20260811063000 +0000">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Top 50 NBA Circus Shots</sub-title>
+    <desc lang="en">The best and worst from the world of sports.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
     <category lang="en">Anthology</category>
-    <icon src="http://dtil.tmsimg.com/assets/p19004801_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p11413944_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E6</episode-num>
     <previously-shown /></programme>
-  <programme channel="Sportsnet.East.ca2" start="20260807220000 +0000" stop="20260807223000 +0000">
-    <title lang="en">Live: Blue Jays Central</title>
-    <desc lang="en">Toronto Blue Jays pregame show hosted by Jamie Campbell.</desc>
+  <programme channel="TSN.2.ca2" start="20260811063000 +0000" stop="20260811070000 +0000">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Top 50 NBA Buzzer Beaters</sub-title>
+    <desc lang="en">The best and worst from the world of sports.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Anthology</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11413944_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E8</episode-num>
+    <previously-shown /></programme>
+  <programme channel="TSN.2.ca2" start="20260811070000 +0000" stop="20260811073000 +0000">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Top 50 NBA Circus Shots</sub-title>
+    <desc lang="en">The best and worst from the world of sports.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Anthology</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11413944_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E6</episode-num>
+    <previously-shown /></programme>
+  <programme channel="TSN.2.ca2" start="20260811073000 +0000" stop="20260811080000 +0000">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Top 50 NBA Buzzer Beaters</sub-title>
+    <desc lang="en">The best and worst from the world of sports.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Anthology</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11413944_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E8</episode-num>
+    <previously-shown /></programme>
+  <programme channel="TSN.2.ca2" start="20260811080000 +0000" stop="20260811083000 +0000">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Top 50 NBA Circus Shots</sub-title>
+    <desc lang="en">The best and worst from the world of sports.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Anthology</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11413944_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E6</episode-num>
+    <previously-shown /></programme>
+  <programme channel="TSN.2.ca2" start="20260811083000 +0000" stop="20260811090000 +0000">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Top 50 NBA Buzzer Beaters</sub-title>
+    <desc lang="en">The best and worst from the world of sports.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Anthology</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11413944_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E8</episode-num>
+    <previously-shown /></programme>
+  <programme channel="TSN.2.ca2" start="20260811090000 +0000" stop="20260811093000 +0000">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Top 50 NBA Circus Shots</sub-title>
+    <desc lang="en">The best and worst from the world of sports.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Anthology</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11413944_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E6</episode-num>
+    <previously-shown /></programme>
+  <programme channel="TSN.2.ca2" start="20260811093000 +0000" stop="20260811100000 +0000">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Top 50 NBA Buzzer Beaters</sub-title>
+    <desc lang="en">The best and worst from the world of sports.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Anthology</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11413944_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E8</episode-num>
+    <previously-shown /></programme>
+  <programme channel="TSN.2.ca2" start="20260811100000 +0000" stop="20260811103000 +0000">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Top 50 NBA Circus Shots</sub-title>
+    <desc lang="en">The best and worst from the world of sports.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Anthology</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11413944_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E6</episode-num>
+    <previously-shown /></programme>
+  <programme channel="TSN.2.ca2" start="20260811103000 +0000" stop="20260811110000 +0000">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Top 50 NBA Buzzer Beaters</sub-title>
+    <desc lang="en">The best and worst from the world of sports.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Anthology</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11413944_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E8</episode-num>
+    <previously-shown /></programme>
+  <programme channel="TSN.2.ca2" start="20260811110000 +0000" stop="20260811113000 +0000">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Top 50 NBA Circus Shots</sub-title>
+    <desc lang="en">The best and worst from the world of sports.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Anthology</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11413944_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E6</episode-num>
+    <previously-shown /></programme>
+  <programme channel="TSN.2.ca2" start="20260811113000 +0000" stop="20260811120000 +0000">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Top 50 NBA Buzzer Beaters</sub-title>
+    <desc lang="en">The best and worst from the world of sports.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Anthology</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11413944_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E8</episode-num>
+    <previously-shown /></programme>
+  <programme channel="TSN.2.ca2" start="20260811120000 +0000" stop="20260811123000 +0000">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Top 50 NBA Circus Shots</sub-title>
+    <desc lang="en">The best and worst from the world of sports.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Anthology</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11413944_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E6</episode-num>
+    <previously-shown /></programme>
+  <programme channel="TSN.2.ca2" start="20260811123000 +0000" stop="20260811130000 +0000">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Top 50 NBA Buzzer Beaters</sub-title>
+    <desc lang="en">The best and worst from the world of sports.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Anthology</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11413944_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E8</episode-num>
+    <previously-shown /></programme>
+  <programme channel="TSN.2.ca2" start="20260811130000 +0000" stop="20260811133000 +0000">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Top 50 NBA Circus Shots</sub-title>
+    <desc lang="en">The best and worst from the world of sports.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Anthology</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11413944_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E6</episode-num>
+    <previously-shown /></programme>
+  <programme channel="TSN.2.ca2" start="20260811133000 +0000" stop="20260811140000 +0000">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Top 50 NBA Buzzer Beaters</sub-title>
+    <desc lang="en">The best and worst from the world of sports.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Anthology</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11413944_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E8</episode-num>
+    <previously-shown /></programme>
+  <programme channel="TSN.2.ca2" start="20260811140000 +0000" stop="20260811160000 +0000">
+    <title lang="en">WNBA Basketball</title>
+    <desc lang="en">The Atlanta Dream host the Toronto Tempo in an Eastern Conference regular-season WNBA game. Atlanta holds a 3-0 season series lead following a 111-92 victory in July. Guard Julie Allemand leads Toronto, while guard Allisha Gray paces Atlanta.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG00399563.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="TSN.2.ca2" start="20260811160000 +0000" stop="20260811163000 +0000">
+    <title lang="en">SC</title>
+    <sub-title lang="en">NFL Games of the Year</sub-title>
+    <desc lang="en">Top NFL football games from this season.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Anthology</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11413944_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E4</episode-num>
+    <previously-shown /></programme>
+  <programme channel="TSN.2.ca2" start="20260811163000 +0000" stop="20260811170000 +0000">
+    <title lang="en">SC</title>
+    <sub-title lang="en">NFL Plays of the Year</sub-title>
+    <desc lang="en">Top plays from the 2025-26 NFL season.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Anthology</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11413944_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E2</episode-num>
+    <previously-shown /></programme>
+  <programme channel="TSN.2.ca2" start="20260811170000 +0000" stop="20260811173000 +0000">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Top Super Bowl Moments</sub-title>
+    <desc lang="en">The best and worst from the world of sports.</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Anthology</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11413944_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E5</episode-num>
+    <previously-shown /></programme>
+  <programme channel="TSN.2.ca2" start="20260811173000 +0000" stop="20260811180000 +0000">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Top 10 Grey Cup Games</sub-title>
+    <desc lang="en">2025 SC Top 10 Grey Cup Games.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Anthology</category>
+    <category lang="en">Documentary</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11413944_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E13</episode-num>
+    <previously-shown /></programme>
+  <programme channel="TSN.2.ca2" start="20260811180000 +0000" stop="20260811183000 +0000">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Wacky CFL Moments</sub-title>
+    <desc lang="en">The best and worst from the world of sports.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Anthology</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11413944_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E11</episode-num>
+    <previously-shown /></programme>
+  <programme channel="TSN.2.ca2" start="20260811183000 +0000" stop="20260811200000 +0000">
+    <title lang="en">E60</title>
+    <sub-title lang="en">Southpaw -- The Life and Legacy of Jim Abbott</sub-title>
+    <desc lang="en">Born with one hand, Jim Abbott achieves unprecedented success in baseball and changes the world.</desc>
     <credits>
-      <actor>Jamie Campbell</actor>
-      <actor>Joe Siddall</actor>
+      <actor>Lisa Salters</actor>
+      <actor>Jeremy Schaap</actor>
     </credits>
-    <date>2012</date>
-    <category lang="en">Baseball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p9143103_b_h8_ab.jpg?w=960&amp;h=540" />
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Newsmagazine</category>
+    <icon src="http://dtil.tmsimg.com/assets/p19984458_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S15 E32</episode-num>
+    <previously-shown />  <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="TSN.2.ca2" start="20260811200000 +0000" stop="20260811203000 +0000">
+    <title lang="en">Motorcycle Experience</title>
+    <desc lang="en">Dave Hatch and Emily Roberts share their passion for the sport as they interview motorcycle enthusiasts, share hard won tips and tricks, review the latest bikes, and travel to some of the best riding locations across North America.</desc>
+    <date>2000</date>
+    <category lang="en">Motorcycle</category>
+    <icon src="http://dtil.tmsimg.com/assets/p809237_b_h8_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
-  <programme channel="Sportsnet.East.ca2" start="20260807223000 +0000" stop="20260808013000 +0000">
-    <title lang="en">Live: MLB Baseball</title>
-    <desc lang="en">The Phillies host the Blue Jays as they open their three-game series at Citizens Bank Park. Philadelphia lead the season series 2-1. Max Scherzer is the expected starter for the Blue Jays while Zack Wheeler is expected to start for the Phillies.</desc>
+  <programme channel="TSN.2.ca2" start="20260811203000 +0000" stop="20260811210000 +0000">
+    <title lang="en">Canadian Superbike Championship</title>
+    <desc lang="en">From Atlantic Motorsport Park in Mill Village, Nova Scotia.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0037RL3N.jpg?w=960&amp;h=540" />
+    <category lang="en">Motorcycle racing</category>
+    <icon src="http://dtil.tmsimg.com/assets/p27644807_b_h10_ab.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
-  <programme channel="Sportsnet.East.ca2" start="20260808013000 +0000" stop="20260808020000 +0000">
-    <title lang="en">Live: Sportsnet Central</title>
-    <desc lang="en">Canada's premier destination for sports and analysis.</desc>
-    <date>2014</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11080201_b_h8_ag.jpg?w=960&amp;h=540" />
+  <programme channel="TSN.2.ca2" start="20260811210000 +0000" stop="20260811220000 +0000">
+    <title lang="en">PGA Tour Highlight Show</title>
+    <sub-title lang="en">2026 Wyndham Championship</sub-title>
+    <desc lang="en">Featuring round recaps and highlights from tournament events.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Golf</category>
+    <icon src="http://dtil.tmsimg.com/assets/p17206864_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E24</episode-num>
     <premiere lang="en" />
   </programme>
-  <programme channel="Sportsnet.East.ca2" start="20260808020000 +0000" stop="20260808030000 +0000">
-    <title lang="en">National Bank Open Live Coverage</title>
-    <desc lang="en">Coverage of the National Bank Open tennis tournament.</desc>
-    <date>2022</date>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p22719617_b_h8_ab.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="Sportsnet.East.ca2" start="20260808030000 +0000" stop="20260808040000 +0000">
-    <title lang="en">Live: Sportsnet Central</title>
-    <desc lang="en">Canada's premier destination for sports and analysis.</desc>
-    <date>2014</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11080201_b_h8_ag.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="Sportsnet.East.ca2" start="20260808040000 +0000" stop="20260808043000 +0000">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">From Aug. 7 2026.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Classic Sport Event</category>
-    <category lang="en">Baseball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E147</episode-num>
-    <previously-shown /></programme>
-  <programme channel="Sportsnet.East.ca2" start="20260808043000 +0000" stop="20260808050000 +0000">
-    <title lang="en">Plays of the Month - Countdown</title>
-    <desc lang="en">Highlighting the past month's best in daily sports moments.</desc>
-    <date>2020</date>
+  <programme channel="TSN.2.ca2" start="20260811220000 +0000" stop="20260811223000 +0000">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Top PWHL Moments</sub-title>
+    <desc lang="en">The best and worst from the world of sports.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
     <category lang="en">Anthology</category>
-    <icon src="http://dtil.tmsimg.com/assets/p19004801_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p11413944_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E15</episode-num>
+    <previously-shown /></programme>
+  <programme channel="TSN.2.ca2" start="20260811223000 +0000" stop="20260811230000 +0000">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Top 10 Women's World Hockey Championship Games</sub-title>
+    <desc lang="en">2025 SC Top 10-SC: Top 10 Women's World Hockey Championship Games.</desc>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Anthology</category>
+    <category lang="en">Documentary</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11413944_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E6</episode-num>
+    <previously-shown /></programme>
+  <programme channel="TSN.2.ca2" start="20260811230000 +0000" stop="20260811233000 +0000">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Top 50 Men's World Hockey Championship Goals</sub-title>
+    <desc lang="en">The best and worst from the world of sports.</desc>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Anthology</category>
+    <category lang="en">Documentary</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11413944_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E20</episode-num>
+    <previously-shown /></programme>
+  <programme channel="TSN.2.ca2" start="20260811233000 +0000" stop="20260812000000 +0000">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Top 50 CHL Goals</sub-title>
+    <desc lang="en">The best and worst from the world of sports.</desc>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Anthology</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11413944_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E32</episode-num>
+    <previously-shown /></programme>
+  <programme channel="TSN.2.ca2" start="20260812000000 +0000" stop="20260812030000 +0000">
+    <title lang="en">CFL on TSN: Game of the Week</title>
+    <desc lang="en">A top Canadian Football League matchup from TSN.</desc>
+    <date>2024</date>
+    <category lang="en">Football</category>
+    <icon src="http://dtil.tmsimg.com/assets/p27570671_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="TSN.2.ca2" start="20260812030000 +0000" stop="20260812040000 +0000">
+    <title lang="en">Golf Talk Canada</title>
+    <desc lang="en">TSN's Mark Zecchino and Bob Weeks discuss the latest news in the world of golf.</desc>
+    <date>2015</date>
+    <category lang="en">Golf</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11433618_b_h10_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="TSN.2.ca2" start="20260812040000 +0000" stop="20260812050000 +0000">
+    <title lang="en">SC</title>
+    <sub-title lang="en">Top Overdrive Moments</sub-title>
+    <desc lang="en">The best and worst from the world of sports.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Anthology</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11413944_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E11</episode-num>
     <previously-shown /></programme>
   <programme channel="Sportsnet.East.ca2" start="20260808050000 +0000" stop="20260808053000 +0000">
     <title lang="en">Live: Sportsnet Central</title>
@@ -1988,12 +2009,28 @@
     <category lang="en">Baseball</category>
     <icon src="http://dtil.tmsimg.com/assets/p22019951_b_h8_aa.jpg?w=960&amp;h=540" />
     <previously-shown /></programme>
-  <programme channel="Sportsnet.East.ca2" start="20260809220000 +0000" stop="20260810030000 +0000">
-    <title lang="en">Live: 2026 ATP National Bank Open Tennis</title>
-    <desc lang="en">From IGA Stadium in Montreal.</desc>
+  <programme channel="Sportsnet.East.ca2" start="20260809220000 +0000" stop="20260809223000 +0000">
+    <title lang="en">Plays of the Month - Countdown</title>
+    <desc lang="en">Highlighting the past month's best in daily sports moments.</desc>
+    <date>2020</date>
+    <category lang="en">Anthology</category>
+    <icon src="http://dtil.tmsimg.com/assets/p19004801_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.East.ca2" start="20260809223000 +0000" stop="20260809230000 +0000">
+    <title lang="en">Blue Jays in 30</title>
+    <desc lang="en">From Aug. 9, 2026.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Classic Sport Event</category>
+    <category lang="en">Baseball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E149</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.East.ca2" start="20260809230000 +0000" stop="20260810030000 +0000">
+    <title lang="en">Live: 2026 WTA National Bank Open Tennis</title>
+    <desc lang="en">From Sobeys Stadium in Toronto.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33188311_b_h8_af.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p33189120_b_h8_ab.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="Sportsnet.East.ca2" start="20260810030000 +0000" stop="20260810040000 +0000">
@@ -2225,251 +2262,7 @@
     <category lang="en">Anthology</category>
     <icon src="http://dtil.tmsimg.com/assets/p19004507_b_h8_aa.jpg?w=960&amp;h=540" />
     <previously-shown /></programme>
-  <programme channel="Sportsnet.One.ca2" start="20260807050000 +0000" stop="20260807053000 +0000">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">From Aug. 6, 2026.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Classic Sport Event</category>
-    <category lang="en">Baseball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E195</episode-num>
-    <previously-shown /></programme>
-  <programme channel="Sportsnet.One.ca2" start="20260807053000 +0000" stop="20260807060000 +0000">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">From Aug. 6, 2026.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Classic Sport Event</category>
-    <category lang="en">Baseball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E195</episode-num>
-    <previously-shown /></programme>
-  <programme channel="Sportsnet.One.ca2" start="20260807060000 +0000" stop="20260807063000 +0000">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">From Aug. 6, 2026.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Classic Sport Event</category>
-    <category lang="en">Baseball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E195</episode-num>
-    <previously-shown /></programme>
-  <programme channel="Sportsnet.One.ca2" start="20260807063000 +0000" stop="20260807070000 +0000">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">From Aug. 6, 2026.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Classic Sport Event</category>
-    <category lang="en">Baseball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E195</episode-num>
-    <previously-shown /></programme>
-  <programme channel="Sportsnet.One.ca2" start="20260807070000 +0000" stop="20260807073000 +0000">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">From Aug. 6, 2026.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Classic Sport Event</category>
-    <category lang="en">Baseball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E195</episode-num>
-    <previously-shown /></programme>
-  <programme channel="Sportsnet.One.ca2" start="20260807073000 +0000" stop="20260807080000 +0000">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">From Aug. 6, 2026.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Classic Sport Event</category>
-    <category lang="en">Baseball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E195</episode-num>
-    <previously-shown /></programme>
-  <programme channel="Sportsnet.One.ca2" start="20260807080000 +0000" stop="20260807083000 +0000">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">From Aug. 6, 2026.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Classic Sport Event</category>
-    <category lang="en">Baseball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E195</episode-num>
-    <previously-shown /></programme>
-  <programme channel="Sportsnet.One.ca2" start="20260807083000 +0000" stop="20260807090000 +0000">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">From Aug. 6, 2026.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Classic Sport Event</category>
-    <category lang="en">Baseball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E195</episode-num>
-    <previously-shown /></programme>
-  <programme channel="Sportsnet.One.ca2" start="20260807090000 +0000" stop="20260807093000 +0000">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">From Aug. 6, 2026.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Classic Sport Event</category>
-    <category lang="en">Baseball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E195</episode-num>
-    <previously-shown /></programme>
-  <programme channel="Sportsnet.One.ca2" start="20260807093000 +0000" stop="20260807100000 +0000">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">From Aug. 6, 2026.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Classic Sport Event</category>
-    <category lang="en">Baseball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E195</episode-num>
-    <previously-shown /></programme>
-  <programme channel="Sportsnet.One.ca2" start="20260807100000 +0000" stop="20260807103000 +0000">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">From Aug. 6, 2026.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Classic Sport Event</category>
-    <category lang="en">Baseball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E195</episode-num>
-    <previously-shown /></programme>
-  <programme channel="Sportsnet.One.ca2" start="20260807103000 +0000" stop="20260807110000 +0000">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">From Aug. 6, 2026.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Classic Sport Event</category>
-    <category lang="en">Baseball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E195</episode-num>
-    <previously-shown /></programme>
-  <programme channel="Sportsnet.One.ca2" start="20260807110000 +0000" stop="20260807113000 +0000">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">From Aug. 6, 2026.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Classic Sport Event</category>
-    <category lang="en">Baseball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E195</episode-num>
-    <previously-shown /></programme>
-  <programme channel="Sportsnet.One.ca2" start="20260807113000 +0000" stop="20260807120000 +0000">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">From Aug. 6, 2026.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Classic Sport Event</category>
-    <category lang="en">Baseball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E195</episode-num>
-    <previously-shown /></programme>
-  <programme channel="Sportsnet.One.ca2" start="20260807120000 +0000" stop="20260807123000 +0000">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">From Aug. 6, 2026.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Classic Sport Event</category>
-    <category lang="en">Baseball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E195</episode-num>
-    <previously-shown /></programme>
-  <programme channel="Sportsnet.One.ca2" start="20260807123000 +0000" stop="20260807130000 +0000">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">From Aug. 6, 2026.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Classic Sport Event</category>
-    <category lang="en">Baseball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E195</episode-num>
-    <previously-shown /></programme>
-  <programme channel="Sportsnet.One.ca2" start="20260807130000 +0000" stop="20260807133000 +0000">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">From Aug. 6, 2026.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Classic Sport Event</category>
-    <category lang="en">Baseball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E195</episode-num>
-    <previously-shown /></programme>
-  <programme channel="Sportsnet.One.ca2" start="20260807133000 +0000" stop="20260807140000 +0000">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">From Aug. 6, 2026.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Classic Sport Event</category>
-    <category lang="en">Baseball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E195</episode-num>
-    <previously-shown /></programme>
-  <programme channel="Sportsnet.One.ca2" start="20260807140000 +0000" stop="20260807143000 +0000">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">From Aug. 6, 2026.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Classic Sport Event</category>
-    <category lang="en">Baseball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E195</episode-num>
-    <previously-shown /></programme>
-  <programme channel="Sportsnet.One.ca2" start="20260807143000 +0000" stop="20260807150000 +0000">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">From Aug. 6, 2026.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Classic Sport Event</category>
-    <category lang="en">Baseball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E195</episode-num>
-    <previously-shown /></programme>
-  <programme channel="Sportsnet.One.ca2" start="20260807150000 +0000" stop="20260807153000 +0000">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">From Aug. 6, 2026.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Classic Sport Event</category>
-    <category lang="en">Baseball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E195</episode-num>
-    <previously-shown /></programme>
-  <programme channel="Sportsnet.One.ca2" start="20260807153000 +0000" stop="20260807160000 +0000">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">From Aug. 6, 2026.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Classic Sport Event</category>
-    <category lang="en">Baseball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E195</episode-num>
-    <previously-shown /></programme>
-  <programme channel="Sportsnet.One.ca2" start="20260807160000 +0000" stop="20260807163000 +0000">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">From Aug. 6, 2026.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Classic Sport Event</category>
-    <category lang="en">Baseball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E195</episode-num>
-    <previously-shown /></programme>
-  <programme channel="Sportsnet.One.ca2" start="20260807163000 +0000" stop="20260807213000 +0000">
-    <title lang="en">Live: 2026 WTA National Bank Open Tennis</title>
-    <desc lang="en">From Sobeys Stadium in Toronto.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33189120_b_h8_ab.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="Sportsnet.One.ca2" start="20260807213000 +0000" stop="20260807220000 +0000">
-    <title lang="en">Plays of the Month - Countdown</title>
-    <desc lang="en">Highlighting the past month's best in daily sports moments.</desc>
-    <date>2020</date>
-    <category lang="en">Anthology</category>
-    <icon src="http://dtil.tmsimg.com/assets/p19004801_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="Sportsnet.One.ca2" start="20260807220000 +0000" stop="20260807223000 +0000">
-    <title lang="en">MLB Plays of the Week</title>
-    <desc lang="en">A look at the top plays and moments from the past week in baseball.</desc>
-    <date>2022</date>
-    <category lang="en">Special</category>
-    <category lang="en">Baseball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p22019951_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="Sportsnet.One.ca2" start="20260807223000 +0000" stop="20260807230000 +0000">
-    <title lang="en">Misplays of the Month</title>
-    <desc lang="en">A look at the month's top bloopers.</desc>
-    <date>2014</date>
-    <icon src="http://dtil.tmsimg.com/assets/p10800225_b_h8_ac.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="Sportsnet.One.ca2" start="20260807230000 +0000" stop="20260808030000 +0000">
-    <title lang="en">Live: 2026 ATP National Bank Open Tennis</title>
-    <desc lang="en">From IGA Stadium in Montreal.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33188311_b_h8_af.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="Sportsnet.One.ca2" start="20260808030000 +0000" stop="20260808040000 +0000">
+  <programme channel="Sportsnet.East.ca2" start="20260811050000 +0000" stop="20260811053000 +0000">
     <title lang="en">Live: Sportsnet Central</title>
     <desc lang="en">Canada's premier destination for sports and analysis.</desc>
     <date>2014</date>
@@ -2477,23 +2270,172 @@
     <icon src="http://dtil.tmsimg.com/assets/p11080201_b_h8_ag.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
-  <programme channel="Sportsnet.One.ca2" start="20260808040000 +0000" stop="20260808043000 +0000">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">From Aug. 7 2026.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Classic Sport Event</category>
-    <category lang="en">Baseball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E147</episode-num>
+  <programme channel="Sportsnet.East.ca2" start="20260811053000 +0000" stop="20260811060000 +0000">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Canada's premier destination for sports and analysis.</desc>
+    <date>2014</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11080201_b_h8_ag.jpg?w=960&amp;h=540" />
     <previously-shown /></programme>
-  <programme channel="Sportsnet.One.ca2" start="20260808043000 +0000" stop="20260808050000 +0000">
+  <programme channel="Sportsnet.East.ca2" start="20260811060000 +0000" stop="20260811070000 +0000">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Canada's premier destination for sports and analysis.</desc>
+    <date>2014</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11080201_b_h8_ag.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.East.ca2" start="20260811070000 +0000" stop="20260811080000 +0000">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Canada's premier destination for sports and analysis.</desc>
+    <date>2014</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11080201_b_h8_ag.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.East.ca2" start="20260811080000 +0000" stop="20260811090000 +0000">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Canada's premier destination for sports and analysis.</desc>
+    <date>2014</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11080201_b_h8_ag.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.East.ca2" start="20260811090000 +0000" stop="20260811100000 +0000">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Canada's premier destination for sports and analysis.</desc>
+    <date>2014</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11080201_b_h8_ag.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.East.ca2" start="20260811100000 +0000" stop="20260811110000 +0000">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Canada's premier destination for sports and analysis.</desc>
+    <date>2014</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11080201_b_h8_ag.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.East.ca2" start="20260811110000 +0000" stop="20260811120000 +0000">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Canada's premier destination for sports and analysis.</desc>
+    <date>2014</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11080201_b_h8_ag.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.East.ca2" start="20260811120000 +0000" stop="20260811130000 +0000">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Canada's premier destination for sports and analysis.</desc>
+    <date>2014</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11080201_b_h8_ag.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.East.ca2" start="20260811130000 +0000" stop="20260811140000 +0000">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Canada's premier destination for sports and analysis.</desc>
+    <date>2014</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11080201_b_h8_ag.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.East.ca2" start="20260811140000 +0000" stop="20260811150000 +0000">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Canada's premier destination for sports and analysis.</desc>
+    <date>2014</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11080201_b_h8_ag.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.East.ca2" start="20260811150000 +0000" stop="20260811160000 +0000">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Canada's premier destination for sports and analysis.</desc>
+    <date>2014</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11080201_b_h8_ag.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.East.ca2" start="20260811160000 +0000" stop="20260811170000 +0000">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Canada's premier destination for sports and analysis.</desc>
+    <date>2014</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11080201_b_h8_ag.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.East.ca2" start="20260811170000 +0000" stop="20260811180000 +0000">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Canada's premier destination for sports and analysis.</desc>
+    <date>2014</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11080201_b_h8_ag.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.East.ca2" start="20260811180000 +0000" stop="20260811210000 +0000">
+    <title lang="en">MLB Baseball</title>
+    <desc lang="en">The Boston Red Sox and the Toronto Blue Jays meet at Rogers Centre for Game 2 of a four-game series. Left-handed pitcher Ranger Suarez is the projected starter for the Red Sox against right-handed pitcher Jameson Taillon for the Blue Jays.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0037SG8G.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.East.ca2" start="20260811210000 +0000" stop="20260811220000 +0000">
+    <title lang="en">Live: Blair &amp; Barker</title>
+    <desc lang="en">Jeff Blair and Kevin Barker talk all things Blue Jays, and Major League Baseball.</desc>
+    <date>2022</date>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Baseball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p21942008_b_h8_ab.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Sportsnet.East.ca2" start="20260811220000 +0000" stop="20260811223000 +0000">
+    <title lang="en">Live: The FAN Pregame</title>
+    <desc lang="en">Ailish Forfar and Justin Cuthbert discuss the stories that matter most to sports fans.</desc>
+    <date>2023</date>
+    <category lang="en">Sports talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p25729164_b_h10_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Sportsnet.East.ca2" start="20260811223000 +0000" stop="20260811230000 +0000">
+    <title lang="en">Live: Blue Jays Central</title>
+    <desc lang="en">Toronto Blue Jays pregame show hosted by Jamie Campbell.</desc>
+    <credits>
+      <actor>Jamie Campbell</actor>
+      <actor>Joe Siddall</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="en">Baseball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9143103_b_h8_ab.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Sportsnet.East.ca2" start="20260811230000 +0000" stop="20260812020000 +0000">
+    <title lang="en">Live: MLB Baseball</title>
+    <desc lang="en">The Boston Red Sox and the Toronto Blue Jays meet at Rogers Centre for Game 2 of a four-game series. Left-handed pitcher Ranger Suarez is the projected starter for the Red Sox against right-handed pitcher Jameson Taillon for the Blue Jays.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0037SG8G.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Sportsnet.East.ca2" start="20260812020000 +0000" stop="20260812030000 +0000">
+    <title lang="en">Live: Sportsnet Central</title>
+    <desc lang="en">Canada's premier destination for sports and analysis.</desc>
+    <date>2014</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11080201_b_h8_ag.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Sportsnet.East.ca2" start="20260812030000 +0000" stop="20260812040000 +0000">
+    <title lang="en">Live: Sportsnet Central</title>
+    <desc lang="en">Canada's premier destination for sports and analysis.</desc>
+    <date>2014</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11080201_b_h8_ag.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Sportsnet.East.ca2" start="20260812040000 +0000" stop="20260812043000 +0000">
     <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">From Aug. 7 2026.</desc>
+    <desc lang="en">From Aug. 11, 2026.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Classic Sport Event</category>
     <category lang="en">Baseball</category>
     <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E147</episode-num>
+    <episode-num system="onscreen">E151</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.East.ca2" start="20260812043000 +0000" stop="20260812050000 +0000">
+    <title lang="en">Gotta See It</title>
+    <desc lang="en">Must-see moments from the world of sports.</desc>
+    <date>2015</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11684760_b_h8_ab.jpg?w=960&amp;h=540" />
     <previously-shown /></programme>
   <programme channel="Sportsnet.One.ca2" start="20260808050000 +0000" stop="20260808053000 +0000">
     <title lang="en">Blue Jays in 30</title>
@@ -2940,27 +2882,12 @@
     <category lang="en">Anthology</category>
     <icon src="http://dtil.tmsimg.com/assets/p19004507_b_h8_aa.jpg?w=960&amp;h=540" />
     <previously-shown /></programme>
-  <programme channel="Sportsnet.One.ca2" start="20260809220000 +0000" stop="20260809223000 +0000">
-    <title lang="en">Misplays of the Month</title>
-    <desc lang="en">A look at the month's top bloopers.</desc>
-    <date>2014</date>
-    <icon src="http://dtil.tmsimg.com/assets/p10800225_b_h8_ac.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="Sportsnet.One.ca2" start="20260809223000 +0000" stop="20260809230000 +0000">
-    <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">From Aug. 9, 2026.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Classic Sport Event</category>
-    <category lang="en">Baseball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E149</episode-num>
-    <previously-shown /></programme>
-  <programme channel="Sportsnet.One.ca2" start="20260809230000 +0000" stop="20260810030000 +0000">
-    <title lang="en">Live: 2026 WTA National Bank Open Tennis</title>
-    <desc lang="en">From Sobeys Stadium in Toronto.</desc>
+  <programme channel="Sportsnet.One.ca2" start="20260809220000 +0000" stop="20260810030000 +0000">
+    <title lang="en">Live: 2026 ATP National Bank Open Tennis</title>
+    <desc lang="en">From IGA Stadium in Montreal.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33189120_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p33188311_b_h8_af.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="Sportsnet.One.ca2" start="20260810030000 +0000" stop="20260810040000 +0000">
@@ -3329,142 +3256,301 @@
     <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">E150</episode-num>
     <previously-shown /></programme>
-  <programme channel="Sportsnet.360.HD.ca2" start="20260807050000 +0000" stop="20260807053000 +0000">
+  <programme channel="Sportsnet.One.ca2" start="20260811050000 +0000" stop="20260811053000 +0000">
     <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">From Aug. 6, 2026.</desc>
+    <desc lang="en">From Aug. 10, 2026.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Classic Sport Event</category>
     <category lang="en">Baseball</category>
     <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E195</episode-num>
+    <episode-num system="onscreen">E150</episode-num>
     <previously-shown /></programme>
-  <programme channel="Sportsnet.360.HD.ca2" start="20260807053000 +0000" stop="20260807060000 +0000">
+  <programme channel="Sportsnet.One.ca2" start="20260811053000 +0000" stop="20260811060000 +0000">
     <title lang="en">Blue Jays in 30</title>
-    <desc lang="en">From Aug. 6, 2026.</desc>
+    <desc lang="en">From Aug. 10, 2026.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Classic Sport Event</category>
     <category lang="en">Baseball</category>
     <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E195</episode-num>
+    <episode-num system="onscreen">E150</episode-num>
     <previously-shown /></programme>
-  <programme channel="Sportsnet.360.HD.ca2" start="20260807060000 +0000" stop="20260807080000 +0000">
-    <title lang="en">TNA iMPACT!</title>
-    <desc lang="en">Matt Hardy battles Ryan Nemeth ahead of Jeff Hardy's World Title match; Xia Brookside defends the Knockouts World Title against Wendy Choo, and The Righteous speak after The Righteous Deletion!</desc>
-    <credits>
-      <actor>Nic Nemeth</actor>
-      <actor>Frankie Kazarian</actor>
-      <actor>Mike Santana</actor>
-      <director>George Veras</director>
-      <director>Tommy Dreamer</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Pro wrestling</category>
-    <icon src="http://dtil.tmsimg.com/assets/p31955637_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E32</episode-num>
-    <previously-shown />  <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="Sportsnet.360.HD.ca2" start="20260807080000 +0000" stop="20260807083000 +0000">
-    <title lang="en">MLB Plays of the Week</title>
-    <desc lang="en">A look at the top plays and moments from the past week in baseball.</desc>
-    <date>2022</date>
-    <category lang="en">Special</category>
+  <programme channel="Sportsnet.One.ca2" start="20260811060000 +0000" stop="20260811063000 +0000">
+    <title lang="en">Blue Jays in 30</title>
+    <desc lang="en">From Aug. 10, 2026.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Classic Sport Event</category>
     <category lang="en">Baseball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p22019951_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E150</episode-num>
     <previously-shown /></programme>
-  <programme channel="Sportsnet.360.HD.ca2" start="20260807083000 +0000" stop="20260807090000 +0000">
-    <title lang="en">Misplays of the Month</title>
-    <desc lang="en">A look at the month's top bloopers.</desc>
-    <date>2014</date>
-    <icon src="http://dtil.tmsimg.com/assets/p10800225_b_h8_ac.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="Sportsnet.360.HD.ca2" start="20260807090000 +0000" stop="20260807093000 +0000">
-    <title lang="en">MLB Plays of the Week</title>
-    <desc lang="en">A look at the top plays and moments from the past week in baseball.</desc>
-    <date>2022</date>
-    <category lang="en">Special</category>
+  <programme channel="Sportsnet.One.ca2" start="20260811063000 +0000" stop="20260811070000 +0000">
+    <title lang="en">Blue Jays in 30</title>
+    <desc lang="en">From Aug. 10, 2026.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Classic Sport Event</category>
     <category lang="en">Baseball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p22019951_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E150</episode-num>
     <previously-shown /></programme>
-  <programme channel="Sportsnet.360.HD.ca2" start="20260807093000 +0000" stop="20260807100000 +0000">
-    <title lang="en">Misplays of the Month</title>
-    <desc lang="en">A look at the month's top bloopers.</desc>
-    <date>2014</date>
-    <icon src="http://dtil.tmsimg.com/assets/p10800225_b_h8_ac.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="Sportsnet.360.HD.ca2" start="20260807100000 +0000" stop="20260807110000 +0000">
-    <title lang="en">Sportsnet Central</title>
-    <desc lang="en">Canada's premier destination for sports and analysis.</desc>
-    <date>2014</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11080201_b_h8_ag.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="Sportsnet.360.HD.ca2" start="20260807110000 +0000" stop="20260807140000 +0000">
-    <title lang="en">Live: By the Books</title>
-    <desc lang="en">Host Dave Ross, with the latest betting information to get you set for your day.</desc>
-    <date>2025</date>
-    <category lang="en">Bus./financial</category>
-    <icon src="http://dtil.tmsimg.com/assets/p29176427_b_h8_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="Sportsnet.360.HD.ca2" start="20260807140000 +0000" stop="20260807160000 +0000">
-    <title lang="en">Live: Jays Talk Plus</title>
-    <desc lang="en">Hosted by Blake Murphy.</desc>
-    <date>2025</date>
+  <programme channel="Sportsnet.One.ca2" start="20260811070000 +0000" stop="20260811073000 +0000">
+    <title lang="en">Blue Jays in 30</title>
+    <desc lang="en">From Aug. 10, 2026.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Classic Sport Event</category>
     <category lang="en">Baseball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p29745735_b_h8_ab.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="Sportsnet.360.HD.ca2" start="20260807160000 +0000" stop="20260807163000 +0000">
-    <title lang="en">Plays of the Month - Countdown</title>
-    <desc lang="en">Highlighting the past month's best in daily sports moments.</desc>
-    <date>2020</date>
-    <category lang="en">Anthology</category>
-    <icon src="http://dtil.tmsimg.com/assets/p19004801_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E150</episode-num>
     <previously-shown /></programme>
-  <programme channel="Sportsnet.360.HD.ca2" start="20260807163000 +0000" stop="20260807213000 +0000">
+  <programme channel="Sportsnet.One.ca2" start="20260811073000 +0000" stop="20260811080000 +0000">
+    <title lang="en">Blue Jays in 30</title>
+    <desc lang="en">From Aug. 10, 2026.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Classic Sport Event</category>
+    <category lang="en">Baseball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E150</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.One.ca2" start="20260811080000 +0000" stop="20260811083000 +0000">
+    <title lang="en">Blue Jays in 30</title>
+    <desc lang="en">From Aug. 10, 2026.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Classic Sport Event</category>
+    <category lang="en">Baseball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E150</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.One.ca2" start="20260811083000 +0000" stop="20260811090000 +0000">
+    <title lang="en">Blue Jays in 30</title>
+    <desc lang="en">From Aug. 10, 2026.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Classic Sport Event</category>
+    <category lang="en">Baseball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E150</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.One.ca2" start="20260811090000 +0000" stop="20260811093000 +0000">
+    <title lang="en">Blue Jays in 30</title>
+    <desc lang="en">From Aug. 10, 2026.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Classic Sport Event</category>
+    <category lang="en">Baseball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E150</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.One.ca2" start="20260811093000 +0000" stop="20260811100000 +0000">
+    <title lang="en">Blue Jays in 30</title>
+    <desc lang="en">From Aug. 10, 2026.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Classic Sport Event</category>
+    <category lang="en">Baseball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E150</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.One.ca2" start="20260811100000 +0000" stop="20260811103000 +0000">
+    <title lang="en">Blue Jays in 30</title>
+    <desc lang="en">From Aug. 10, 2026.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Classic Sport Event</category>
+    <category lang="en">Baseball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E150</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.One.ca2" start="20260811103000 +0000" stop="20260811110000 +0000">
+    <title lang="en">Blue Jays in 30</title>
+    <desc lang="en">From Aug. 10, 2026.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Classic Sport Event</category>
+    <category lang="en">Baseball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E150</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.One.ca2" start="20260811110000 +0000" stop="20260811113000 +0000">
+    <title lang="en">Blue Jays in 30</title>
+    <desc lang="en">From Aug. 10, 2026.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Classic Sport Event</category>
+    <category lang="en">Baseball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E150</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.One.ca2" start="20260811113000 +0000" stop="20260811120000 +0000">
+    <title lang="en">Blue Jays in 30</title>
+    <desc lang="en">From Aug. 10, 2026.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Classic Sport Event</category>
+    <category lang="en">Baseball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E150</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.One.ca2" start="20260811120000 +0000" stop="20260811123000 +0000">
+    <title lang="en">Blue Jays in 30</title>
+    <desc lang="en">From Aug. 10, 2026.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Classic Sport Event</category>
+    <category lang="en">Baseball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E150</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.One.ca2" start="20260811123000 +0000" stop="20260811130000 +0000">
+    <title lang="en">Blue Jays in 30</title>
+    <desc lang="en">From Aug. 10, 2026.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Classic Sport Event</category>
+    <category lang="en">Baseball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E150</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.One.ca2" start="20260811130000 +0000" stop="20260811133000 +0000">
+    <title lang="en">Blue Jays in 30</title>
+    <desc lang="en">From Aug. 10, 2026.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Classic Sport Event</category>
+    <category lang="en">Baseball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E150</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.One.ca2" start="20260811133000 +0000" stop="20260811140000 +0000">
+    <title lang="en">Blue Jays in 30</title>
+    <desc lang="en">From Aug. 10, 2026.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Classic Sport Event</category>
+    <category lang="en">Baseball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E150</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.One.ca2" start="20260811140000 +0000" stop="20260811143000 +0000">
+    <title lang="en">Blue Jays in 30</title>
+    <desc lang="en">From Aug. 10, 2026.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Classic Sport Event</category>
+    <category lang="en">Baseball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E150</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.One.ca2" start="20260811143000 +0000" stop="20260811150000 +0000">
+    <title lang="en">Blue Jays in 30</title>
+    <desc lang="en">From Aug. 10, 2026.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Classic Sport Event</category>
+    <category lang="en">Baseball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E150</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.One.ca2" start="20260811150000 +0000" stop="20260811153000 +0000">
+    <title lang="en">Blue Jays in 30</title>
+    <desc lang="en">From Aug. 10, 2026.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Classic Sport Event</category>
+    <category lang="en">Baseball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E150</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.One.ca2" start="20260811153000 +0000" stop="20260811160000 +0000">
+    <title lang="en">Blue Jays in 30</title>
+    <desc lang="en">From Aug. 10, 2026.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Classic Sport Event</category>
+    <category lang="en">Baseball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E150</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.One.ca2" start="20260811160000 +0000" stop="20260811163000 +0000">
+    <title lang="en">Blue Jays in 30</title>
+    <desc lang="en">From Aug. 10, 2026.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Classic Sport Event</category>
+    <category lang="en">Baseball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E150</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.One.ca2" start="20260811163000 +0000" stop="20260811170000 +0000">
+    <title lang="en">Blue Jays in 30</title>
+    <desc lang="en">From Aug. 10, 2026.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Classic Sport Event</category>
+    <category lang="en">Baseball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E150</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.One.ca2" start="20260811170000 +0000" stop="20260811173000 +0000">
+    <title lang="en">Blue Jays in 30</title>
+    <desc lang="en">From Aug. 10, 2026.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Classic Sport Event</category>
+    <category lang="en">Baseball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E150</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.One.ca2" start="20260811173000 +0000" stop="20260811180000 +0000">
+    <title lang="en">Blue Jays in 30</title>
+    <desc lang="en">From Aug. 10, 2026.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Classic Sport Event</category>
+    <category lang="en">Baseball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E150</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.One.ca2" start="20260811180000 +0000" stop="20260811183000 +0000">
+    <title lang="en">Blue Jays in 30</title>
+    <desc lang="en">From Aug. 10, 2026.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Classic Sport Event</category>
+    <category lang="en">Baseball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E150</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.One.ca2" start="20260811183000 +0000" stop="20260811190000 +0000">
+    <title lang="en">Blue Jays in 30</title>
+    <desc lang="en">From Aug. 10, 2026.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Classic Sport Event</category>
+    <category lang="en">Baseball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E150</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.One.ca2" start="20260811190000 +0000" stop="20260811193000 +0000">
+    <title lang="en">Blue Jays in 30</title>
+    <desc lang="en">From Aug. 10, 2026.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Classic Sport Event</category>
+    <category lang="en">Baseball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E150</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.One.ca2" start="20260811193000 +0000" stop="20260811200000 +0000">
+    <title lang="en">Blue Jays in 30</title>
+    <desc lang="en">From Aug. 10, 2026.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Classic Sport Event</category>
+    <category lang="en">Baseball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E150</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.One.ca2" start="20260811200000 +0000" stop="20260811210000 +0000">
+    <title lang="en">World Poker Tour</title>
+    <desc lang="en">Professional poker action from a series of international tournaments.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Poker</category>
+    <category lang="en">Card games</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11340018_b_h10_ae.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.One.ca2" start="20260811210000 +0000" stop="20260811220000 +0000">
+    <title lang="en">World Poker Tour</title>
+    <desc lang="en">Professional poker action from a series of international tournaments.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Poker</category>
+    <category lang="en">Card games</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11340018_b_h10_ae.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.One.ca2" start="20260811220000 +0000" stop="20260812030000 +0000">
     <title lang="en">Live: 2026 ATP National Bank Open Tennis</title>
-    <desc lang="en">Men's day session.</desc>
+    <desc lang="en">From IGA Stadium in Montreal.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Tennis</category>
     <icon src="http://dtil.tmsimg.com/assets/p33188311_b_h8_af.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
-  <programme channel="Sportsnet.360.HD.ca2" start="20260807213000 +0000" stop="20260807220000 +0000">
-    <title lang="en">Plays of the Month - Countdown</title>
-    <desc lang="en">Highlighting the past month's best in daily sports moments.</desc>
-    <date>2020</date>
-    <category lang="en">Anthology</category>
-    <icon src="http://dtil.tmsimg.com/assets/p19004801_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown /></programme>
-  <programme channel="Sportsnet.360.HD.ca2" start="20260807220000 +0000" stop="20260807230000 +0000">
-    <title lang="en">Live: The FAN Pregame</title>
-    <desc lang="en">Ailish Forfar and Justin Cuthbert discuss the stories that matter most to sports fans.</desc>
-    <date>2023</date>
-    <category lang="en">Sports talk</category>
-    <icon src="http://dtil.tmsimg.com/assets/p25729164_b_h10_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="Sportsnet.360.HD.ca2" start="20260807230000 +0000" stop="20260808030000 +0000">
-    <title lang="en">Live: 2026 WTA National Bank Open Tennis</title>
-    <desc lang="en">Women's night session.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33189120_b_h8_ab.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="Sportsnet.360.HD.ca2" start="20260808030000 +0000" stop="20260808040000 +0000">
+  <programme channel="Sportsnet.One.ca2" start="20260812030000 +0000" stop="20260812040000 +0000">
     <title lang="en">Live: Sportsnet Central</title>
     <desc lang="en">Canada's premier destination for sports and analysis.</desc>
     <date>2014</date>
@@ -3472,18 +3558,23 @@
     <icon src="http://dtil.tmsimg.com/assets/p11080201_b_h8_ag.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
-  <programme channel="Sportsnet.360.HD.ca2" start="20260808040000 +0000" stop="20260808043000 +0000">
-    <title lang="en">Misplays of the Month</title>
-    <desc lang="en">A look at the month's top bloopers.</desc>
-    <date>2014</date>
-    <icon src="http://dtil.tmsimg.com/assets/p10800225_b_h8_ac.jpg?w=960&amp;h=540" />
+  <programme channel="Sportsnet.One.ca2" start="20260812040000 +0000" stop="20260812043000 +0000">
+    <title lang="en">Blue Jays in 30</title>
+    <desc lang="en">From Aug. 11, 2026.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Classic Sport Event</category>
+    <category lang="en">Baseball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E151</episode-num>
     <previously-shown /></programme>
-  <programme channel="Sportsnet.360.HD.ca2" start="20260808043000 +0000" stop="20260808050000 +0000">
-    <title lang="en">Plays of the Month - Highlights</title>
-    <desc lang="en">Highlighting the past month's best in daily sports moments.</desc>
-    <date>2020</date>
-    <category lang="en">Anthology</category>
-    <icon src="http://dtil.tmsimg.com/assets/p19004507_b_h8_aa.jpg?w=960&amp;h=540" />
+  <programme channel="Sportsnet.One.ca2" start="20260812043000 +0000" stop="20260812050000 +0000">
+    <title lang="en">Blue Jays in 30</title>
+    <desc lang="en">From Aug. 11, 2026.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Classic Sport Event</category>
+    <category lang="en">Baseball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E151</episode-num>
     <previously-shown /></programme>
   <programme channel="Sportsnet.360.HD.ca2" start="20260808050000 +0000" stop="20260808053000 +0000">
     <title lang="en">Misplays of the Month</title>
@@ -4176,6 +4267,197 @@
     <date>2015</date>
     <category lang="en">Community</category>
     <icon src="http://dtil.tmsimg.com/assets/p11684760_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.360.HD.ca2" start="20260811050000 +0000" stop="20260811053000 +0000">
+    <title lang="en">Plays of the Month - Highlights</title>
+    <desc lang="en">Highlighting the past month's best in daily sports moments.</desc>
+    <date>2020</date>
+    <category lang="en">Anthology</category>
+    <icon src="http://dtil.tmsimg.com/assets/p19004507_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.360.HD.ca2" start="20260811053000 +0000" stop="20260811060000 +0000">
+    <title lang="en">Gotta See It</title>
+    <desc lang="en">Must-see moments from the world of sports.</desc>
+    <date>2015</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11684760_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.360.HD.ca2" start="20260811060000 +0000" stop="20260811063000 +0000">
+    <title lang="en">Plays of the Month - Highlights</title>
+    <desc lang="en">Highlighting the past month's best in daily sports moments.</desc>
+    <date>2020</date>
+    <category lang="en">Anthology</category>
+    <icon src="http://dtil.tmsimg.com/assets/p19004507_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.360.HD.ca2" start="20260811063000 +0000" stop="20260811070000 +0000">
+    <title lang="en">Gotta See It</title>
+    <desc lang="en">Must-see moments from the world of sports.</desc>
+    <date>2015</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11684760_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.360.HD.ca2" start="20260811070000 +0000" stop="20260811073000 +0000">
+    <title lang="en">Plays of the Month - Highlights</title>
+    <desc lang="en">Highlighting the past month's best in daily sports moments.</desc>
+    <date>2020</date>
+    <category lang="en">Anthology</category>
+    <icon src="http://dtil.tmsimg.com/assets/p19004507_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.360.HD.ca2" start="20260811073000 +0000" stop="20260811080000 +0000">
+    <title lang="en">Gotta See It</title>
+    <desc lang="en">Must-see moments from the world of sports.</desc>
+    <date>2015</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11684760_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.360.HD.ca2" start="20260811080000 +0000" stop="20260811083000 +0000">
+    <title lang="en">Plays of the Month - Highlights</title>
+    <desc lang="en">Highlighting the past month's best in daily sports moments.</desc>
+    <date>2020</date>
+    <category lang="en">Anthology</category>
+    <icon src="http://dtil.tmsimg.com/assets/p19004507_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.360.HD.ca2" start="20260811083000 +0000" stop="20260811090000 +0000">
+    <title lang="en">Gotta See It</title>
+    <desc lang="en">Must-see moments from the world of sports.</desc>
+    <date>2015</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11684760_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.360.HD.ca2" start="20260811090000 +0000" stop="20260811093000 +0000">
+    <title lang="en">Plays of the Month - Highlights</title>
+    <desc lang="en">Highlighting the past month's best in daily sports moments.</desc>
+    <date>2020</date>
+    <category lang="en">Anthology</category>
+    <icon src="http://dtil.tmsimg.com/assets/p19004507_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.360.HD.ca2" start="20260811093000 +0000" stop="20260811100000 +0000">
+    <title lang="en">Gotta See It</title>
+    <desc lang="en">Must-see moments from the world of sports.</desc>
+    <date>2015</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11684760_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.360.HD.ca2" start="20260811100000 +0000" stop="20260811110000 +0000">
+    <title lang="en">Sportsnet Central</title>
+    <desc lang="en">Canada's premier destination for sports and analysis.</desc>
+    <date>2014</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11080201_b_h8_ag.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.360.HD.ca2" start="20260811110000 +0000" stop="20260811140000 +0000">
+    <title lang="en">Live: By the Books</title>
+    <desc lang="en">Host Dave Ross, with the latest betting information to get you set for your day.</desc>
+    <date>2025</date>
+    <category lang="en">Bus./financial</category>
+    <icon src="http://dtil.tmsimg.com/assets/p29176427_b_h8_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Sportsnet.360.HD.ca2" start="20260811140000 +0000" stop="20260811160000 +0000">
+    <title lang="en">Live: Jays Talk Plus</title>
+    <desc lang="en">Hosted by Blake Murphy.</desc>
+    <date>2025</date>
+    <category lang="en">Baseball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p29745735_b_h8_ab.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Sportsnet.360.HD.ca2" start="20260811160000 +0000" stop="20260811163000 +0000">
+    <title lang="en">Gotta See It</title>
+    <desc lang="en">Must-see moments from the world of sports.</desc>
+    <date>2015</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11684760_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.360.HD.ca2" start="20260811163000 +0000" stop="20260811170000 +0000">
+    <title lang="en">Misplays of the Month</title>
+    <desc lang="en">A look at the month's top bloopers.</desc>
+    <date>2014</date>
+    <icon src="http://dtil.tmsimg.com/assets/p10800225_b_h8_ac.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.360.HD.ca2" start="20260811170000 +0000" stop="20260811173000 +0000">
+    <title lang="en">Gotta See It</title>
+    <desc lang="en">Must-see moments from the world of sports.</desc>
+    <date>2015</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11684760_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.360.HD.ca2" start="20260811173000 +0000" stop="20260811180000 +0000">
+    <title lang="en">Misplays of the Month</title>
+    <desc lang="en">A look at the month's top bloopers.</desc>
+    <date>2014</date>
+    <icon src="http://dtil.tmsimg.com/assets/p10800225_b_h8_ac.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.360.HD.ca2" start="20260811180000 +0000" stop="20260811183000 +0000">
+    <title lang="en">Gotta See It</title>
+    <desc lang="en">Must-see moments from the world of sports.</desc>
+    <date>2015</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11684760_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.360.HD.ca2" start="20260811183000 +0000" stop="20260811190000 +0000">
+    <title lang="en">Misplays of the Month</title>
+    <desc lang="en">A look at the month's top bloopers.</desc>
+    <date>2014</date>
+    <icon src="http://dtil.tmsimg.com/assets/p10800225_b_h8_ac.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.360.HD.ca2" start="20260811190000 +0000" stop="20260811193000 +0000">
+    <title lang="en">Gotta See It</title>
+    <desc lang="en">Must-see moments from the world of sports.</desc>
+    <date>2015</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11684760_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.360.HD.ca2" start="20260811193000 +0000" stop="20260811200000 +0000">
+    <title lang="en">Misplays of the Month</title>
+    <desc lang="en">A look at the month's top bloopers.</desc>
+    <date>2014</date>
+    <icon src="http://dtil.tmsimg.com/assets/p10800225_b_h8_ac.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.360.HD.ca2" start="20260811200000 +0000" stop="20260811220000 +0000">
+    <title lang="en">Live: Blair &amp; Barker</title>
+    <desc lang="en">Jeff Blair and Kevin Barker talk all things Blue Jays, and Major League Baseball.</desc>
+    <date>2022</date>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Baseball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p21942008_b_h8_ab.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Sportsnet.360.HD.ca2" start="20260811220000 +0000" stop="20260811230000 +0000">
+    <title lang="en">Live: The FAN Pregame</title>
+    <desc lang="en">Ailish Forfar and Justin Cuthbert discuss the stories that matter most to sports fans.</desc>
+    <date>2023</date>
+    <category lang="en">Sports talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p25729164_b_h10_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Sportsnet.360.HD.ca2" start="20260811230000 +0000" stop="20260812030000 +0000">
+    <title lang="en">Live: 2026 WTA National Bank Open Tennis</title>
+    <desc lang="en">Women's quarterfinals.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33189120_b_h8_ab.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Sportsnet.360.HD.ca2" start="20260812030000 +0000" stop="20260812040000 +0000">
+    <title lang="en">Live: Sportsnet Central</title>
+    <desc lang="en">Canada's premier destination for sports and analysis.</desc>
+    <date>2014</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11080201_b_h8_ag.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Sportsnet.360.HD.ca2" start="20260812040000 +0000" stop="20260812043000 +0000">
+    <title lang="en">Gotta See It</title>
+    <desc lang="en">Must-see moments from the world of sports.</desc>
+    <date>2015</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11684760_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown /></programme>
+  <programme channel="Sportsnet.360.HD.ca2" start="20260812043000 +0000" stop="20260812050000 +0000">
+    <title lang="en">Misplays of the Month</title>
+    <desc lang="en">A look at the month's top bloopers.</desc>
+    <date>2014</date>
+    <icon src="http://dtil.tmsimg.com/assets/p10800225_b_h8_ac.jpg?w=960&amp;h=540" />
     <previously-shown /></programme>
   <channel id="Basketball.Dummy.us">
         <display-name lang="en">Basketball</display-name>
@@ -8838,93 +9120,6 @@
     <icon src="https://images.open-epg.com/x1590.png" />
     <display-name lang="fr">beIN SPORTS 1</display-name>
   </channel>
-  <programme channel="beIN.SPORTS.1.fr" start="20260807040000 +0000" stop="20260807050000 +0000">
-    <title lang="fr">XXI, le sport des solutions</title>
-    <desc lang="fr">A la découverte des initiatives qui mettent en avant le sport et mettent l'accent sur les nouvelles générations de sportifs et de sportives à travers le monde.</desc>
-    <category lang="fr">Documentaire</category>
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/9/3/15531390.jpg" />
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/5/0/15423051.jpg" />
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/5/0/15423053.jpg" />
-  </programme>
-  <programme channel="beIN.SPORTS.1.fr" start="20260807050000 +0000" stop="20260807054500 +0000">
-    <title lang="fr">Au-delà des sommets</title>
-    <desc lang="fr">Pendant un an, focus sur l'équipe de France de para ski alpin dans sa préparation intense pour les Jeux paralympiques de Milan‑Cortina.</desc>
-    <category lang="fr">Documentaire</category>
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/9/7/15531798.jpg" />
-  </programme>
-  <programme channel="beIN.SPORTS.1.fr" start="20260807054500 +0000" stop="20260807060000 +0000">
-    <title lang="fr">Ça se passe sur beIN SPORTS</title>
-    <category lang="fr">Magazine sportif</category>
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/6/1/15179166.jpg" />
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/6/1/15179163.jpg" />
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/6/1/15179161.jpg" />
-  </programme>
-  <programme channel="beIN.SPORTS.1.fr" start="20260807060000 +0000" stop="20260807080000 +0000">
-    <title lang="fr">Rugby à XIII : NRL</title>
-    <desc lang="fr">La NRL, National Rugby League, est le championnat national australien et néo-zélandais de rugby à XIII, dans une compétition très populaire en Océanie.</desc>
-    <category lang="fr">Rugby à XIII</category>
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/1/4/15543419.jpg" />
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/1/4/15543418.jpg" />
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/2/4/15543420.jpg" />
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/8/1/15179185.jpg" />
-  </programme>
-  <programme channel="beIN.SPORTS.1.fr" start="20260807080000 +0000" stop="20260807100000 +0000">
-    <title lang="fr">Rugby à XIII : NRL</title>
-    <desc lang="fr">La NRL, National Rugby League, est le championnat national australien et néo-zélandais de rugby à XIII, dans une compétition très populaire en Océanie.</desc>
-    <category lang="fr">Rugby à XIII</category>
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/5/4/15548459.jpg" />
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/5/4/15548458.jpg" />
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/6/4/15548460.jpg" />
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/8/1/15179185.jpg" />
-  </programme>
-  <programme channel="beIN.SPORTS.1.fr" start="20260807100000 +0000" stop="20260807104500 +0000">
-    <title lang="fr">Double étoilé</title>
-    <desc lang="fr">Coup de projecteur sur le monde du rugby professionnel.</desc>
-    <category lang="fr">Documentaire sportif</category>
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/7/2/15180278.jpg" />
-  </programme>
-  <programme channel="beIN.SPORTS.1.fr" start="20260807104500 +0000" stop="20260807131500 +0000">
-    <title lang="fr">Football américain : Super Bowl</title>
-    <desc lang="fr">Le Super Bowl LX est un remake de celui disputé en 2015 entre les Seahawks et les Patriots. Les "Pats" vont essayer de reconquérir le titre qu'ils n'ont plus gagné depuis 2019.</desc>
-    <category lang="fr">Football américain</category>
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/0/2/15534205.jpg" />
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/0/2/15534201.jpg" />
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/0/2/15534209.jpg" />
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/1/2/15534213.jpg" />
-  </programme>
-  <programme channel="beIN.SPORTS.1.fr" start="20260807131500 +0000" stop="20260807151500 +0000">
-    <title lang="fr">Hockey sur glace : NHL</title>
-    <desc lang="fr">Retransmission d'un match de NHL, la prestigieuse ligue nord-américaine de hockey sur glace.</desc>
-    <category lang="fr">Hockey sur glace</category>
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/0/3/15179302.jpg" />
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/9/2/15179299.jpg" />
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/0/3/15179304.jpg" />
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/0/3/15179305.jpg" />
-  </programme>
-  <programme channel="beIN.SPORTS.1.fr" start="20260807151500 +0000" stop="20260807190000 +0000">
-    <title lang="fr">Tennis : Tournoi WTA du Canada</title>
-    <desc lang="fr">Suivez des matchs des tournois WTA 1000 de Montréal et de Toronto, parmi les tournois les plus prestigieux du WTA Tour de tennis.</desc>
-    <category lang="fr">Tennis</category>
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/0/1/15525104.jpg" />
-  </programme>
-  <programme channel="beIN.SPORTS.1.fr" start="20260807190000 +0000" stop="20260807220000 +0000">
-    <title lang="fr">Tennis : Tournoi WTA du Canada</title>
-    <desc lang="fr">Après sa victoire à Wimbledon, la Tchèque Linda Noskova se présente à Toronto avec le statut de favori pour le titre. Si ses concurrentes ne l'entendent pas ainsi, Noskova espère que ses derniers bons résultats vont l'aider à repartir avec un trophée.</desc>
-    <category lang="fr">Tennis</category>
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/0/1/15525104.jpg" />
-  </programme>
-  <programme channel="beIN.SPORTS.1.fr" start="20260807220000 +0000" stop="20260807230000 +0000">
-    <title lang="fr">Tennis : Tournoi WTA du Canada</title>
-    <desc lang="fr">Suivez des matchs des tournois WTA 1000 de Montréal et de Toronto, parmi les tournois les plus prestigieux du WTA Tour de tennis.</desc>
-    <category lang="fr">Tennis</category>
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/0/1/15525104.jpg" />
-  </programme>
-  <programme channel="beIN.SPORTS.1.fr" start="20260807230000 +0000" stop="20260808040000 +0000">
-    <title lang="fr">Tennis : Tournoi WTA du Canada</title>
-    <desc lang="fr">Suivez des matchs des tournois WTA 1000 de Montréal et de Toronto, parmi les tournois les plus prestigieux du WTA Tour de tennis.</desc>
-    <category lang="fr">Tennis</category>
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/0/1/15525104.jpg" />
-  </programme>
   <programme channel="beIN.SPORTS.1.fr" start="20260808040000 +0000" stop="20260808044500 +0000">
     <title lang="fr">Volley-ball : le film des finales LNV</title>
     <category lang="fr">Documentaire sportif</category>
@@ -9040,26 +9235,16 @@
     <category lang="fr">Magazine sportif</category>
     <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/3/3/15651338.jpg" />
   </programme>
-  <programme channel="beIN.SPORTS.1.fr" start="20260808211500 +0000" stop="20260808220000 +0000">
-    <title lang="fr">Double étoilé</title>
-    <desc lang="fr">Coup de projecteur sur le monde du rugby professionnel.</desc>
-    <category lang="fr">Documentaire sportif</category>
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/7/2/15180278.jpg" />
+  <programme channel="beIN.SPORTS.1.fr" start="20260808211500 +0000" stop="20260808231500 +0000">
+    <title lang="fr">Football : Match amical</title>
+    <desc lang="fr">Retransmission d'un match amical des équipes de club de football.</desc>
+    <category lang="fr">Football</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/7/4/15553472.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/6/4/15553469.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/7/4/15553478.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/7/3/15369378.jpg" />
   </programme>
-  <programme channel="beIN.SPORTS.1.fr" start="20260808220000 +0000" stop="20260808223000 +0000">
-    <title lang="fr">Sport 50</title>
-    <desc lang="fr">Nicolas et Julia, deux athlètes engagés, ont parcouru près de 1000 kilomètres entre Paris et Chamonix, à raison de 50 kilomètres par jour pendant 20 jours. Leur objectif : aller à la rencontre de clubs sportifs, d'associations, d'élus locaux et d'experts afin de comprendre concrètement comment le changement climatique impacte la pratique du sport et comment les acteurs du secteur s'adaptent au quotidien.</desc>
-    <category lang="fr">Documentaire sportif</category>
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/9/2/15179297.jpg" />
-  </programme>
-  <programme channel="beIN.SPORTS.1.fr" start="20260808223000 +0000" stop="20260808230000 +0000">
-    <title lang="fr">Ça se passe sur beIN SPORTS</title>
-    <category lang="fr">Magazine sportif</category>
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/6/1/15179166.jpg" />
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/6/1/15179163.jpg" />
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/6/1/15179161.jpg" />
-  </programme>
-  <programme channel="beIN.SPORTS.1.fr" start="20260808230000 +0000" stop="20260809040000 +0000">
+  <programme channel="beIN.SPORTS.1.fr" start="20260808231500 +0000" stop="20260809040000 +0000">
     <title lang="fr">Tennis : Tournoi WTA du Canada</title>
     <desc lang="fr">Suivez des matchs des tournois WTA 1000 de Montréal et de Toronto, parmi les tournois les plus prestigieux du WTA Tour de tennis.</desc>
     <category lang="fr">Tennis</category>
@@ -9090,7 +9275,7 @@
     <title lang="fr">Double étoilé</title>
     <desc lang="fr">Coup de projecteur sur le monde du rugby professionnel.</desc>
     <category lang="fr">Documentaire sportif</category>
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/7/2/15180278.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/0/5/15180504.jpg" />
   </programme>
   <programme channel="beIN.SPORTS.1.fr" start="20260809060000 +0000" stop="20260809080000 +0000">
     <title lang="fr">Rugby à XIII : NRL</title>
@@ -9134,23 +9319,11 @@
     <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/8/4/15553481.jpg" />
     <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/4/2/15179248.jpg" />
   </programme>
-  <programme channel="beIN.SPORTS.1.fr" start="20260809143000 +0000" stop="20260809153000 +0000">
-    <title lang="fr">beIN Zap</title>
-    <category lang="fr">Magazine sportif</category>
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/6/1/15179162.jpg" />
-  </programme>
-  <programme channel="beIN.SPORTS.1.fr" start="20260809153000 +0000" stop="20260809154500 +0000">
-    <title lang="fr">Ça se passe sur beIN SPORTS</title>
-    <category lang="fr">Magazine sportif</category>
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/6/1/15179166.jpg" />
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/6/1/15179163.jpg" />
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/6/1/15179161.jpg" />
-  </programme>
-  <programme channel="beIN.SPORTS.1.fr" start="20260809154500 +0000" stop="20260809163000 +0000">
-    <title lang="fr">Le Graal d'Amélie</title>
-    <desc lang="fr">Focus sur la victoire marquante d'Amélie Mauresmo à Wimbledon 2006. A travers archives et témoignages, le programme met en lumière son parcours et sa détermination.</desc>
-    <category lang="fr">Documentaire sportif</category>
-    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/0/3/15179300.jpg" />
+  <programme channel="beIN.SPORTS.1.fr" start="20260809143000 +0000" stop="20260809163000 +0000">
+    <title lang="fr">Football : Coupe d'Afrique des Nations féminine</title>
+    <desc lang="fr">Retransmission d'un match de la Coupe d'Afrique des nations de football féminine.</desc>
+    <category lang="fr">Football</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/5/4/15569452.jpg" />
   </programme>
   <programme channel="beIN.SPORTS.1.fr" start="20260809163000 +0000" stop="20260809183000 +0000">
     <title lang="fr">Tennis : Tournoi WTA du Canada</title>
@@ -9244,258 +9417,99 @@
     <category lang="fr">Tennis</category>
     <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/0/1/15525104.jpg" />
   </programme>
+  <programme channel="beIN.SPORTS.1.fr" start="20260811050000 +0000" stop="20260811051500 +0000">
+    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/6/1/15179166.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/6/1/15179163.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/6/1/15179161.jpg" />
+  </programme>
+  <programme channel="beIN.SPORTS.1.fr" start="20260811051500 +0000" stop="20260811053000 +0000">
+    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/6/1/15179166.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/6/1/15179163.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/6/1/15179161.jpg" />
+  </programme>
+  <programme channel="beIN.SPORTS.1.fr" start="20260811053000 +0000" stop="20260811060000 +0000">
+    <title lang="fr">Raid des Alizées</title>
+    <desc lang="fr">Au-delà de la compétition 100% féminine et solidaire, ce raid est une occasion exceptionnelle de découvrir la beauté de la Martinique sous un autre angle.</desc>
+    <category lang="fr">Documentaire</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/9/6/15178694.jpg" />
+  </programme>
+  <programme channel="beIN.SPORTS.1.fr" start="20260811060000 +0000" stop="20260811080000 +0000">
+    <title lang="fr">Football</title>
+    <desc lang="fr">Suivez un match d'une compétition de football, un sport appelé soccer en Amérique du Nord.</desc>
+    <category lang="fr">Football</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/4/6/15203646.jpg" />
+  </programme>
+  <programme channel="beIN.SPORTS.1.fr" start="20260811080000 +0000" stop="20260811100000 +0000">
+    <title lang="fr">Football</title>
+    <desc lang="fr">Suivez un match d'une compétition de football, un sport appelé soccer en Amérique du Nord.</desc>
+    <category lang="fr">Football</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/4/6/15203646.jpg" />
+  </programme>
+  <programme channel="beIN.SPORTS.1.fr" start="20260811100000 +0000" stop="20260811120000 +0000">
+    <title lang="fr">Football</title>
+    <desc lang="fr">Suivez un match d'une compétition de football, un sport appelé soccer en Amérique du Nord.</desc>
+    <category lang="fr">Football</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/4/6/15203646.jpg" />
+  </programme>
+  <programme channel="beIN.SPORTS.1.fr" start="20260811120000 +0000" stop="20260811140000 +0000">
+    <title lang="fr">Football</title>
+    <desc lang="fr">Suivez un match d'une compétition de football, un sport appelé soccer en Amérique du Nord.</desc>
+    <category lang="fr">Football</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/4/6/15203646.jpg" />
+  </programme>
+  <programme channel="beIN.SPORTS.1.fr" start="20260811140000 +0000" stop="20260811160000 +0000">
+    <title lang="fr">Football</title>
+    <desc lang="fr">Suivez un match d'une compétition de football, un sport appelé soccer en Amérique du Nord.</desc>
+    <category lang="fr">Football</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/4/6/15203646.jpg" />
+  </programme>
+  <programme channel="beIN.SPORTS.1.fr" start="20260811160000 +0000" stop="20260811180000 +0000">
+    <title lang="fr">Football</title>
+    <desc lang="fr">Suivez un match d'une compétition de football, un sport appelé soccer en Amérique du Nord.</desc>
+    <category lang="fr">Football</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/4/6/15203646.jpg" />
+  </programme>
+  <programme channel="beIN.SPORTS.1.fr" start="20260811180000 +0000" stop="20260811200000 +0000">
+    <title lang="fr">Football</title>
+    <desc lang="fr">A suivre, des rediffusions d'affiches disputées dans le cadre de compétitions diffusées sur les chaînes du groupe. Parmi les programmes phares, entre autres : Liga espagnole, Bundesliga, Süper Lig turque, Championnat du Portugal, Ligue 1 et Ligue 2 françaises ou encore de la Coupe de la Ligue anglaise.</desc>
+    <category lang="fr">Football</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/4/6/15203646.jpg" />
+  </programme>
+  <programme channel="beIN.SPORTS.1.fr" start="20260811200000 +0000" stop="20260811220000 +0000">
+    <title lang="fr">Football</title>
+    <desc lang="fr">Suivez un match d'une compétition de football, un sport appelé soccer en Amérique du Nord.</desc>
+    <category lang="fr">Football</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/4/6/15203646.jpg" />
+  </programme>
+  <programme channel="beIN.SPORTS.1.fr" start="20260811220000 +0000" stop="20260811223000 +0000">
+    <title lang="fr">Le Coach</title>
+    <sub-title lang="fr">Best of</sub-title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/8/1/15363181.jpg" />
+  </programme>
+  <programme channel="beIN.SPORTS.1.fr" start="20260811223000 +0000" stop="20260811230000 +0000">
+    <title lang="fr">Salon VIP</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/9/2/15179298.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/9/2/15179294.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/9/2/15179292.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/9/2/15179295.jpg" />
+  </programme>
+  <programme channel="beIN.SPORTS.1.fr" start="20260811230000 +0000" stop="20260812050000 +0000">
+    <title lang="fr">Tennis : Tournoi WTA du Canada</title>
+    <desc lang="fr">Suivez des matchs des tournois WTA 1000 de Montréal et de Toronto, parmi les tournois les plus prestigieux du WTA Tour de tennis.</desc>
+    <category lang="fr">Tennis</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/0/1/15525104.jpg" />
+  </programme>
   <channel id="[PK22].NBC.Sports.NOW.PEACOCK">
     <display-name lang="en">[PK22] NBC Sports NOW</display-name>
     <icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s114140_dark_360w_270h.png" />
     <icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s114140_dark_360w_270h.png" />
     </channel>
-  <programme start="20260808050000 +0000" stop="20260808060000 +0000" channel="[PK22].NBC.Sports.NOW.PEACOCK">
-    <title lang="en">National Heads-Up Poker Championship</title>
-    <sub-title lang="en">Quarterfinals and Semifinals</sub-title>
-    <desc lang="en">Quarterfinal and Semifinal action featuring poker's biggest names.</desc>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Card games</category>
-    <category lang="en">Poker</category>
-    <icon src="http://dtil.tmsimg.com/assets/p12281368_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E9</episode-num>
-    <previously-shown />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme>
-  <programme start="20260808060000 +0000" stop="20260808070000 +0000" channel="[PK22].NBC.Sports.NOW.PEACOCK">
-    <title lang="en">National Heads-Up Poker Championship</title>
-    <sub-title lang="en">Championship Finals</sub-title>
-    <desc lang="en">Championship Finals: Best two out of three matches; $500,000 to the champion.</desc>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Card games</category>
-    <category lang="en">Poker</category>
-    <icon src="http://dtil.tmsimg.com/assets/p12281368_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E10</episode-num>
-    <previously-shown />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme>
-  <programme start="20260808070000 +0000" stop="20260808090000 +0000" channel="[PK22].NBC.Sports.NOW.PEACOCK">
-    <title lang="en">PFT Live</title>
-    <desc lang="en">Coverage of the news from around the NFL; breaking down the league's reports and rumors.</desc>
-    <credits>
-      <actor>Mike Florio</actor>
-      <actor>Chris Simms</actor>
-      <actor>Mike Golic</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Football</category>
-    <icon src="http://dtil.tmsimg.com/assets/p22919764_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S14 E145</episode-num>
-    <previously-shown />
-  </programme>
-  <programme start="20260808090000 +0000" stop="20260808093000 +0000" channel="[PK22].NBC.Sports.NOW.PEACOCK">
-    <title lang="en">WNBA on NBC Highlights Factory</title>
-    <desc lang="en">The WNBA's biggest stars and top plays come to life.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Basketball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p32990041_b_h10_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E10</episode-num>
-    <previously-shown />
-  </programme>
-  <programme start="20260808093000 +0000" stop="20260808100000 +0000" channel="[PK22].NBC.Sports.NOW.PEACOCK">
-    <title lang="en">WNBA on NBC Highlights Factory</title>
-    <desc lang="en">The WNBA's biggest stars and top plays come to life.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Basketball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p32990041_b_h10_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E9</episode-num>
-    <previously-shown />
-  </programme>
-  <programme start="20260808100000 +0000" stop="20260808103000 +0000" channel="[PK22].NBC.Sports.NOW.PEACOCK">
-    <title lang="en">WNBA on NBC Highlights Factory</title>
-    <desc lang="en">The WNBA's biggest stars and top plays come to life.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Basketball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p32990041_b_h10_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E12</episode-num>
-    <previously-shown />
-  </programme>
-  <programme start="20260808103000 +0000" stop="20260808110000 +0000" channel="[PK22].NBC.Sports.NOW.PEACOCK">
-    <title lang="en">MLB According to CC</title>
-    <desc lang="en">CC Sabathia and Ahmed Fareed creating a "Mount Rushmore" of New York City athletes.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Baseball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p32854143_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E17</episode-num>
-    <previously-shown />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260808110000 +0000" stop="20260808140000 +0000" channel="[PK22].NBC.Sports.NOW.PEACOCK">
-    <title lang="en">The Dan Patrick Show</title>
-    <desc lang="en">Dan Patrick's daily national sports talk program, with interviews and discussions with some of the biggest stars in sports and entertainment.</desc>
-    <credits>
-      <actor>Dan Patrick</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sports talk</category>
-    <icon src="http://dtil.tmsimg.com/assets/p18691242_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S7 E138</episode-num>
-    <previously-shown />
-  </programme>
-  <programme start="20260808140000 +0000" stop="20260808160000 +0000" channel="[PK22].NBC.Sports.NOW.PEACOCK">
-    <title lang="en">PFT Live</title>
-    <desc lang="en">Coverage of the news from around the NFL; breaking down the league's reports and rumors.</desc>
-    <credits>
-      <actor>Mike Florio</actor>
-      <actor>Chris Simms</actor>
-      <actor>Mike Golic</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Football</category>
-    <icon src="http://dtil.tmsimg.com/assets/p22919764_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S14 E145</episode-num>
-    <previously-shown />
-  </programme>
-  <programme start="20260808160000 +0000" stop="20260808170000 +0000" channel="[PK22].NBC.Sports.NOW.PEACOCK">
-    <title lang="en">Chris Simms Unbuttoned</title>
-    <desc lang="en">Chris Simms takes an unfiltered look at the NFL, featuring player access, unabashed opinion, X and O film breakdown and stories from a life in and around football.</desc>
-    <credits>
-      <actor>Chris Simms</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sports talk</category>
-    <icon src="http://dtil.tmsimg.com/assets/p18991697_b_h10_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S7 E45</episode-num>
-    <previously-shown />
-  </programme>
-  <programme start="20260808170000 +0000" stop="20260808180000 +0000" channel="[PK22].NBC.Sports.NOW.PEACOCK">
-    <title lang="en">Chris Simms Unbuttoned</title>
-    <desc lang="en">Chris Simms takes an unfiltered look at the NFL, featuring player access, unabashed opinion, X and O film breakdown and stories from a life in and around football.</desc>
-    <credits>
-      <actor>Chris Simms</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sports talk</category>
-    <icon src="http://dtil.tmsimg.com/assets/p18991697_b_h10_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S7 E46</episode-num>
-    <previously-shown />
-  </programme>
-  <programme start="20260808180000 +0000" stop="20260808190000 +0000" channel="[PK22].NBC.Sports.NOW.PEACOCK">
-    <title lang="en">Chris Simms Unbuttoned</title>
-    <desc lang="en">Chris Simms takes an unfiltered look at the NFL, featuring player access, unabashed opinion, X and O film breakdown and stories from a life in and around football.</desc>
-    <credits>
-      <actor>Chris Simms</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sports talk</category>
-    <icon src="http://dtil.tmsimg.com/assets/p18991697_b_h10_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S7 E47</episode-num>
-    <previously-shown />
-  </programme>
-  <programme start="20260808190000 +0000" stop="20260808193000 +0000" channel="[PK22].NBC.Sports.NOW.PEACOCK">
-    <title lang="en">MLB According to CC</title>
-    <desc lang="en">CC Sabathia and Ahmed Fareed creating a "Mount Rushmore" of New York City athletes.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Baseball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p32854143_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E17</episode-num>
-    <previously-shown />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260808193000 +0000" stop="20260808200000 +0000" channel="[PK22].NBC.Sports.NOW.PEACOCK">
-    <title lang="en">MLB According to CC</title>
-    <desc lang="en">Sunday Night Baseball, Chris Sale, and behind-the-scenes kangaroo court stories.</desc>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Baseball</category>
-    <icon src="http://dtil.tmsimg.com/assets/p32854143_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E15</episode-num>
-    <previously-shown />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260808200000 +0000" stop="20260808220000 +0000" channel="[PK22].NBC.Sports.NOW.PEACOCK">
-    <title lang="en">PFT Live</title>
-    <desc lang="en">Coverage of the news from around the NFL; breaking down the league's reports and rumors.</desc>
-    <credits>
-      <actor>Mike Florio</actor>
-      <actor>Chris Simms</actor>
-      <actor>Mike Golic</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Football</category>
-    <icon src="http://dtil.tmsimg.com/assets/p22919764_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S14 E143</episode-num>
-    <previously-shown />
-  </programme>
-  <programme start="20260808220000 +0000" stop="20260809000000 +0000" channel="[PK22].NBC.Sports.NOW.PEACOCK">
-    <title lang="en">PFT Live</title>
-    <desc lang="en">Coverage of the news from around the NFL; breaking down the league's reports and rumors.</desc>
-    <credits>
-      <actor>Mike Florio</actor>
-      <actor>Chris Simms</actor>
-      <actor>Mike Golic</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Football</category>
-    <icon src="http://dtil.tmsimg.com/assets/p22919764_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S14 E145</episode-num>
-    <previously-shown />
-  </programme>
-  <programme start="20260809000000 +0000" stop="20260809050000 +0000" channel="[PK22].NBC.Sports.NOW.PEACOCK">
-    <title lang="en">Pro Motocross Championship</title>
-    <desc lang="en">From Washougal MX Park in Washougal, Wash.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motorcycle racing</category>
-    <icon src="http://dtil.tmsimg.com/assets/p21666577_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown />
-  </programme>
   <programme start="20260809050000 +0000" stop="20260809060000 +0000" channel="[PK22].NBC.Sports.NOW.PEACOCK">
     <title lang="en">Incredible Dog Challenge</title>
     <sub-title lang="en">2025 National Championship Final</sub-title>
@@ -10243,6 +10257,217 @@
     <category lang="en">Sports talk</category>
     <icon src="http://dtil.tmsimg.com/assets/p33404900_b_h8_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">E38</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20260812070000 +0000" stop="20260812090000 +0000" channel="[PK22].NBC.Sports.NOW.PEACOCK">
+    <title lang="en">PFT Live</title>
+    <sub-title lang="en">Episode 081126</sub-title>
+    <desc lang="en">Coverage of the news from around the NFL; breaking down the league's reports and rumors.</desc>
+    <credits>
+      <actor>Mike Florio</actor>
+      <actor>Chris Simms</actor>
+      <actor>Mike Golic</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Football</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22919764_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S14 E147</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20260812090000 +0000" stop="20260812093000 +0000" channel="[PK22].NBC.Sports.NOW.PEACOCK">
+    <title lang="en">WNBA on NBC Highlights Factory</title>
+    <desc lang="en">The WNBA's biggest stars and top plays come to life.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32990041_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E10</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20260812093000 +0000" stop="20260812100000 +0000" channel="[PK22].NBC.Sports.NOW.PEACOCK">
+    <title lang="en">WNBA on NBC Highlights Factory</title>
+    <desc lang="en">The WNBA's biggest stars and top plays come to life.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32990041_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E9</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20260812100000 +0000" stop="20260812110000 +0000" channel="[PK22].NBC.Sports.NOW.PEACOCK">
+    <title lang="en">Chris Simms Unbuttoned</title>
+    <desc lang="en">Chris Simms takes an unfiltered look at the NFL, featuring player access, unabashed opinion, X and O film breakdown and stories from a life in and around football.</desc>
+    <credits>
+      <actor>Chris Simms</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sports talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18991697_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S7 E48</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20260812110000 +0000" stop="20260812130000 +0000" channel="[PK22].NBC.Sports.NOW.PEACOCK">
+    <title lang="en">PFT Live</title>
+    <desc lang="en">Coverage of the news from around the NFL; breaking down the league's reports and rumors.</desc>
+    <credits>
+      <actor>Mike Florio</actor>
+      <actor>Chris Simms</actor>
+      <actor>Mike Golic</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Football</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22919764_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S14 E148</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20260812130000 +0000" stop="20260812160000 +0000" channel="[PK22].NBC.Sports.NOW.PEACOCK">
+    <title lang="en">The Dan Patrick Show</title>
+    <desc lang="en">Dan Patrick's daily national sports talk program, with interviews and discussions with some of the biggest stars in sports and entertainment.</desc>
+    <credits>
+      <actor>Dan Patrick</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sports talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18691242_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S7 E141</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20260812160000 +0000" stop="20260812190000 +0000" channel="[PK22].NBC.Sports.NOW.PEACOCK">
+    <title lang="en">The Dan Le Batard Show</title>
+    <desc lang="en">From the Elser Hotel in Downtown Miami, Dan Le Batard and the gang from the Shipping Container share their unique perspectives on all things sports, pop culture and more.</desc>
+    <credits>
+      <actor>Dan Le Batard</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sports talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33404900_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E39</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20260812190000 +0000" stop="20260812200000 +0000" channel="[PK22].NBC.Sports.NOW.PEACOCK">
+    <title lang="en">Chris Simms Unbuttoned</title>
+    <desc lang="en">Chris Simms takes an unfiltered look at the NFL, featuring player access, unabashed opinion, X and O film breakdown and stories from a life in and around football.</desc>
+    <credits>
+      <actor>Chris Simms</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sports talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18991697_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S7 E49</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20260812200000 +0000" stop="20260812220000 +0000" channel="[PK22].NBC.Sports.NOW.PEACOCK">
+    <title lang="en">PFT Live</title>
+    <desc lang="en">Coverage of the news from around the NFL; breaking down the league's reports and rumors.</desc>
+    <credits>
+      <actor>Mike Florio</actor>
+      <actor>Chris Simms</actor>
+      <actor>Mike Golic</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Football</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22919764_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S14 E148</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20260812220000 +0000" stop="20260812223000 +0000" channel="[PK22].NBC.Sports.NOW.PEACOCK">
+    <title lang="en">MLB According to CC</title>
+    <desc lang="en">A weekly series featuring MLB Hall of Famer CC Sabathia's thoughtful and entertaining insights into the world of Major League Baseball.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Baseball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32854143_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E18</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260812223000 +0000" stop="20260812233000 +0000" channel="[PK22].NBC.Sports.NOW.PEACOCK">
+    <title lang="en">Chris Simms Unbuttoned</title>
+    <desc lang="en">Chris Simms takes an unfiltered look at the NFL, featuring player access, unabashed opinion, X and O film breakdown and stories from a life in and around football.</desc>
+    <credits>
+      <actor>Chris Simms</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sports talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18991697_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S7 E49</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20260812233000 +0000" stop="20260813000000 +0000" channel="[PK22].NBC.Sports.NOW.PEACOCK">
+    <title lang="en">MLB According to CC</title>
+    <desc lang="en">A weekly series featuring MLB Hall of Famer CC Sabathia's thoughtful and entertaining insights into the world of Major League Baseball.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Baseball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32854143_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E18</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260813000000 +0000" stop="20260813030000 +0000" channel="[PK22].NBC.Sports.NOW.PEACOCK">
+    <title lang="en">The Dan Patrick Show</title>
+    <desc lang="en">Dan Patrick's daily national sports talk program, with interviews and discussions with some of the biggest stars in sports and entertainment.</desc>
+    <credits>
+      <actor>Dan Patrick</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sports talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18691242_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S7 E141</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20260813030000 +0000" stop="20260813040000 +0000" channel="[PK22].NBC.Sports.NOW.PEACOCK">
+    <title lang="en">Chris Simms Unbuttoned</title>
+    <desc lang="en">Chris Simms takes an unfiltered look at the NFL, featuring player access, unabashed opinion, X and O film breakdown and stories from a life in and around football.</desc>
+    <credits>
+      <actor>Chris Simms</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sports talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18991697_b_h10_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S7 E49</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20260813040000 +0000" stop="20260813070000 +0000" channel="[PK22].NBC.Sports.NOW.PEACOCK">
+    <title lang="en">The Dan Le Batard Show</title>
+    <desc lang="en">From the Elser Hotel in Downtown Miami, Dan Le Batard and the gang from the Shipping Container share their unique perspectives on all things sports, pop culture and more.</desc>
+    <credits>
+      <actor>Dan Le Batard</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sports talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33404900_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E39</episode-num>
     <previously-shown />
   </programme>
   <channel id="Sky.Sports.Football.HD.uk">
