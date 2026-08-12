@@ -1,6 +1,6 @@
-## Base Log @ 2026-08-11 21:22 UTC
+## Base Log @ 2026-08-12 09:41 UTC
 
-### ✅ Working Streams: 65<br>❌ Dead Streams: 87
+### ✅ Working Streams: 64<br>❌ Dead Streams: 88
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -18,6 +18,7 @@
 | CNBC | cURL Error (28) | `http://206.212.244.63/41/index.m3u8` |
 | CW | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3115.ts` |
 | Comedy TV | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/77411.ts` |
+| Cooking Channel | cURL Error (28) | `http://23.237.104.106:8080/USA_COOKING/index.m3u8` |
 | Cozi TV | cURL Error (28) | `http://206.212.244.63/49/index.m3u8` |
 | DIRECTV Sports + | HTTP Error (404) | `http://190.108.83.69:8000/play/a05w/index.m3u8` |
 | DIRECTV Sports | HTTP Error (404) | `http://201.230.121.85:8000/play/dssporthd/index.m3u8` |
