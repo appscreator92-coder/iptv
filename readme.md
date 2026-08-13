@@ -1,6 +1,6 @@
-## Base Log @ 2026-08-13 09:41 UTC
+## Base Log @ 2026-08-13 15:31 UTC
 
-### ✅ Working Streams: 65<br>❌ Dead Streams: 87
+### ✅ Working Streams: 64<br>❌ Dead Streams: 88
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -59,6 +59,7 @@
 | Nat Geo Wild | cURL Error (28) | `http://206.212.244.63/123/index.m3u8` |
 | NewsNation | cURL Error (28) | `http://206.212.244.63/129/index.m3u8` |
 | Newsmax TV | cURL Error (28) | `http://206.212.244.63/128/index.m3u8` |
+| Nick Jr | cURL Error (28) | `http://40.160.24.55/NICK_JR/index.m3u8` |
 | Nicktoons | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3674.ts` |
 | Ovation | cURL Error (28) | `http://206.212.244.63/134/index.m3u8` |
 | Oxygen | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3756.ts` |
