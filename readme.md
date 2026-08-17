@@ -1,6 +1,6 @@
-## Base Log @ 2026-08-17 14:55 UTC
+## Base Log @ 2026-08-17 20:55 UTC
 
-### ✅ Working Streams: 63<br>❌ Dead Streams: 89
+### ✅ Working Streams: 61<br>❌ Dead Streams: 91
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -27,6 +27,7 @@
 | Disney Channel | cURL Error (28) | `http://206.212.244.63/650/index.m3u8` |
 | Disney Jr | cURL Error (28) | `http://206.212.244.63/655/index.m3u8` |
 | ESPN News | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3640.ts` |
+| ESPN | HTTP Error (404) | `http://41.205.93.154/ESPN/index.m3u8` |
 | ESPN2 | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21590.ts` |
 | FX Movie Channel | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3736.ts` |
 | FYI TV | cURL Error (28) | `http://206.212.244.63/78/index.m3u8` |
@@ -48,6 +49,7 @@
 | ION TV | cURL Error (28) | `http://206.212.244.63/99/index.m3u8` |
 | ITV1 | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/527497.ts` |
 | Investigation Discovery | HTTP Error (404) | `http://40.160.24.53/INVESTIGATION_DISCOVERY/index.m3u8` |
+| Lifetime | HTTP Error (404) | `http://41.205.93.154/LIFETIME/index.m3u8` |
 | MLB Network | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3661.ts` |
 | MSNBC | cURL Error (28) | `http://206.212.244.63/114/index.m3u8` |
 | Marquee Sports Network | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/55178.ts` |
