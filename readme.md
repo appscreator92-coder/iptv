@@ -1,6 +1,6 @@
-## Base Log @ 2026-08-16 20:48 UTC
+## Base Log @ 2026-08-17 09:09 UTC
 
-### ✅ Working Streams: 62<br>❌ Dead Streams: 90
+### ✅ Working Streams: 63<br>❌ Dead Streams: 89
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -27,7 +27,6 @@
 | Disney Channel | cURL Error (28) | `http://206.212.244.63/650/index.m3u8` |
 | Disney Jr | cURL Error (28) | `http://206.212.244.63/655/index.m3u8` |
 | ESPN News | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3640.ts` |
-| ESPN | HTTP Error (404) | `http://41.205.93.154/ESPN/index.m3u8` |
 | ESPN2 | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21590.ts` |
 | FX Movie Channel | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3736.ts` |
 | FYI TV | cURL Error (28) | `http://206.212.244.63/78/index.m3u8` |
