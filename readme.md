@@ -1,6 +1,6 @@
-## Base Log @ 2026-08-17 20:55 UTC
+## Base Log @ 2026-08-18 09:04 UTC
 
-### ✅ Working Streams: 61<br>❌ Dead Streams: 91
+### ✅ Working Streams: 62<br>❌ Dead Streams: 90
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -49,7 +49,6 @@
 | ION TV | cURL Error (28) | `http://206.212.244.63/99/index.m3u8` |
 | ITV1 | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/527497.ts` |
 | Investigation Discovery | HTTP Error (404) | `http://40.160.24.53/INVESTIGATION_DISCOVERY/index.m3u8` |
-| Lifetime | HTTP Error (404) | `http://41.205.93.154/LIFETIME/index.m3u8` |
 | MLB Network | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3661.ts` |
 | MSNBC | cURL Error (28) | `http://206.212.244.63/114/index.m3u8` |
 | Marquee Sports Network | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/55178.ts` |
