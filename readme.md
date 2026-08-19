@@ -1,6 +1,6 @@
-## Base Log @ 2026-08-19 15:02 UTC
+## Base Log @ 2026-08-19 20:55 UTC
 
-### ✅ Working Streams: 60<br>❌ Dead Streams: 92
+### ✅ Working Streams: 62<br>❌ Dead Streams: 90
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -53,14 +53,12 @@
 | MSNBC | cURL Error (28) | `http://206.212.244.63/114/index.m3u8` |
 | Marquee Sports Network | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/55178.ts` |
 | MotorTrend TV | cURL Error (28) | `http://206.212.244.63/113/index.m3u8` |
-| NBA TV | HTTP Error (404) | `http://23.237.104.106:8080/USA_NBA/tracks-v1a1/mono.m3u8` |
 | NBC Sports Bay Area | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2436.ts` |
 | NBC Sports Boston | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2435.ts` |
 | NBC Sports Philadelphia | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3769.ts` |
 | NESN | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/149310.ts` |
 | NHL Network | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3672.ts` |
 | Nat Geo Wild | cURL Error (28) | `http://206.212.244.63/123/index.m3u8` |
-| Nat Geo | HTTP Error (404) | `http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8` |
 | NewsNation | cURL Error (28) | `http://206.212.244.63/129/index.m3u8` |
 | Newsmax TV | cURL Error (28) | `http://206.212.244.63/128/index.m3u8` |
 | Nick Jr | HTTP Error (404) | `http://40.160.24.55/NICK_JR/index.m3u8` |
