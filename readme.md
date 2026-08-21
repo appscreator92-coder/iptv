@@ -1,4 +1,4 @@
-## Base Log @ 2026-08-20 20:57 UTC
+## Base Log @ 2026-08-21 09:08 UTC
 
 ### ✅ Working Streams: 62<br>❌ Dead Streams: 90
 
@@ -19,7 +19,7 @@
 | CW | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3115.ts` |
 | Comedy TV | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/77411.ts` |
 | Cozi TV | cURL Error (28) | `http://206.212.244.63/49/index.m3u8` |
-| DIRECTV Sports + | cURL Error (28) | `http://190.108.83.69:8000/play/a05w/index.m3u8` |
+| DIRECTV Sports + | HTTP Error (404) | `http://190.108.83.69:8000/play/a05w/index.m3u8` |
 | DIRECTV Sports | HTTP Error (404) | `http://201.230.121.85:8000/play/dssporthd/index.m3u8` |
 | Discovery Family Channel | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2598.ts` |
 | Discovery Life | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2597.ts` |
