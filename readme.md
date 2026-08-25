@@ -1,4 +1,4 @@
-## Base Log @ 2026-08-25 15:15 UTC
+## Base Log @ 2026-08-25 20:56 UTC
 
 ### ✅ Working Streams: 62<br>❌ Dead Streams: 90
 
@@ -12,7 +12,7 @@
 | BBC One | HTTP Error (403) | `http://193.239.186.231/BBC1/index.m3u8` |
 | BET | cURL Error (28) | `http://206.212.244.63/16/index.m3u8` |
 | Bravo TV | cURL Error (28) | `http://206.212.244.63/26/index.m3u8` |
-| C-SPAN | cURL Error (28) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/92792.ts` |
+| C-SPAN | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/92792.ts` |
 | CBS Sports Golazo Network | HTTP Error (404) | `https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8` |
 | CBS Sports Network | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3621.ts` |
 | CNBC | cURL Error (28) | `http://206.212.244.63/41/index.m3u8` |
