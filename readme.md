@@ -1,6 +1,6 @@
-## Base Log @ 2026-09-04 12:51 UTC
+## Base Log @ 2026-09-04 17:43 UTC
 
-### ✅ Working Streams: 59<br>❌ Dead Streams: 93
+### ✅ Working Streams: 62<br>❌ Dead Streams: 90
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -84,9 +84,7 @@
 | Sportsnet East | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3072.ts` |
 | Sportsnet One | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3071.ts` |
 | Starz Encore Classic | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3953.ts` |
-| TBS | HTTP Error (404) | `https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8` |
 | TLC | cURL Error (28) | `http://206.212.244.63/159/index.m3u8` |
-| TNT | HTTP Error (404) | `https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8` |
 | TSN1 | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3146.ts` |
 | TSN2 | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3145.ts` |
 | TV Land | cURL Error (28) | `http://206.212.244.63/164/index.m3u8` |
@@ -96,7 +94,6 @@
 | USA Network | cURL Error (28) | `http://206.212.244.63/168/index.m3u8` |
 | Willow Cricket | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3972.ts` |
 | getTV | cURL Error (28) | `http://206.212.244.63/80/index.m3u8` |
-| truTV | HTTP Error (404) | `https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8` |
 ---
 #### Base Channels URL
 ```
