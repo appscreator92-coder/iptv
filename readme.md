@@ -1,12 +1,11 @@
-## Base Log @ 2026-09-14 15:11 UTC
+## Base Log @ 2026-09-14 23:19 UTC
 
-### ✅ Working Streams: 46<br>❌ Dead Streams: 106
+### ✅ Working Streams: 47<br>❌ Dead Streams: 105
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
 | A&E TV | cURL Error (28) | `http://206.212.244.63/1/index.m3u8` |
 | ABC | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/112234.ts` |
-| AMC | HTTP Error (404) | `http://41.205.93.154/AMC/index.m3u8` |
 | AXS TV | cURL Error (28) | `http://206.212.244.63/12/index.m3u8` |
 | Altitude Sports | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/332892.ts` |
 | Aspire | cURL Error (28) | `http://206.212.244.63/10/index.m3u8` |
@@ -23,7 +22,7 @@
 | Comedy TV | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/77411.ts` |
 | Cozi TV | cURL Error (28) | `http://206.212.244.63/49/index.m3u8` |
 | DIRECTV Sports + | HTTP Error (404) | `http://190.108.83.69:8000/play/a05w/index.m3u8` |
-| DIRECTV Sports | cURL Error (28) | `http://201.230.121.85:8000/play/dssporthd/index.m3u8` |
+| DIRECTV Sports | HTTP Error (404) | `http://201.230.121.85:8000/play/dssporthd/index.m3u8` |
 | Discovery Channel | HTTP Error (404) | `http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8` |
 | Discovery Family Channel | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2598.ts` |
 | Discovery Life | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2597.ts` |
