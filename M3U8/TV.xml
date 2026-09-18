@@ -422087,20 +422087,15 @@
     <icon src="http://dtil.tmsimg.com/assets/p29988354_st_h10_ac.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
-  <channel id="WFLD-DT.us_locals1">
-    <icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" />
-    <icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" />
-    <display-name lang="en">WFLD-DT</display-name>
-  </channel>
-  <channel id="WPIX-DT.us_locals1">
-    <icon src="https://i.gyazo.com/afd5b481b327d204087dfde6a7741f9d.png" />
-    <icon src="https://i.gyazo.com/afd5b481b327d204087dfde6a7741f9d.png" />
-    <display-name lang="en">WPIX-DT</display-name>
-  </channel>
   <channel id="WABC-DT.us_locals1">
     <icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" />
     <icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" />
     <display-name lang="en">WABC-DT</display-name>
+  </channel>
+  <channel id="WFLD-DT.us_locals1">
+    <icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" />
+    <icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" />
+    <display-name lang="en">WFLD-DT</display-name>
   </channel>
   <channel id="WCBS-DT.us_locals1">
     <icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" />
@@ -422111,6 +422106,11 @@
     <icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10991_dark_360w_270h.png" />
     <icon src="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10991_dark_360w_270h.png" />
     <display-name lang="en">WNBC-DT</display-name>
+  </channel>
+  <channel id="WPIX-DT.us_locals1">
+    <icon src="https://i.gyazo.com/afd5b481b327d204087dfde6a7741f9d.png" />
+    <icon src="https://i.gyazo.com/afd5b481b327d204087dfde6a7741f9d.png" />
+    <display-name lang="en">WPIX-DT</display-name>
   </channel>
   <programme channel="WFLD-DT.us_locals1" start="20260917050000 +0000" stop="20260917053000 +0000">
     <title lang="en">Battleground Midterms</title>
