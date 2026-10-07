@@ -1,4 +1,4 @@
-## Base Log @ 2026-10-06 23:59 UTC
+## Base Log @ 2026-10-07 15:41 UTC
 
 ### ✅ Working Streams: 43<br>❌ Dead Streams: 109
 
@@ -87,9 +87,9 @@
 | Premier Sports 2 | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/89090.ts` |
 | Reelz Channel | HTTP Error (404) | `http://23.237.104.106:8080/USA_REELZ/index.m3u8` |
 | STV | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2168.ts` |
-| Showtime Extreme | cURL Error (7) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648984.ts` |
-| Showtime | cURL Error (7) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2416.ts` |
-| Sky Sports Football | cURL Error (7) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2188.ts` |
+| Showtime Extreme | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648984.ts` |
+| Showtime | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2416.ts` |
+| Sky Sports Football | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2188.ts` |
 | Sky Sports News | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2179.ts` |
 | Sky Sports Premier League | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2182.ts` |
 | Smithsonian Channel | cURL Error (28) | `http://206.212.244.63/148/index.m3u8` |
