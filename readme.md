@@ -1,4 +1,4 @@
-## Base Log @ 2026-10-10 14:36 UTC
+## Base Log @ 2026-10-10 23:43 UTC
 
 ### ✅ Working Streams: 43<br>❌ Dead Streams: 109
 
@@ -89,13 +89,13 @@
 | STV | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2168.ts` |
 | Showtime Extreme | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648984.ts` |
 | Showtime | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2416.ts` |
-| Sky Sports Football | cURL Error (52) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2188.ts` |
-| Sky Sports News | cURL Error (52) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2179.ts` |
-| Sky Sports Premier League | cURL Error (7) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2182.ts` |
+| Sky Sports Football | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2188.ts` |
+| Sky Sports News | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2179.ts` |
+| Sky Sports Premier League | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2182.ts` |
 | Smithsonian Channel | cURL Error (28) | `http://206.212.244.63/148/index.m3u8` |
-| Sony Movie Channel | cURL Error (7) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2412.ts` |
-| Space City Home Network | cURL Error (7) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/663927.ts` |
-| Spectrum SportsNet LA Dodgers | cURL Error (7) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/74683.ts` |
+| Sony Movie Channel | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2412.ts` |
+| Space City Home Network | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/663927.ts` |
+| Spectrum SportsNet LA Dodgers | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/74683.ts` |
 | Spectrum SportsNet Lakers | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/512561.ts` |
 | SportsNet New York | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3865.ts` |
 | Sportsnet 360 | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3073.ts` |
