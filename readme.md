@@ -1,12 +1,11 @@
-## Base Log @ 2026-10-12 18:07 UTC
+## Base Log @ 2026-10-13 02:12 UTC
 
-### ✅ Working Streams: 42<br>❌ Dead Streams: 110
+### ✅ Working Streams: 43<br>❌ Dead Streams: 109
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
 | A&E TV | cURL Error (28) | `http://206.212.244.63/1/index.m3u8` |
 | ABC | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/112234.ts` |
-| AMC | HTTP Error (404) | `http://41.205.93.154/AMC/index.m3u8` |
 | AXS TV | cURL Error (28) | `http://206.212.244.63/12/index.m3u8` |
 | Altitude Sports | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/332892.ts` |
 | Aspire | cURL Error (28) | `http://206.212.244.63/10/index.m3u8` |
