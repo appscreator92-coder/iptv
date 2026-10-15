@@ -1,58 +1,46 @@
-## Base Log @ 2026-10-14 23:22 UTC
+## Base Log @ 2026-10-15 13:37 UTC
 
-### ✅ Working Streams: 16<br>❌ Dead Streams: 136
+### ✅ Working Streams: 41<br>❌ Dead Streams: 111
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
 | A&E TV | cURL Error (28) | `http://206.212.244.63/1/index.m3u8` |
 | ABC | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/112234.ts` |
-| ACC Network | cURL Error (28) | `http://23.237.104.106:8080/USA_ACCN/mpegts` |
 | AMC | HTTP Error (404) | `http://41.205.93.154/AMC/index.m3u8` |
 | AXS TV | cURL Error (28) | `http://206.212.244.63/12/index.m3u8` |
 | Altitude Sports | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/332892.ts` |
-| Animal Planet | cURL Error (28) | `http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8` |
 | Aspire | cURL Error (28) | `http://206.212.244.63/10/index.m3u8` |
-| BBC America | cURL Error (28) | `http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8` |
 | BBC One | HTTP Error (403) | `http://193.239.186.231/BBC1/index.m3u8` |
 | BET | cURL Error (28) | `http://206.212.244.63/16/index.m3u8` |
-| Big Ten Network | cURL Error (28) | `http://23.237.104.106:8080/USA_BTN/index.m3u8` |
-| Boomerang | cURL Error (28) | `http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8` |
-| Bounce TV | cURL Error (28) | `http://23.237.104.106:8080/USA_BOUNCE/index.m3u8` |
 | Bravo TV | cURL Error (28) | `http://206.212.244.63/26/index.m3u8` |
 | C-SPAN | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/92792.ts` |
 | CBS Sports Golazo Network | HTTP Error (404) | `https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8` |
 | CBS Sports Network | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3621.ts` |
 | CBS | cURL Error (28) | `http://stream.cammonitorplus.net/1810/index.m3u8` |
-| CMT | cURL Error (28) | `http://23.237.104.106:8080/USA_CMT/index.m3u8` |
 | CNBC | cURL Error (28) | `http://206.212.244.63/41/index.m3u8` |
 | CW | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3115.ts` |
-| Cartoon Network | cURL Error (28) | `http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8` |
-| Cinemax | cURL Error (28) | `http://23.237.104.106:8080/USA_CINEMAX/index.m3u8` |
-| Comedy Central | cURL Error (28) | `http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8` |
+| Cartoon Network | HTTP Error (404) | `http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8` |
+| Cinemax | HTTP Error (404) | `http://23.237.104.106:8080/USA_CINEMAX/index.m3u8` |
+| Comedy Central | HTTP Error (404) | `http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8` |
 | Comedy TV | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/77411.ts` |
-| Cooking Channel | cURL Error (28) | `http://23.237.104.106:8080/USA_COOKING/index.m3u8` |
 | Cozi TV | cURL Error (28) | `http://206.212.244.63/49/index.m3u8` |
-| Crime & Investigation Network | cURL Error (28) | `http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/mpegts` |
 | DIRECTV Sports + | HTTP Error (404) | `http://190.108.83.69:8000/play/a05w/index.m3u8` |
 | DIRECTV Sports | HTTP Error (404) | `http://201.230.121.85:8000/play/dssporthd/index.m3u8` |
-| Discovery Channel | cURL Error (28) | `http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8` |
+| Discovery Channel | HTTP Error (404) | `http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8` |
 | Discovery Family Channel | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2598.ts` |
 | Discovery Life | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2597.ts` |
 | Discovery Science | cURL Error (28) | `http://206.212.244.63/55/index.m3u8` |
 | Disney Channel | cURL Error (28) | `http://206.212.244.63/650/index.m3u8` |
 | Disney Jr | cURL Error (28) | `http://206.212.244.63/655/index.m3u8` |
-| Disney XD | cURL Error (28) | `http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8` |
-| E! Entertainment | cURL Error (28) | `http://23.237.104.106:8080/USA_E/index.m3u8` |
+| Disney XD | HTTP Error (404) | `http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8` |
 | ESPN News | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3640.ts` |
-| ESPN U | cURL Error (28) | `http://23.237.104.106:8080/USA_ESPNU/index.m3u8` |
+| ESPN U | HTTP Error (404) | `http://23.237.104.106:8080/USA_ESPNU/index.m3u8` |
 | ESPN | HTTP Error (404) | `http://41.205.93.154/ESPN/index.m3u8` |
 | ESPN2 | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21590.ts` |
-| FUSE | cURL Error (28) | `http://23.237.104.106:8080/USA_FUSE/index.m3u8` |
 | FX Movie Channel | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3736.ts` |
-| FX | cURL Error (28) | `http://23.237.104.106:8080/USA_FX/index.m3u8` |
-| FXX | cURL Error (28) | `http://23.237.104.106:8080/USA_FXX/index.m3u8` |
+| FX | HTTP Error (404) | `http://23.237.104.106:8080/USA_FX/index.m3u8` |
+| FXX | HTTP Error (404) | `http://23.237.104.106:8080/USA_FXX/index.m3u8` |
 | FYI TV | cURL Error (28) | `http://206.212.244.63/78/index.m3u8` |
-| Food Network | cURL Error (28) | `http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8` |
 | Fox Business | cURL Error (28) | `http://206.212.244.63/66/index.m3u8` |
 | Fox News | cURL Error (28) | `http://206.212.244.63/67/index.m3u8` |
 | Fox Sports 1 | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2501.ts` |
@@ -62,12 +50,11 @@
 | Game Show Network | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648975.ts` |
 | Golf Channel | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2385.ts` |
 | Grit TV | cURL Error (28) | `http://206.212.244.63/83/index.m3u8` |
-| HBO 2 | cURL Error (28) | `http://23.237.104.106:8080/USA_HBO2/index.m3u8` |
+| HBO 2 | HTTP Error (404) | `http://23.237.104.106:8080/USA_HBO2/index.m3u8` |
 | HBO Comedy | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648977.ts` |
-| HBO Zone | cURL Error (28) | `http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8` |
+| HBO Zone | HTTP Error (404) | `http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8` |
 | HBO | HTTP Error (404) | `http://40.160.24.53/HBO_HD/index.m3u8` |
-| HLN TV | cURL Error (28) | `http://23.237.104.106:8080/USA_HLN/index.m3u8` |
-| Hallmark Channel | cURL Error (28) | `http://23.237.104.106:8080/USA_HALLMARK/index.m3u8` |
+| Hallmark Channel | HTTP Error (404) | `http://23.237.104.106:8080/USA_HALLMARK/index.m3u8` |
 | Hallmark Family | cURL Error (28) | `http://206.212.244.63/85/index.m3u8` |
 | Hallmark Mystery | cURL Error (28) | `http://206.212.244.63/86/index.m3u8` |
 | History Channel | cURL Error (28) | `http://206.212.244.63/91/index.m3u8` |
@@ -75,38 +62,32 @@
 | ION TV | cURL Error (28) | `http://206.212.244.63/99/index.m3u8` |
 | ITV1 | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/527497.ts` |
 | Investigation Discovery | HTTP Error (404) | `http://40.160.24.53/INVESTIGATION_DISCOVERY/index.m3u8` |
-| Lifetime Movie Network | cURL Error (28) | `http://23.237.104.106:8080/USA_LMN/index.m3u8` |
+| Lifetime Movie Network | HTTP Error (404) | `http://23.237.104.106:8080/USA_LMN/index.m3u8` |
 | MLB Network | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3661.ts` |
-| MSG | cURL Error (28) | `http://23.237.104.106:8080/USA_MSG/index.m3u8` |
+| MSG | HTTP Error (404) | `http://23.237.104.106:8080/USA_MSG/index.m3u8` |
 | MSNBC | cURL Error (28) | `http://206.212.244.63/114/index.m3u8` |
-| MTV | cURL Error (28) | `http://23.237.104.106:8080/USA_MTV/index.m3u8` |
 | Marquee Sports Network | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/55178.ts` |
 | MotorTrend TV | cURL Error (28) | `http://206.212.244.63/113/index.m3u8` |
-| NBA TV | cURL Error (28) | `http://23.237.104.106:8080/USA_NBA/tracks-v1a1/mono.m3u8` |
 | NBC Sports Bay Area | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2436.ts` |
 | NBC Sports Boston | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2435.ts` |
 | NBC Sports California | cURL Error (28) | `http://stream.cammonitorplus.net/1795/index.m3u8` |
 | NBC Sports Philadelphia | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3769.ts` |
 | NBC | cURL Error (28) | `http://stream.cammonitorplus.net/1812/index.m3u8` |
 | NESN | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/149310.ts` |
-| NFL Network | cURL Error (28) | `http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8` |
+| NFL Network | HTTP Error (404) | `http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8` |
 | NHL Network | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3672.ts` |
 | Nat Geo Wild | cURL Error (28) | `http://206.212.244.63/123/index.m3u8` |
-| Nat Geo | cURL Error (28) | `http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8` |
 | NewsNation | cURL Error (28) | `http://206.212.244.63/129/index.m3u8` |
 | Newsmax TV | cURL Error (28) | `http://206.212.244.63/128/index.m3u8` |
 | Nick Jr | HTTP Error (404) | `http://40.160.24.55/NICK_JR/index.m3u8` |
-| Nickelodeon | cURL Error (28) | `http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8` |
+| Nickelodeon | HTTP Error (404) | `http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8` |
 | Nicktoons | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3674.ts` |
-| Outdoor Channel | cURL Error (28) | `http://23.237.104.106:8080/USA_OUTDOOR/mpegts` |
 | Ovation | cURL Error (28) | `http://206.212.244.63/134/index.m3u8` |
 | Oxygen | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3756.ts` |
-| Paramount Network | cURL Error (28) | `http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8` |
 | Pop TV | cURL Error (28) | `http://206.212.244.63/139/index.m3u8` |
 | Premier Sports 1 | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/89089.ts` |
 | Premier Sports 2 | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/89090.ts` |
-| Reelz Channel | cURL Error (28) | `http://23.237.104.106:8080/USA_REELZ/index.m3u8` |
-| SEC Network | cURL Error (28) | `http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8` |
+| Reelz Channel | HTTP Error (404) | `http://23.237.104.106:8080/USA_REELZ/index.m3u8` |
 | STV | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2168.ts` |
 | Showtime Extreme | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648984.ts` |
 | Showtime | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2416.ts` |
@@ -123,8 +104,7 @@
 | Sportsnet East | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3072.ts` |
 | Sportsnet One | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3071.ts` |
 | Starz Encore Classic | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3953.ts` |
-| Starz | cURL Error (28) | `http://23.237.104.106:8080/USA_STARZ/index.m3u8` |
-| Syfy | cURL Error (28) | `http://23.237.104.106:8080/USA_SYFY/index.m3u8` |
+| Starz | HTTP Error (404) | `http://23.237.104.106:8080/USA_STARZ/index.m3u8` |
 | TLC | cURL Error (28) | `http://206.212.244.63/159/index.m3u8` |
 | TSN1 | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3146.ts` |
 | TSN2 | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3145.ts` |
@@ -133,12 +113,7 @@
 | Telemundo | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2401.ts` |
 | The Weather Channel | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/42308.ts` |
 | USA Network | cURL Error (28) | `http://206.212.244.63/168/index.m3u8` |
-| VH1 | cURL Error (28) | `http://23.237.104.106:8080/USA_VH1/index.m3u8` |
-| Vice TV | cURL Error (28) | `http://23.237.104.106:8080/USA_VICETV/index.m3u8` |
-| We Tv | cURL Error (28) | `http://23.237.104.106:8080/USA_WE_TV/index.m3u8` |
 | Willow Cricket | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3972.ts` |
-| YES Network | cURL Error (28) | `http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8` |
-| beIN Sports 1 | HTTP Error (403) | `https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8` |
 | getTV | cURL Error (28) | `http://206.212.244.63/80/index.m3u8` |
 ---
 #### Base Channels URL
