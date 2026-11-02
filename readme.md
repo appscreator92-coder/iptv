@@ -1,6 +1,6 @@
-## Base Log @ 2026-11-01 23:46 UTC
+## Base Log @ 2026-11-02 18:41 UTC
 
-### ✅ Working Streams: 39<br>❌ Dead Streams: 113
+### ✅ Working Streams: 37<br>❌ Dead Streams: 115
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -13,6 +13,7 @@
 | BBC One | HTTP Error (403) | `http://193.239.186.231/BBC1/index.m3u8` |
 | BET | cURL Error (28) | `http://206.212.244.63/16/index.m3u8` |
 | Bravo TV | cURL Error (28) | `http://206.212.244.63/26/index.m3u8` |
+| Buzzr | HTTP Error (403) | `https://buzzrota-web.amagi.tv/playlist.m3u8` |
 | C-SPAN | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/92792.ts` |
 | CBS Sports Golazo Network | HTTP Error (404) | `https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8` |
 | CBS Sports Network | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3621.ts` |
@@ -72,6 +73,7 @@
 | NBC Sports Bay Area | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2436.ts` |
 | NBC Sports Boston | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2435.ts` |
 | NBC Sports California | cURL Error (28) | `http://stream.cammonitorplus.net/1795/index.m3u8` |
+| NBC Sports NOW | HTTP Error (403) | `https://jmp2.uk/stvp-USBD420002446` |
 | NBC Sports Philadelphia | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3769.ts` |
 | NBC | cURL Error (28) | `http://stream.cammonitorplus.net/1812/index.m3u8` |
 | NESN | HTTP Error (401) | `http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/149310.ts` |
